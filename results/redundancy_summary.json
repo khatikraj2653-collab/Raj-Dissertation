@@ -1,0 +1,19 @@
+{
+  "correlation_redundancy": {
+    "total_indicator_pairs": 2278,
+    "pairs_abs_corr_gt_0.98": 1130,
+    "pct_pairs_abs_corr_gt_0.98": 49.6,
+    "mean_abs_pairwise_correlation": 0.898
+  },
+  "pca_full_68_indicators": {
+    "n_components": 2,
+    "preprocessing": "Yeo-Johnson PowerTransformer + StandardScaler",
+    "explained_variance_ratio_sum": 0.8165
+  },
+  "duplicate_feature_vectors_reduced_7": {
+    "definition": "rows beyond first occurrence of each unique feature vector (duplicated(keep='first'))",
+    "n_rows": 25412,
+    "n_excess_duplicates": 5897,
+    "pct_excess_duplicates": 23.2
+  }
+}

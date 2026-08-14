@@ -1,0 +1,33 @@
+{
+  "run_timestamp": "2026-08-03T04:02:14.516821",
+  "models_compared": {
+    "gpt": "gpt-4o-mini",
+    "claude": "claude-haiku-4-5-20251001"
+  },
+  "sample_size": 100,
+  "task": "structured field extraction from LCA activity descriptions",
+  "gpt_results": {
+    "total_cases": 100,
+    "parse_failures": 0,
+    "field_accuracy_pct": {
+      "activity_name": 99.0,
+      "geography": 100.0,
+      "reference_product_name": 99.0,
+      "reference_product_unit": 88.0
+    },
+    "overall_exact_match_pct": 87.0,
+    "exact_match_count": 87
+  },
+  "claude_results": {
+    "total_cases": 100,
+    "parse_failures": 0,
+    "field_accuracy_pct": {
+      "activity_name": 100.0,
+      "geography": 100.0,
+      "reference_product_name": 100.0,
+      "reference_product_unit": 100.0
+    },
+    "overall_exact_match_pct": 100.0,
+    "exact_match_count": 100
+  }
+}

@@ -1,0 +1,119 @@
+--- Cluster 0 (n=17070) ---
+Example activities: ['1,1-dimethylcyclopentane to generic market for solvent, organic', '1,3-dichloropropene to generic market for pesticide, unspecified', '1-methylcyclopropene production']
+Elevated indicators (relative to dataset average):
+  climate change: biogenic removals (incl. CO2) no LT: global warming potential (GWP100) no LT [IPCC 2021 (incl. biogenic CO2) no LT]: z=+0.02
+  climate change: biogenic removals (incl. CO2): global warming potential (GWP100) [IPCC 2021 (incl. biogenic CO2)]: z=+0.02
+  climate change: removals from direct land use change no LT: global warming potential (GWP100) no LT [IPCC 2021 no LT]: z=+0.01
+  climate change: removals from direct land use change: global warming potential (GWP100) [IPCC 2021]: z=+0.01
+  climate change: biogenic (incl. CO2) no LT: global warming potential (GWP100) no LT [IPCC 2021 (incl. biogenic CO2) no LT]: z=+0.00
+Depressed indicators (relative to dataset average):
+  climate change: fossil (excl. biogenic CO2, incl. SLCFs): global warming potential (GWP100) [IPCC 2021]: z=-0.02
+  climate change no LT: global warming potential (GWP20) no LT [IPCC 2013 no LT]: z=-0.02
+  climate change: global warming potential (GWP20) [IPCC 2013]: z=-0.02
+  climate change: aircraft emissions no LT: global warming potential (GWP100) no LT [IPCC 2021 no LT]: z=-0.04
+  climate change: aircraft emissions: global warming potential (GWP100) [IPCC 2021]: z=-0.04
+
+--- Cluster 1 (n=12) ---
+Example activities: ['land use change, forest, intensive', 'land use change, perennial crop', 'market for land use change, forest, intensive']
+Elevated indicators (relative to dataset average):
+  climate change: biogenic removals (incl. CO2) no LT: global warming potential (GWP100) no LT [IPCC 2021 (incl. biogenic CO2) no LT]: z=+0.02
+  climate change: biogenic removals (incl. CO2): global warming potential (GWP100) [IPCC 2021 (incl. biogenic CO2)]: z=+0.02
+  climate change: biogenic (incl. CO2): global warming potential (GWP100) [IPCC 2021 (incl. biogenic CO2)]: z=+0.00
+  climate change: biogenic (incl. CO2) no LT: global warming potential (GWP100) no LT [IPCC 2021 (incl. biogenic CO2) no LT]: z=+0.00
+  climate change: emissions from direct land use change no LT: global warming potential (GWP100) no LT [IPCC 2021 no LT]: z=-0.02
+Depressed indicators (relative to dataset average):
+  climate change: direct land use change (incl. SLCFs) no LT: global warming potential (GWP100) no LT [IPCC 2021 no LT]: z=-0.02
+  climate change: aircraft emissions no LT: global warming potential (GWP100) no LT [IPCC 2021 no LT]: z=-0.04
+  climate change: aircraft emissions: global warming potential (GWP100) [IPCC 2021]: z=-0.04
+  climate change: removals from direct land use change no LT: global warming potential (GWP100) no LT [IPCC 2021 no LT]: z=-0.17
+  climate change: removals from direct land use change: global warming potential (GWP100) [IPCC 2021]: z=-0.17
+
+--- Cluster 2 (n=1972) ---
+Example activities: ['absorption chiller production, 100kW', 'air compressor production, screw-type compressor, 300kW', 'air compressor production, screw-type compressor, 4kW']
+Elevated indicators (relative to dataset average):
+  climate change: biogenic removals (incl. CO2) no LT: global warming potential (GWP100) no LT [IPCC 2021 (incl. biogenic CO2) no LT]: z=+0.02
+  climate change: biogenic removals (incl. CO2): global warming potential (GWP100) [IPCC 2021 (incl. biogenic CO2)]: z=+0.02
+  climate change: removals from direct land use change no LT: global warming potential (GWP100) no LT [IPCC 2021 no LT]: z=+0.01
+  climate change: removals from direct land use change: global warming potential (GWP100) [IPCC 2021]: z=+0.01
+  climate change: biogenic (incl. CO2) no LT: global warming potential (GWP100) no LT [IPCC 2021 (incl. biogenic CO2) no LT]: z=+0.00
+Depressed indicators (relative to dataset average):
+  climate change: fossil (excl. biogenic CO2, incl. SLCFs): global warming potential (GWP100) [IPCC 2021]: z=-0.02
+  climate change no LT: global warming potential (GWP20) no LT [IPCC 2013 no LT]: z=-0.02
+  climate change: global warming potential (GWP20) [IPCC 2013]: z=-0.02
+  climate change: aircraft emissions no LT: global warming potential (GWP100) no LT [IPCC 2021 no LT]: z=-0.04
+  climate change: aircraft emissions: global warming potential (GWP100) [IPCC 2021]: z=-0.04
+
+--- Cluster 3 (n=3) ---
+Example activities: ['market for port facilities', 'port facilities construction']
+Elevated indicators (relative to dataset average):
+  climate change: biogenic (excl. CO2, incl. SLCFs): global warming potential (GWP100) [IPCC 2021]: z=+88.93
+  climate change: biogenic (excl. CO2, incl. SLCFs) no LT: global warming potential (GWP100) no LT [IPCC 2021 no LT]: z=+88.93
+  climate change: land use and land use change no LT: global warming potential (GWP100) no LT [EF v3.1 no LT]: z=+88.88
+  climate change: direct land use change no LT: global warming potential (GWP100) no LT [IPCC 2021 no LT]: z=+88.88
+  climate change: direct land use change: global warming potential (GWP100) [IPCC 2021]: z=+88.88
+Depressed indicators (relative to dataset average):
+  climate change: biogenic (incl. CO2) no LT: global warming potential (GWP100) no LT [IPCC 2021 (incl. biogenic CO2) no LT]: z=+41.62
+  climate change: biogenic removals (incl. CO2) no LT: global warming potential (GWP100) no LT [IPCC 2021 (incl. biogenic CO2) no LT]: z=-69.02
+  climate change: biogenic removals (incl. CO2): global warming potential (GWP100) [IPCC 2021 (incl. biogenic CO2)]: z=-69.02
+  climate change: removals from direct land use change no LT: global warming potential (GWP100) no LT [IPCC 2021 no LT]: z=-73.68
+  climate change: removals from direct land use change: global warming potential (GWP100) [IPCC 2021]: z=-73.68
+
+--- Cluster 4 (n=548) ---
+Example activities: ['air separation facility construction', 'aircraft production, belly-freight aircraft, long haul', 'aircraft production, belly-freight aircraft, medium haul']
+Elevated indicators (relative to dataset average):
+  climate change: aircraft emissions: global warming potential (GWP100) [IPCC 2021]: z=+0.74
+  climate change: aircraft emissions no LT: global warming potential (GWP100) no LT [IPCC 2021 no LT]: z=+0.74
+  climate change: biogenic (excl. CO2, incl. SLCFs) no LT: global warming potential (GWP100) no LT [IPCC 2021 no LT]: z=+0.14
+  climate change: biogenic (excl. CO2, incl. SLCFs): global warming potential (GWP100) [IPCC 2021]: z=+0.14
+  climate change: biogenic: global warming potential (GWP100) [EF v3.1]: z=+0.13
+Depressed indicators (relative to dataset average):
+  climate change: removals from direct land use change: global warming potential (GWP100) [IPCC 2021]: z=-0.02
+  climate change: biogenic (incl. CO2): global warming potential (GWP100) [IPCC 2021 (incl. biogenic CO2)]: z=-0.09
+  climate change: biogenic (incl. CO2) no LT: global warming potential (GWP100) no LT [IPCC 2021 (incl. biogenic CO2) no LT]: z=-0.09
+  climate change: biogenic removals (incl. CO2) no LT: global warming potential (GWP100) no LT [IPCC 2021 (incl. biogenic CO2) no LT]: z=-0.11
+  climate change: biogenic removals (incl. CO2): global warming potential (GWP100) [IPCC 2021 (incl. biogenic CO2)]: z=-0.11
+
+--- Cluster 5 (n=5766) ---
+Example activities: ['1,1-difluoroethane production', '1,4-butanediol production', '1-methoxy-2-propanol production']
+Elevated indicators (relative to dataset average):
+  climate change: biogenic removals (incl. CO2) no LT: global warming potential (GWP100) no LT [IPCC 2021 (incl. biogenic CO2) no LT]: z=+0.02
+  climate change: biogenic removals (incl. CO2): global warming potential (GWP100) [IPCC 2021 (incl. biogenic CO2)]: z=+0.02
+  climate change: removals from direct land use change no LT: global warming potential (GWP100) no LT [IPCC 2021 no LT]: z=+0.01
+  climate change: removals from direct land use change: global warming potential (GWP100) [IPCC 2021]: z=+0.01
+  climate change: biogenic (incl. CO2) no LT: global warming potential (GWP100) no LT [IPCC 2021 (incl. biogenic CO2) no LT]: z=+0.00
+Depressed indicators (relative to dataset average):
+  climate change: fossil (excl. biogenic CO2, incl. SLCFs): global warming potential (GWP100) [IPCC 2021]: z=-0.02
+  climate change no LT: global warming potential (GWP20) no LT [IPCC 2013 no LT]: z=-0.02
+  climate change: global warming potential (GWP20) [IPCC 2013]: z=-0.02
+  climate change: aircraft emissions no LT: global warming potential (GWP100) no LT [IPCC 2021 no LT]: z=-0.04
+  climate change: aircraft emissions: global warming potential (GWP100) [IPCC 2021]: z=-0.04
+
+--- Cluster 6 (n=19) ---
+Example activities: ['airport construction', 'hydropower plant construction, reservoir', 'hydropower plant construction, reservoir, alpine region']
+Elevated indicators (relative to dataset average):
+  climate change: aircraft emissions: global warming potential (GWP100) [IPCC 2021]: z=+19.82
+  climate change: aircraft emissions no LT: global warming potential (GWP100) no LT [IPCC 2021 no LT]: z=+19.82
+  climate change no LT: global temperature change potential (GTP100) no LT [IPCC 2013 no LT]: z=+10.77
+  climate change: global temperature change potential (GTP100) [IPCC 2013]: z=+10.77
+  climate change: fossil (excl. biogenic CO2, incl. SLCFs) no LT: global warming potential (GWP100) no LT [IPCC 2021 no LT]: z=+10.75
+Depressed indicators (relative to dataset average):
+  climate change: removals from direct land use change: global warming potential (GWP100) [IPCC 2021]: z=-2.81
+  climate change: biogenic (incl. CO2): global warming potential (GWP100) [IPCC 2021 (incl. biogenic CO2)]: z=-7.04
+  climate change: biogenic (incl. CO2) no LT: global warming potential (GWP100) no LT [IPCC 2021 (incl. biogenic CO2) no LT]: z=-7.04
+  climate change: biogenic removals (incl. CO2) no LT: global warming potential (GWP100) no LT [IPCC 2021 (incl. biogenic CO2) no LT]: z=-10.05
+  climate change: biogenic removals (incl. CO2): global warming potential (GWP100) [IPCC 2021 (incl. biogenic CO2)]: z=-10.05
+
+--- Cluster 7 (n=22) ---
+Example activities: ['land use change, forest, intensive', 'land use change, perennial crop', 'market for land use change, forest, intensive']
+Elevated indicators (relative to dataset average):
+  climate change: biogenic removals (incl. CO2) no LT: global warming potential (GWP100) no LT [IPCC 2021 (incl. biogenic CO2) no LT]: z=+0.02
+  climate change: biogenic removals (incl. CO2): global warming potential (GWP100) [IPCC 2021 (incl. biogenic CO2)]: z=+0.02
+  climate change: biogenic (incl. CO2): global warming potential (GWP100) [IPCC 2021 (incl. biogenic CO2)]: z=+0.00
+  climate change: biogenic (incl. CO2) no LT: global warming potential (GWP100) no LT [IPCC 2021 (incl. biogenic CO2) no LT]: z=+0.00
+  climate change: emissions from direct land use change no LT: global warming potential (GWP100) no LT [IPCC 2021 no LT]: z=-0.02
+Depressed indicators (relative to dataset average):
+  climate change: global warming potential (GWP20) [IPCC 2013]: z=-0.02
+  climate change: aircraft emissions no LT: global warming potential (GWP100) no LT [IPCC 2021 no LT]: z=-0.04
+  climate change: aircraft emissions: global warming potential (GWP100) [IPCC 2021]: z=-0.04
+  climate change: removals from direct land use change no LT: global warming potential (GWP100) no LT [IPCC 2021 no LT]: z=-0.09
+  climate change: removals from direct land use change: global warming potential (GWP100) [IPCC 2021]: z=-0.09

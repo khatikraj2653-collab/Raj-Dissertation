@@ -1,0 +1,2652 @@
+{
+  "0": {
+    "id": 0,
+    "activity_uuid": "27ca5832-0c3c-5733-874e-9cd4d7e44392_aafac89e-9933-4423-a072-6e4aeed31cd5",
+    "description": "An industrial process record describes operations related to market for deep drawing, steel, 650 kn press, single stroke. This process is documented as taking place in worldwide. The output of this process, when measured, comes to 1 units (specifically kg) of a product known as deep drawing, steel, 650 kn press, single stroke. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "market for deep drawing, steel, 650 kN press, single stroke",
+      "geography": "GLO",
+      "reference_product_name": "deep drawing, steel, 650 kN press, single stroke",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"market for deep drawing, steel, 650 kn press, single stroke\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"deep drawing, steel, 650 kn press, single stroke\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "market for deep drawing, steel, 650 kn press, single stroke",
+      "geography": "GLO",
+      "reference_product_name": "deep drawing, steel, 650 kn press, single stroke",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"deep drawing, steel, 650 kN press, single stroke\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"deep drawing, steel, 650 kN press, single stroke\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "deep drawing, steel, 650 kN press, single stroke",
+      "geography": "GLO",
+      "reference_product_name": "deep drawing, steel, 650 kN press, single stroke",
+      "reference_product_unit": "kg"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"market for deep drawing, steel, 650 kN press, single stroke\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"deep drawing, steel, 650 kN press, single stroke\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "market for deep drawing, steel, 650 kN press, single stroke",
+      "geography": "GLO",
+      "reference_product_name": "deep drawing, steel, 650 kN press, single stroke",
+      "reference_product_unit": "kg"
+    },
+    "gemini_raw": "```json\n{\n  \"activity_name\": \"market for deep drawing, steel, 650 kN press, single stroke\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"deep drawing, steel, 650 kN press, single stroke\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "gemini_parsed": {
+      "activity_name": "market for deep drawing, steel, 650 kN press, single stroke",
+      "geography": "GLO",
+      "reference_product_name": "deep drawing, steel, 650 kN press, single stroke",
+      "reference_product_unit": "kg"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"market for deep drawing, steel, 650 kn press, single stroke\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"deep drawing, steel, 650 kn press, single stroke\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "llama_parsed": {
+      "activity_name": "market for deep drawing, steel, 650 kn press, single stroke",
+      "geography": "GLO",
+      "reference_product_name": "deep drawing, steel, 650 kn press, single stroke",
+      "reference_product_unit": "kg"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"market for deep drawing, steel, 650 kN press, single stroke\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"deep drawing, steel, 650 kN press, single stroke\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "market for deep drawing, steel, 650 kN press, single stroke",
+      "geography": "GLO",
+      "reference_product_name": "deep drawing, steel, 650 kN press, single stroke",
+      "reference_product_unit": "kg"
+    }
+  },
+  "1": {
+    "id": 1,
+    "activity_uuid": "91dc1d75-01be-5bb3-9910-8c4335ad021c_7694e67a-7f11-53b2-97fa-9526154d614c",
+    "description": "An industrial process record describes operations related to market for calcium ammonium nitrate. This process is documented as taking place in the European region. The output of this process, when measured, comes to 1 units (specifically kg) of a product known as calcium ammonium nitrate. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "market for calcium ammonium nitrate",
+      "geography": "RER",
+      "reference_product_name": "calcium ammonium nitrate",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"market for calcium ammonium nitrate\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"calcium ammonium nitrate\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "market for calcium ammonium nitrate",
+      "geography": "RER",
+      "reference_product_name": "calcium ammonium nitrate",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"calcium ammonium nitrate production\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"calcium ammonium nitrate\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "calcium ammonium nitrate production",
+      "geography": "RER",
+      "reference_product_name": "calcium ammonium nitrate",
+      "reference_product_unit": "kg"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"market for calcium ammonium nitrate\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"calcium ammonium nitrate\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "market for calcium ammonium nitrate",
+      "geography": "RER",
+      "reference_product_name": "calcium ammonium nitrate",
+      "reference_product_unit": "kg"
+    },
+    "gemini_raw": "```json\n{\n  \"activity_name\": \"market for calcium ammonium nitrate\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"calcium ammonium nitrate\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "gemini_parsed": {
+      "activity_name": "market for calcium ammonium nitrate",
+      "geography": "RER",
+      "reference_product_name": "calcium ammonium nitrate",
+      "reference_product_unit": "kg"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"market for calcium ammonium nitrate\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"calcium ammonium nitrate\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "llama_parsed": {
+      "activity_name": "market for calcium ammonium nitrate",
+      "geography": "RER",
+      "reference_product_name": "calcium ammonium nitrate",
+      "reference_product_unit": "kg"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"market for calcium ammonium nitrate\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"calcium ammonium nitrate\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "market for calcium ammonium nitrate",
+      "geography": "RER",
+      "reference_product_name": "calcium ammonium nitrate",
+      "reference_product_unit": "kg"
+    }
+  },
+  "2": {
+    "id": 2,
+    "activity_uuid": "97cec1b1-463f-596d-b1e6-d21dd5cab69c_509d86bc-f250-5433-9488-7e11fe84fcef",
+    "description": "An industrial process record describes operations related to synthesis gas production, from natural gas, with a 1 to 1 molar ratio. This process is documented as taking place in the European region. The output of this process, when measured, comes to 1 units (specifically kg) of a product known as synthesis gas, 1 to 1. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "synthesis gas production, from natural gas, with a 1 to 1 molar ratio",
+      "geography": "RER",
+      "reference_product_name": "synthesis gas, 1 to 1",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"Synthesis gas production from natural gas\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"Synthesis gas, 1 to 1\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "Synthesis gas production from natural gas",
+      "geography": "RER",
+      "reference_product_name": "Synthesis gas, 1 to 1",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"synthesis gas production from natural gas\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"synthesis gas\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "synthesis gas production from natural gas",
+      "geography": "RER",
+      "reference_product_name": "synthesis gas",
+      "reference_product_unit": "kg"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"synthesis gas production, from natural gas, 1:1\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"synthesis gas, 1:1\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "synthesis gas production, from natural gas, 1:1",
+      "geography": "RER",
+      "reference_product_name": "synthesis gas, 1:1",
+      "reference_product_unit": "kg"
+    },
+    "gemini_raw": "```json\n{\n  \"activity_name\": \"synthesis gas production, from natural gas, 1 to 1\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"synthesis gas, 1 to 1\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "gemini_parsed": {
+      "activity_name": "synthesis gas production, from natural gas, 1 to 1",
+      "geography": "RER",
+      "reference_product_name": "synthesis gas, 1 to 1",
+      "reference_product_unit": "kg"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"synthesis gas production, from natural gas\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"synthesis gas\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "llama_parsed": {
+      "activity_name": "synthesis gas production, from natural gas",
+      "geography": "RER",
+      "reference_product_name": "synthesis gas",
+      "reference_product_unit": "kg"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"Synthesis gas production, from natural gas, 1:1 molar ratio\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"Synthesis gas\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "Synthesis gas production, from natural gas, 1:1 molar ratio",
+      "geography": "RER",
+      "reference_product_name": "Synthesis gas",
+      "reference_product_unit": "kg"
+    }
+  },
+  "3": {
+    "id": 3,
+    "activity_uuid": "0914b883-bf86-55b6-8d16-999a3e751083_66f18588-4db0-4060-89cc-d6841a0b5dac",
+    "description": "An industrial process record describes operations related to photovoltaic module production, building-integrated, for slanted-roof installation. This process is documented as taking place in the European region. The output of this process, when measured, comes to 1 units (specifically m2) of a product known as photovoltaic module, building-integrated, for slanted-roof installation. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "photovoltaic module production, building-integrated, for slanted-roof installation",
+      "geography": "RER",
+      "reference_product_name": "photovoltaic module, building-integrated, for slanted-roof installation",
+      "reference_product_unit": "m2"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"Photovoltaic module, building-integrated, for slanted-roof installation\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"Photovoltaic module, building-integrated, for slanted-roof installation\",\n  \"reference_product_unit\": \"m2\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "Photovoltaic module, building-integrated, for slanted-roof installation",
+      "geography": "RER",
+      "reference_product_name": "Photovoltaic module, building-integrated, for slanted-roof installation",
+      "reference_product_unit": "m2"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"Photovoltaic module production, building-integrated, for slanted-roof installation\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"Photovoltaic module, building-integrated, for slanted-roof installation\",\n  \"reference_product_unit\": \"m2\"\n}",
+    "gpt_parsed": {
+      "activity_name": "Photovoltaic module production, building-integrated, for slanted-roof installation",
+      "geography": "RER",
+      "reference_product_name": "Photovoltaic module, building-integrated, for slanted-roof installation",
+      "reference_product_unit": "m2"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"photovoltaic module production, building-integrated, for slanted-roof installation\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"photovoltaic module, building-integrated, for slanted-roof installation\",\n  \"reference_product_unit\": \"m2\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "photovoltaic module production, building-integrated, for slanted-roof installation",
+      "geography": "RER",
+      "reference_product_name": "photovoltaic module, building-integrated, for slanted-roof installation",
+      "reference_product_unit": "m2"
+    },
+    "gemini_raw": "```json\n{\n  \"activity_name\": \"photovoltaic module production, building-integrated, for slanted-roof installation\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"photovoltaic module, building-integrated, for slanted-roof installation\",\n  \"reference_product_unit\": \"m2\"\n}\n```",
+    "gemini_parsed": {
+      "activity_name": "photovoltaic module production, building-integrated, for slanted-roof installation",
+      "geography": "RER",
+      "reference_product_name": "photovoltaic module, building-integrated, for slanted-roof installation",
+      "reference_product_unit": "m2"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"photovoltaic module production, building-integrated, for slanted-roof installation\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"photovoltaic module, building-integrated, for slanted-roof installation\",\n  \"reference_product_unit\": \"m2\"\n}",
+    "llama_parsed": {
+      "activity_name": "photovoltaic module production, building-integrated, for slanted-roof installation",
+      "geography": "RER",
+      "reference_product_name": "photovoltaic module, building-integrated, for slanted-roof installation",
+      "reference_product_unit": "m2"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"photovoltaic module, building-integrated, for slanted-roof installation, production\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"photovoltaic module, building-integrated, for slanted-roof installation\",\n  \"reference_product_unit\": \"m2\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "photovoltaic module, building-integrated, for slanted-roof installation, production",
+      "geography": "RER",
+      "reference_product_name": "photovoltaic module, building-integrated, for slanted-roof installation",
+      "reference_product_unit": "m2"
+    }
+  },
+  "4": {
+    "id": 4,
+    "activity_uuid": "ed9ff419-df69-5b80-bc70-3f109fc7d77a_759b89bd-3aa6-42ad-b767-5bb9ef5d331d",
+    "description": "An industrial process record describes operations related to market for electricity, medium voltage. This process is documented as taking place in the region coded LK. The output of this process, when measured, comes to 1 units (specifically kWh) of a product known as electricity, medium voltage. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "market for electricity, medium voltage",
+      "geography": "LK",
+      "reference_product_name": "electricity, medium voltage",
+      "reference_product_unit": "kWh"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"market for electricity, medium voltage\",\n  \"geography\": \"LK\",\n  \"reference_product_name\": \"electricity, medium voltage\",\n  \"reference_product_unit\": \"kWh\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "market for electricity, medium voltage",
+      "geography": "LK",
+      "reference_product_name": "electricity, medium voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"electricity, medium voltage production\",\n  \"geography\": \"LK\",\n  \"reference_product_name\": \"electricity, medium voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gpt_parsed": {
+      "activity_name": "electricity, medium voltage production",
+      "geography": "LK",
+      "reference_product_name": "electricity, medium voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"market for electricity, medium voltage\",\n  \"geography\": \"LK\",\n  \"reference_product_name\": \"electricity, medium voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "market for electricity, medium voltage",
+      "geography": "LK",
+      "reference_product_name": "electricity, medium voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gemini_raw": "```json\n{\n  \"activity_name\": \"market for electricity, medium voltage\",\n  \"geography\": \"LK\",\n  \"reference_product_name\": \"electricity, medium voltage\",\n  \"reference_product_unit\": \"kWh\"\n}\n```",
+    "gemini_parsed": {
+      "activity_name": "market for electricity, medium voltage",
+      "geography": "LK",
+      "reference_product_name": "electricity, medium voltage",
+      "reference_product_unit": "kWh"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"market for electricity, medium voltage\",\n  \"geography\": \"LK\",\n  \"reference_product_name\": \"electricity, medium voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "llama_parsed": {
+      "activity_name": "market for electricity, medium voltage",
+      "geography": "LK",
+      "reference_product_name": "electricity, medium voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"market for electricity, medium voltage\",\n  \"geography\": \"LK\",\n  \"reference_product_name\": \"electricity, medium voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "market for electricity, medium voltage",
+      "geography": "LK",
+      "reference_product_name": "electricity, medium voltage",
+      "reference_product_unit": "kWh"
+    }
+  },
+  "5": {
+    "id": 5,
+    "activity_uuid": "0d79a271-fd64-5f55-b32c-184ce512fabe_76a3d3ad-ff04-4894-bbc3-e9f450795ef4",
+    "description": "An industrial process record describes operations related to toluene diisocyanate production. This process is documented as taking place in the European region. The output of this process, when measured, comes to 1 units (specifically kg) of a product known as toluene diisocyanate. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "toluene diisocyanate production",
+      "geography": "RER",
+      "reference_product_name": "toluene diisocyanate",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"toluene diisocyanate production\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"toluene diisocyanate\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "toluene diisocyanate production",
+      "geography": "RER",
+      "reference_product_name": "toluene diisocyanate",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"toluene diisocyanate production\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"toluene diisocyanate\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "toluene diisocyanate production",
+      "geography": "RER",
+      "reference_product_name": "toluene diisocyanate",
+      "reference_product_unit": "kg"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"toluene diisocyanate production\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"toluene diisocyanate\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "toluene diisocyanate production",
+      "geography": "RER",
+      "reference_product_name": "toluene diisocyanate",
+      "reference_product_unit": "kg"
+    },
+    "gemini_raw": "{\n  \"activity_name\": \"toluene diisocyanate production\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"toluene diisocyanate\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gemini_parsed": {
+      "activity_name": "toluene diisocyanate production",
+      "geography": "RER",
+      "reference_product_name": "toluene diisocyanate",
+      "reference_product_unit": "kg"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"toluene diisocyanate production\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"toluene diisocyanate\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "llama_parsed": {
+      "activity_name": "toluene diisocyanate production",
+      "geography": "RER",
+      "reference_product_name": "toluene diisocyanate",
+      "reference_product_unit": "kg"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"Toluene diisocyanate production\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"toluene diisocyanate\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "Toluene diisocyanate production",
+      "geography": "RER",
+      "reference_product_name": "toluene diisocyanate",
+      "reference_product_unit": "kg"
+    }
+  },
+  "6": {
+    "id": 6,
+    "activity_uuid": "aca6498c-a624-5b95-a987-19dcd0fb2206_6abd94ee-c078-4163-8ba0-acbc45aa9423",
+    "description": "An industrial process record describes operations related to phosphoric acid factory construction, fertiliser grade. This process is documented as taking place in the rest of the world. The output of this process, when measured, comes to 1 units (specifically unit) of a product known as phosphoric acid factory, fertiliser grade. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "phosphoric acid factory construction, fertiliser grade",
+      "geography": "RoW",
+      "reference_product_name": "phosphoric acid factory, fertiliser grade",
+      "reference_product_unit": "unit"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"phosphoric acid factory construction, fertiliser grade\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"phosphoric acid factory, fertiliser grade\",\n  \"reference_product_unit\": \"unit\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "phosphoric acid factory construction, fertiliser grade",
+      "geography": "RoW",
+      "reference_product_name": "phosphoric acid factory, fertiliser grade",
+      "reference_product_unit": "unit"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"construction of phosphoric acid factory, fertiliser grade\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"phosphoric acid factory, fertiliser grade\",\n  \"reference_product_unit\": \"unit\"\n}",
+    "gpt_parsed": {
+      "activity_name": "construction of phosphoric acid factory, fertiliser grade",
+      "geography": "RoW",
+      "reference_product_name": "phosphoric acid factory, fertiliser grade",
+      "reference_product_unit": "unit"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"phosphoric acid factory construction, fertiliser grade\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"phosphoric acid factory, fertiliser grade\",\n  \"reference_product_unit\": \"unit\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "phosphoric acid factory construction, fertiliser grade",
+      "geography": "RoW",
+      "reference_product_name": "phosphoric acid factory, fertiliser grade",
+      "reference_product_unit": "unit"
+    },
+    "gemini_raw": "```json\n{\n  \"activity_name\": \"phosphoric acid factory construction, fertiliser grade\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"phosphoric acid factory, fertiliser grade\",\n  \"reference_product_unit\": \"unit\"\n}\n```",
+    "gemini_parsed": {
+      "activity_name": "phosphoric acid factory construction, fertiliser grade",
+      "geography": "RoW",
+      "reference_product_name": "phosphoric acid factory, fertiliser grade",
+      "reference_product_unit": "unit"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"phosphoric acid factory construction, fertiliser grade\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"phosphoric acid factory, fertiliser grade\",\n  \"reference_product_unit\": \"unit\"\n}",
+    "llama_parsed": {
+      "activity_name": "phosphoric acid factory construction, fertiliser grade",
+      "geography": "RoW",
+      "reference_product_name": "phosphoric acid factory, fertiliser grade",
+      "reference_product_unit": "unit"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"construction of phosphoric acid plant, fertiliser grade\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"phosphoric acid plant, fertiliser grade\",\n  \"reference_product_unit\": \"unit\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "construction of phosphoric acid plant, fertiliser grade",
+      "geography": "RoW",
+      "reference_product_name": "phosphoric acid plant, fertiliser grade",
+      "reference_product_unit": "unit"
+    }
+  },
+  "7": {
+    "id": 7,
+    "activity_uuid": "df976764-6e1b-5100-ae78-be2cfffaeb9a_1cf35746-90ec-4584-9226-c5b979d90cda",
+    "description": "An industrial process record describes operations related to waste paper sorting facility construction. This process is documented as taking place in the rest of the world. The output of this process, when measured, comes to 1 units (specifically unit) of a product known as waste paper sorting facility. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "waste paper sorting facility construction",
+      "geography": "RoW",
+      "reference_product_name": "waste paper sorting facility",
+      "reference_product_unit": "unit"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"waste paper sorting facility construction\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"waste paper sorting facility\",\n  \"reference_product_unit\": \"unit\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "waste paper sorting facility construction",
+      "geography": "RoW",
+      "reference_product_name": "waste paper sorting facility",
+      "reference_product_unit": "unit"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"construction of waste paper sorting facility\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"waste paper sorting facility\",\n  \"reference_product_unit\": \"unit\"\n}",
+    "gpt_parsed": {
+      "activity_name": "construction of waste paper sorting facility",
+      "geography": "RoW",
+      "reference_product_name": "waste paper sorting facility",
+      "reference_product_unit": "unit"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"waste paper sorting facility construction\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"waste paper sorting facility\",\n  \"reference_product_unit\": \"unit\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "waste paper sorting facility construction",
+      "geography": "RoW",
+      "reference_product_name": "waste paper sorting facility",
+      "reference_product_unit": "unit"
+    },
+    "gemini_raw": "```json\n{\n  \"activity_name\": \"waste paper sorting facility construction\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"waste paper sorting facility\",\n  \"reference_product_unit\": \"unit\"\n}\n```",
+    "gemini_parsed": {
+      "activity_name": "waste paper sorting facility construction",
+      "geography": "RoW",
+      "reference_product_name": "waste paper sorting facility",
+      "reference_product_unit": "unit"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"waste paper sorting facility construction\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"waste paper sorting facility\",\n  \"reference_product_unit\": \"unit\"\n}",
+    "llama_parsed": {
+      "activity_name": "waste paper sorting facility construction",
+      "geography": "RoW",
+      "reference_product_name": "waste paper sorting facility",
+      "reference_product_unit": "unit"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"construction of waste paper sorting facility\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"waste paper sorting facility\",\n  \"reference_product_unit\": \"unit\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "construction of waste paper sorting facility",
+      "geography": "RoW",
+      "reference_product_name": "waste paper sorting facility",
+      "reference_product_unit": "unit"
+    }
+  },
+  "8": {
+    "id": 8,
+    "activity_uuid": "07bed671-993c-54f2-91b0-569036dcf96f_6e57739e-8655-4d87-8324-11ed616e3048",
+    "description": "An industrial process record describes operations related to transport, pipeline, long distance, natural gas. This process is documented as taking place in the region coded NL. The output of this process, when measured, comes to 1 units (specifically metric ton*km) of a product known as transport, pipeline, long distance, natural gas. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "transport, pipeline, long distance, natural gas",
+      "geography": "NL",
+      "reference_product_name": "transport, pipeline, long distance, natural gas",
+      "reference_product_unit": "metric ton*km"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"transport, pipeline, long distance, natural gas\",\n  \"geography\": \"NL\",\n  \"reference_product_name\": \"transport, pipeline, long distance, natural gas\",\n  \"reference_product_unit\": \"metric ton*km\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "transport, pipeline, long distance, natural gas",
+      "geography": "NL",
+      "reference_product_name": "transport, pipeline, long distance, natural gas",
+      "reference_product_unit": "metric ton*km"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"transport, pipeline, long distance, natural gas\",\n  \"geography\": \"NL\",\n  \"reference_product_name\": \"transport, pipeline, long distance, natural gas\",\n  \"reference_product_unit\": \"metric ton*km\"\n}",
+    "gpt_parsed": {
+      "activity_name": "transport, pipeline, long distance, natural gas",
+      "geography": "NL",
+      "reference_product_name": "transport, pipeline, long distance, natural gas",
+      "reference_product_unit": "metric ton*km"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"transport, pipeline, long distance, natural gas\",\n  \"geography\": \"NL\",\n  \"reference_product_name\": \"transport, pipeline, long distance, natural gas\",\n  \"reference_product_unit\": \"ton kilometer\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "transport, pipeline, long distance, natural gas",
+      "geography": "NL",
+      "reference_product_name": "transport, pipeline, long distance, natural gas",
+      "reference_product_unit": "ton kilometer"
+    },
+    "gemini_raw": "```json\n{\n  \"activity_name\": \"transport, pipeline, long distance, natural gas\",\n  \"geography\": \"NL\",\n  \"reference_product_name\": \"transport, pipeline, long distance, natural gas\",\n  \"reference_product_unit\": \"metric ton*km\"\n}\n```",
+    "gemini_parsed": {
+      "activity_name": "transport, pipeline, long distance, natural gas",
+      "geography": "NL",
+      "reference_product_name": "transport, pipeline, long distance, natural gas",
+      "reference_product_unit": "metric ton*km"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"transport, pipeline, long distance, natural gas\",\n  \"geography\": \"NL\",\n  \"reference_product_name\": \"transport, pipeline, long distance, natural gas\",\n  \"reference_product_unit\": \"metric ton*km\"\n}",
+    "llama_parsed": {
+      "activity_name": "transport, pipeline, long distance, natural gas",
+      "geography": "NL",
+      "reference_product_name": "transport, pipeline, long distance, natural gas",
+      "reference_product_unit": "metric ton*km"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"transport, pipeline, long distance, natural gas\",\n  \"geography\": \"NL\",\n  \"reference_product_name\": \"transport, pipeline, long distance, natural gas\",\n  \"reference_product_unit\": \"ton*km\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "transport, pipeline, long distance, natural gas",
+      "geography": "NL",
+      "reference_product_name": "transport, pipeline, long distance, natural gas",
+      "reference_product_unit": "ton*km"
+    }
+  },
+  "9": {
+    "id": 9,
+    "activity_uuid": "3d7064ff-d21f-5f9d-b897-a6fc29103abd_c0a7ba59-f9b5-45b5-8e1d-6e4e40ba86df",
+    "description": "An industrial process record describes operations related to transport, freight, lorry, 3.5-7.5 metric ton, diesel, euro 3. This process is documented as taking place in the rest of the world. The output of this process, when measured, comes to 1 units (specifically metric ton*km) of a product known as transport, freight, lorry, 3.5-7.5 metric ton, diesel, euro 3. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "transport, freight, lorry, 3.5-7.5 metric ton, diesel, EURO 3",
+      "geography": "RoW",
+      "reference_product_name": "transport, freight, lorry, 3.5-7.5 metric ton, diesel, EURO 3",
+      "reference_product_unit": "metric ton*km"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"transport, freight, lorry, 3.5-7.5 metric ton, diesel, euro 3\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"transport, freight, lorry, 3.5-7.5 metric ton, diesel, euro 3\",\n  \"reference_product_unit\": \"metric ton*km\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "transport, freight, lorry, 3.5-7.5 metric ton, diesel, euro 3",
+      "geography": "RoW",
+      "reference_product_name": "transport, freight, lorry, 3.5-7.5 metric ton, diesel, euro 3",
+      "reference_product_unit": "metric ton*km"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"transport, freight, lorry, 3.5-7.5 metric ton, diesel, euro 3\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"transport, freight, lorry, 3.5-7.5 metric ton, diesel, euro 3\",\n  \"reference_product_unit\": \"metric ton*km\"\n}",
+    "gpt_parsed": {
+      "activity_name": "transport, freight, lorry, 3.5-7.5 metric ton, diesel, euro 3",
+      "geography": "RoW",
+      "reference_product_name": "transport, freight, lorry, 3.5-7.5 metric ton, diesel, euro 3",
+      "reference_product_unit": "metric ton*km"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"transport, freight, lorry, 3.5-7.5 metric ton, diesel, EURO3\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"transport, freight, lorry, 3.5-7.5 metric ton, diesel, EURO3\",\n  \"reference_product_unit\": \"ton kilometer\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "transport, freight, lorry, 3.5-7.5 metric ton, diesel, EURO3",
+      "geography": "RoW",
+      "reference_product_name": "transport, freight, lorry, 3.5-7.5 metric ton, diesel, EURO3",
+      "reference_product_unit": "ton kilometer"
+    },
+    "gemini_raw": "```json\n{\n  \"activity_name\": \"transport, freight, lorry, 3.5-7.5 metric ton, diesel, euro 3\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"transport, freight, lorry, 3.5-7.5 metric ton, diesel, euro 3\",\n  \"reference_product_unit\": \"metric ton*km\"\n}\n```",
+    "gemini_parsed": {
+      "activity_name": "transport, freight, lorry, 3.5-7.5 metric ton, diesel, euro 3",
+      "geography": "RoW",
+      "reference_product_name": "transport, freight, lorry, 3.5-7.5 metric ton, diesel, euro 3",
+      "reference_product_unit": "metric ton*km"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"transport, freight, lorry 3.5-7.5 metric ton, diesel, euro 3\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"transport, freight, lorry, 3.5-7.5 metric ton, diesel, euro 3\",\n  \"reference_product_unit\": \"metric ton*km\"\n}",
+    "llama_parsed": {
+      "activity_name": "transport, freight, lorry 3.5-7.5 metric ton, diesel, euro 3",
+      "geography": "RoW",
+      "reference_product_name": "transport, freight, lorry, 3.5-7.5 metric ton, diesel, euro 3",
+      "reference_product_unit": "metric ton*km"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"transport, freight, lorry, 3.5-7.5 metric ton, diesel, Euro 3\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"transport, freight, lorry, 3.5-7.5 metric ton, diesel, Euro 3\",\n  \"reference_product_unit\": \"ton*km\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "transport, freight, lorry, 3.5-7.5 metric ton, diesel, Euro 3",
+      "geography": "RoW",
+      "reference_product_name": "transport, freight, lorry, 3.5-7.5 metric ton, diesel, Euro 3",
+      "reference_product_unit": "ton*km"
+    }
+  },
+  "10": {
+    "id": 10,
+    "activity_uuid": "fd9508df-7a1b-591e-b5e2-39b455fc2742_6ee08e0a-4762-44f5-ac35-20289c48b970",
+    "description": "An industrial process record describes operations related to light commercial vehicle production. This process is documented as taking place in the European region. The output of this process, when measured, comes to 1 units (specifically unit) of a product known as light commercial vehicle. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "light commercial vehicle production",
+      "geography": "RER",
+      "reference_product_name": "light commercial vehicle",
+      "reference_product_unit": "unit"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"light commercial vehicle production\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"light commercial vehicle\",\n  \"reference_product_unit\": \"unit\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "light commercial vehicle production",
+      "geography": "RER",
+      "reference_product_name": "light commercial vehicle",
+      "reference_product_unit": "unit"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"light commercial vehicle production\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"light commercial vehicle\",\n  \"reference_product_unit\": \"unit\"\n}",
+    "gpt_parsed": {
+      "activity_name": "light commercial vehicle production",
+      "geography": "RER",
+      "reference_product_name": "light commercial vehicle",
+      "reference_product_unit": "unit"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"light commercial vehicle production\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"light commercial vehicle\",\n  \"reference_product_unit\": \"unit\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "light commercial vehicle production",
+      "geography": "RER",
+      "reference_product_name": "light commercial vehicle",
+      "reference_product_unit": "unit"
+    },
+    "gemini_raw": "```json\n{\n  \"activity_name\": \"light commercial vehicle production\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"light commercial vehicle\",\n  \"reference_product_unit\": \"unit\"\n}\n```",
+    "gemini_parsed": {
+      "activity_name": "light commercial vehicle production",
+      "geography": "RER",
+      "reference_product_name": "light commercial vehicle",
+      "reference_product_unit": "unit"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"production of light commercial vehicle\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"light commercial vehicle\",\n  \"reference_product_unit\": \"unit\"\n}",
+    "llama_parsed": {
+      "activity_name": "production of light commercial vehicle",
+      "geography": "RER",
+      "reference_product_name": "light commercial vehicle",
+      "reference_product_unit": "unit"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"light commercial vehicle production\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"light commercial vehicle\",\n  \"reference_product_unit\": \"unit\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "light commercial vehicle production",
+      "geography": "RER",
+      "reference_product_name": "light commercial vehicle",
+      "reference_product_unit": "unit"
+    }
+  },
+  "11": {
+    "id": 11,
+    "activity_uuid": "10a255d2-fa92-5bad-9a53-3289b547f7e9_76e25766-cf29-42a6-a937-ae1769466012",
+    "description": "An industrial process record describes operations related to treatment of cu-based antifouling paint emissions. This process is documented as taking place in the region coded PE. The output of this process, when measured, comes to -1 units (specifically kg) of a product known as antifouling paint emissions. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "treatment of Cu-based antifouling paint emissions",
+      "geography": "PE",
+      "reference_product_name": "antifouling paint emissions",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"treatment of Cu-based antifouling paint emissions\",\n  \"geography\": \"PE\",\n  \"reference_product_name\": \"antifouling paint emissions\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "treatment of Cu-based antifouling paint emissions",
+      "geography": "PE",
+      "reference_product_name": "antifouling paint emissions",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"Treatment of copper-based antifouling paint emissions\",\n  \"geography\": \"PE\",\n  \"reference_product_name\": \"antifouling paint emissions\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "Treatment of copper-based antifouling paint emissions",
+      "geography": "PE",
+      "reference_product_name": "antifouling paint emissions",
+      "reference_product_unit": "kg"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"treatment of antifouling paint emissions, Cu-based\",\n  \"geography\": \"PE\",\n  \"reference_product_name\": \"antifouling paint emissions, Cu-based\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "treatment of antifouling paint emissions, Cu-based",
+      "geography": "PE",
+      "reference_product_name": "antifouling paint emissions, Cu-based",
+      "reference_product_unit": "kg"
+    },
+    "gemini_raw": "```json\n{\n  \"activity_name\": \"treatment of Cu-based antifouling paint emissions\",\n  \"geography\": \"PE\",\n  \"reference_product_name\": \"Cu-based antifouling paint emissions\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "gemini_parsed": {
+      "activity_name": "treatment of Cu-based antifouling paint emissions",
+      "geography": "PE",
+      "reference_product_name": "Cu-based antifouling paint emissions",
+      "reference_product_unit": "kg"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"treatment of cu-based antifouling paint emissions\",\n  \"geography\": \"PE\",\n  \"reference_product_name\": \"antifouling paint emissions\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "llama_parsed": {
+      "activity_name": "treatment of cu-based antifouling paint emissions",
+      "geography": "PE",
+      "reference_product_name": "antifouling paint emissions",
+      "reference_product_unit": "kg"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"treatment of copper-based antifouling paint emissions\",\n  \"geography\": \"PE\",\n  \"reference_product_name\": \"antifouling paint emissions\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "treatment of copper-based antifouling paint emissions",
+      "geography": "PE",
+      "reference_product_name": "antifouling paint emissions",
+      "reference_product_unit": "kg"
+    }
+  },
+  "12": {
+    "id": 12,
+    "activity_uuid": "76722bc8-5b80-5b7b-858d-b190f3040f06_d69294d7-8d64-4915-a896-9996a014c410",
+    "description": "An industrial process record describes operations related to market for electricity, low voltage. This process is documented as taking place in the region coded CN-SWG. The output of this process, when measured, comes to 1 units (specifically kWh) of a product known as electricity, low voltage. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "market for electricity, low voltage",
+      "geography": "CN-SWG",
+      "reference_product_name": "electricity, low voltage",
+      "reference_product_unit": "kWh"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"market for electricity, low voltage\",\n  \"geography\": \"CN-SWG\",\n  \"reference_product_name\": \"electricity, low voltage\",\n  \"reference_product_unit\": \"kWh\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "market for electricity, low voltage",
+      "geography": "CN-SWG",
+      "reference_product_name": "electricity, low voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"electricity, low voltage production\",\n  \"geography\": \"CN-SWG\",\n  \"reference_product_name\": \"electricity, low voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gpt_parsed": {
+      "activity_name": "electricity, low voltage production",
+      "geography": "CN-SWG",
+      "reference_product_name": "electricity, low voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"market for electricity, low voltage\",\n  \"geography\": \"CN-SWG\",\n  \"reference_product_name\": \"electricity, low voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "market for electricity, low voltage",
+      "geography": "CN-SWG",
+      "reference_product_name": "electricity, low voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gemini_raw": "{\n  \"activity_name\": \"market for electricity, low voltage\",\n  \"geography\": \"CN-SWG\",\n  \"reference_product_name\": \"electricity, low voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gemini_parsed": {
+      "activity_name": "market for electricity, low voltage",
+      "geography": "CN-SWG",
+      "reference_product_name": "electricity, low voltage",
+      "reference_product_unit": "kWh"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"market for electricity, low voltage\",\n  \"geography\": \"CN-SWG\",\n  \"reference_product_name\": \"electricity, low voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "llama_parsed": {
+      "activity_name": "market for electricity, low voltage",
+      "geography": "CN-SWG",
+      "reference_product_name": "electricity, low voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"market for electricity, low voltage\",\n  \"geography\": \"CN-SWG\",\n  \"reference_product_name\": \"electricity, low voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "market for electricity, low voltage",
+      "geography": "CN-SWG",
+      "reference_product_name": "electricity, low voltage",
+      "reference_product_unit": "kWh"
+    }
+  },
+  "13": {
+    "id": 13,
+    "activity_uuid": "c3061e33-0a27-5629-bda2-c66aee8c880d_71e2f1db-a2c5-44d0-8337-dfff15be974d",
+    "description": "An industrial process record describes operations related to heat and power co-generation, wood chips, 6667 kw, state-of-the-art 2014. This process is documented as taking place in Japan. The output of this process, when measured, comes to 1 units (specifically MJ) of a product known as heat, district or industrial, other than natural gas. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "heat and power co-generation, wood chips, 6667 kW, state-of-the-art 2014",
+      "geography": "JP",
+      "reference_product_name": "heat, district or industrial, other than natural gas",
+      "reference_product_unit": "MJ"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"Heat and power co-generation, wood chips, 6667 kW, state-of-the-art 2014\",\n  \"geography\": \"JP\",\n  \"reference_product_name\": \"heat, district or industrial, other than natural gas\",\n  \"reference_product_unit\": \"MJ\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "Heat and power co-generation, wood chips, 6667 kW, state-of-the-art 2014",
+      "geography": "JP",
+      "reference_product_name": "heat, district or industrial, other than natural gas",
+      "reference_product_unit": "MJ"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"heat and power co-generation, wood chips\",\n  \"geography\": \"JP\",\n  \"reference_product_name\": \"heat, district or industrial, other than natural gas\",\n  \"reference_product_unit\": \"MJ\"\n}",
+    "gpt_parsed": {
+      "activity_name": "heat and power co-generation, wood chips",
+      "geography": "JP",
+      "reference_product_name": "heat, district or industrial, other than natural gas",
+      "reference_product_unit": "MJ"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"heat and power co-generation, wood chips, 6667 kW, state-of-the-art 2014\",\n  \"geography\": \"JP\",\n  \"reference_product_name\": \"heat, district or industrial, other than natural gas\",\n  \"reference_product_unit\": \"MJ\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "heat and power co-generation, wood chips, 6667 kW, state-of-the-art 2014",
+      "geography": "JP",
+      "reference_product_name": "heat, district or industrial, other than natural gas",
+      "reference_product_unit": "MJ"
+    },
+    "gemini_raw": "{\n  \"activity_name\": \"heat and power co-generation, wood chips, 6667 kW, state-of-the-art 2014\",\n  \"geography\": \"JP\",\n  \"reference_product_name\": \"heat, district or industrial, other than natural gas\",\n  \"reference_product_unit\": \"MJ\"\n}",
+    "gemini_parsed": {
+      "activity_name": "heat and power co-generation, wood chips, 6667 kW, state-of-the-art 2014",
+      "geography": "JP",
+      "reference_product_name": "heat, district or industrial, other than natural gas",
+      "reference_product_unit": "MJ"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"heat and power co-generation, wood chips, 6667 kW\",\n  \"geography\": \"JP\",\n  \"reference_product_name\": \"heat, district or industrial, other than natural gas\",\n  \"reference_product_unit\": \"MJ\"\n}",
+    "llama_parsed": {
+      "activity_name": "heat and power co-generation, wood chips, 6667 kW",
+      "geography": "JP",
+      "reference_product_name": "heat, district or industrial, other than natural gas",
+      "reference_product_unit": "MJ"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"heat and power co-generation, wood chips, 6667 kW, state-of-the-art 2014\",\n  \"geography\": \"JP\",\n  \"reference_product_name\": \"heat, district or industrial, other than natural gas\",\n  \"reference_product_unit\": \"MJ\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "heat and power co-generation, wood chips, 6667 kW, state-of-the-art 2014",
+      "geography": "JP",
+      "reference_product_name": "heat, district or industrial, other than natural gas",
+      "reference_product_unit": "MJ"
+    }
+  },
+  "14": {
+    "id": 14,
+    "activity_uuid": "671ced98-9078-55af-9a40-a7342da7ccc4_34118ede-473b-4a05-8c6e-c5ea2942652d",
+    "description": "An industrial process record describes operations related to brass turning, average, computer numerical controlled. This process is documented as taking place in the rest of the world. The output of this process, when measured, comes to 1 units (specifically kg) of a product known as brass removed by turning, average, computer numerical controlled. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "brass turning, average, computer numerical controlled",
+      "geography": "RoW",
+      "reference_product_name": "brass removed by turning, average, computer numerical controlled",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"turning, brass, average, computer numerical controlled\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"brass removed by turning, average, computer numerical controlled\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "turning, brass, average, computer numerical controlled",
+      "geography": "RoW",
+      "reference_product_name": "brass removed by turning, average, computer numerical controlled",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"brass turning, average, computer numerical controlled\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"brass removed by turning, average, computer numerical controlled\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "brass turning, average, computer numerical controlled",
+      "geography": "RoW",
+      "reference_product_name": "brass removed by turning, average, computer numerical controlled",
+      "reference_product_unit": "kg"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"brass turning, average, computer numerical controlled\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"brass removed by turning, average, computer numerical controlled\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "brass turning, average, computer numerical controlled",
+      "geography": "RoW",
+      "reference_product_name": "brass removed by turning, average, computer numerical controlled",
+      "reference_product_unit": "kg"
+    },
+    "gemini_raw": "```json\n{\n  \"activity_name\": \"brass turning, average, computer numerical controlled\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"brass removed by turning, average, computer numerical controlled\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "gemini_parsed": {
+      "activity_name": "brass turning, average, computer numerical controlled",
+      "geography": "RoW",
+      "reference_product_name": "brass removed by turning, average, computer numerical controlled",
+      "reference_product_unit": "kg"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"brass turning, average, computer numerical controlled\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"brass removed by turning, average, computer numerical controlled\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "llama_parsed": {
+      "activity_name": "brass turning, average, computer numerical controlled",
+      "geography": "RoW",
+      "reference_product_name": "brass removed by turning, average, computer numerical controlled",
+      "reference_product_unit": "kg"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"brass turning, average, computer numerical controlled\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"brass removed by turning, average, computer numerical controlled\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "brass turning, average, computer numerical controlled",
+      "geography": "RoW",
+      "reference_product_name": "brass removed by turning, average, computer numerical controlled",
+      "reference_product_unit": "kg"
+    }
+  },
+  "15": {
+    "id": 15,
+    "activity_uuid": "6eabb4aa-17f6-56a3-8e3e-170725fdaf2f_118a9202-6b68-44aa-82b5-2c2bf5bc02cf",
+    "description": "An industrial process record describes operations related to acetic acid production, from n-butane oxidation. This process is documented as taking place in the region coded UN-EASIA. The output of this process, when measured, comes to 1 units (specifically kg) of a product known as formic acid. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "acetic acid production, from n-butane oxidation",
+      "geography": "UN-EASIA",
+      "reference_product_name": "formic acid",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"formic acid production\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"formic acid\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "formic acid production",
+      "geography": "RoW",
+      "reference_product_name": "formic acid",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"Acetic acid production from n-butane oxidation\",\n  \"geography\": \"EAS\",\n  \"reference_product_name\": \"formic acid\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "Acetic acid production from n-butane oxidation",
+      "geography": "EAS",
+      "reference_product_name": "formic acid",
+      "reference_product_unit": "kg"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"acetic acid production, from n-butane oxidation\",\n  \"geography\": \"UN-EASIA\",\n  \"reference_product_name\": \"formic acid\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "acetic acid production, from n-butane oxidation",
+      "geography": "UN-EASIA",
+      "reference_product_name": "formic acid",
+      "reference_product_unit": "kg"
+    },
+    "gemini_raw": "```json\n{\n  \"activity_name\": \"acetic acid production, from n-butane\",\n  \"geography\": \"UN-EASIA\",\n  \"reference_product_name\": \"formic acid\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "gemini_parsed": {
+      "activity_name": "acetic acid production, from n-butane",
+      "geography": "UN-EASIA",
+      "reference_product_name": "formic acid",
+      "reference_product_unit": "kg"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"acetic acid production from n-butane oxidation\",\n  \"geography\": \"RASIA\",\n  \"reference_product_name\": \"formic acid\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "llama_parsed": {
+      "activity_name": "acetic acid production from n-butane oxidation",
+      "geography": "RASIA",
+      "reference_product_name": "formic acid",
+      "reference_product_unit": "kg"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"Acetic acid production, from n-butane oxidation\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"Formic acid\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "Acetic acid production, from n-butane oxidation",
+      "geography": "RoW",
+      "reference_product_name": "Formic acid",
+      "reference_product_unit": "kg"
+    }
+  },
+  "16": {
+    "id": 16,
+    "activity_uuid": "22ef7ff0-b49b-5e73-a529-6df613e2db82_e6aad2de-0b1b-49c3-a0c4-797ba34d87e5",
+    "description": "An industrial process record describes operations related to petroleum and gas production, onshore. This process is documented as taking place in the region coded SA. The output of this process, when measured, comes to 1 units (specifically kg) of a product known as petroleum. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "petroleum and gas production, onshore",
+      "geography": "SA",
+      "reference_product_name": "petroleum",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"crude oil production, onshore\",\n  \"geography\": \"SA\",\n  \"reference_product_name\": \"crude oil\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "crude oil production, onshore",
+      "geography": "SA",
+      "reference_product_name": "crude oil",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"Crude oil production, onshore\",\n  \"geography\": \"SA\",\n  \"reference_product_name\": \"petroleum\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "Crude oil production, onshore",
+      "geography": "SA",
+      "reference_product_name": "petroleum",
+      "reference_product_unit": "kg"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"petroleum and gas production, onshore\",\n  \"geography\": \"SA\",\n  \"reference_product_name\": \"petroleum\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "petroleum and gas production, onshore",
+      "geography": "SA",
+      "reference_product_name": "petroleum",
+      "reference_product_unit": "kg"
+    },
+    "gemini_raw": "```json\n{\n  \"activity_name\": \"petroleum and gas production, onshore\",\n  \"geography\": \"SA\",\n  \"reference_product_name\": \"petroleum\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "gemini_parsed": {
+      "activity_name": "petroleum and gas production, onshore",
+      "geography": "SA",
+      "reference_product_name": "petroleum",
+      "reference_product_unit": "kg"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"petroleum and gas production, onshore\",\n  \"geography\": \"SA\",\n  \"reference_product_name\": \"petroleum\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "llama_parsed": {
+      "activity_name": "petroleum and gas production, onshore",
+      "geography": "SA",
+      "reference_product_name": "petroleum",
+      "reference_product_unit": "kg"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"petroleum and gas production, onshore\",\n  \"geography\": \"SA\",\n  \"reference_product_name\": \"petroleum\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "petroleum and gas production, onshore",
+      "geography": "SA",
+      "reference_product_name": "petroleum",
+      "reference_product_unit": "kg"
+    }
+  },
+  "17": {
+    "id": 17,
+    "activity_uuid": "8a45ea3f-e58f-516e-baf0-b86c6f1bb778_66c93e71-f32b-4591-901c-55395db5c132",
+    "description": "An industrial process record describes operations related to electricity production, oil. This process is documented as taking place in the region coded CN-SA. The output of this process, when measured, comes to 1 units (specifically kWh) of a product known as electricity, high voltage. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "electricity production, oil",
+      "geography": "CN-SA",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"electricity production, oil\",\n  \"geography\": \"CN-SA\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "electricity production, oil",
+      "geography": "CN-SA",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"electricity production, oil\",\n  \"geography\": \"CN-SA\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gpt_parsed": {
+      "activity_name": "electricity production, oil",
+      "geography": "CN-SA",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"electricity production, oil\",\n  \"geography\": \"CN-SA\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "electricity production, oil",
+      "geography": "CN-SA",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gemini_raw": "```json\n{\n  \"activity_name\": \"electricity production, oil\",\n  \"geography\": \"CN-SA\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}\n```",
+    "gemini_parsed": {
+      "activity_name": "electricity production, oil",
+      "geography": "CN-SA",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"electricity production, oil\",\n  \"geography\": \"CN-SA\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "llama_parsed": {
+      "activity_name": "electricity production, oil",
+      "geography": "CN-SA",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"electricity production, oil\",\n  \"geography\": \"CN\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "electricity production, oil",
+      "geography": "CN",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    }
+  },
+  "18": {
+    "id": 18,
+    "activity_uuid": "754a7483-0fc3-5f20-9ab8-773fd49db23e_2a49f01f-1411-42fb-b5c3-7e3c148e02d3",
+    "description": "An industrial process record describes operations related to petrol production, 85% ethanol by volume from biomass. This process is documented as taking place in Switzerland. The output of this process, when measured, comes to 1 units (specifically kg) of a product known as petrol, 85% ethanol by volume from biomass. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "petrol production, 85% ethanol by volume from biomass",
+      "geography": "CH",
+      "reference_product_name": "petrol, 85% ethanol by volume from biomass",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"petrol, 85% ethanol by volume from biomass\",\n  \"geography\": \"CH\",\n  \"reference_product_name\": \"petrol, 85% ethanol by volume from biomass\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "petrol, 85% ethanol by volume from biomass",
+      "geography": "CH",
+      "reference_product_name": "petrol, 85% ethanol by volume from biomass",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"ethanol production from biomass\",\n  \"geography\": \"CH\",\n  \"reference_product_name\": \"petrol, 85% ethanol by volume from biomass\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "ethanol production from biomass",
+      "geography": "CH",
+      "reference_product_name": "petrol, 85% ethanol by volume from biomass",
+      "reference_product_unit": "kg"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"petrol production, 85% ethanol by volume from biomass\",\n  \"geography\": \"CH\",\n  \"reference_product_name\": \"petrol, 85% ethanol by volume from biomass\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "petrol production, 85% ethanol by volume from biomass",
+      "geography": "CH",
+      "reference_product_name": "petrol, 85% ethanol by volume from biomass",
+      "reference_product_unit": "kg"
+    },
+    "gemini_raw": "{\n  \"activity_name\": \"petrol production, 85% ethanol by volume from biomass\",\n  \"geography\": \"CH\",\n  \"reference_product_name\": \"petrol, 85% ethanol by volume from biomass\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gemini_parsed": {
+      "activity_name": "petrol production, 85% ethanol by volume from biomass",
+      "geography": "CH",
+      "reference_product_name": "petrol, 85% ethanol by volume from biomass",
+      "reference_product_unit": "kg"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"petrol, 85% ethanol by volume from biomass production\",\n  \"geography\": \"CH\",\n  \"reference_product_name\": \"petrol, 85% ethanol by volume from biomass\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "llama_parsed": {
+      "activity_name": "petrol, 85% ethanol by volume from biomass production",
+      "geography": "CH",
+      "reference_product_name": "petrol, 85% ethanol by volume from biomass",
+      "reference_product_unit": "kg"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"petrol, 85% ethanol, from biomass\",\n  \"geography\": \"CH\",\n  \"reference_product_name\": \"petrol, 85% ethanol, from biomass\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "petrol, 85% ethanol, from biomass",
+      "geography": "CH",
+      "reference_product_name": "petrol, 85% ethanol, from biomass",
+      "reference_product_unit": "kg"
+    }
+  },
+  "19": {
+    "id": 19,
+    "activity_uuid": "b6034f90-a7fc-561e-a041-66dd73ebfc7d_17cc37b9-2166-4be7-ac8b-f33a45417f34",
+    "description": "An industrial process record describes operations related to market for electrolyte, for na-ion battery. This process is documented as taking place in China. The output of this process, when measured, comes to 1 units (specifically kg) of a product known as electrolyte, for na-ion battery. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "market for electrolyte, for Na-ion battery",
+      "geography": "CN",
+      "reference_product_name": "electrolyte, for Na-ion battery",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"market for electrolyte, for na-ion battery\",\n  \"geography\": \"CN\",\n  \"reference_product_name\": \"electrolyte, for na-ion battery\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "market for electrolyte, for na-ion battery",
+      "geography": "CN",
+      "reference_product_name": "electrolyte, for na-ion battery",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"electrolyte production for sodium-ion battery\",\n  \"geography\": \"CH\",\n  \"reference_product_name\": \"electrolyte for sodium-ion battery\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "electrolyte production for sodium-ion battery",
+      "geography": "CH",
+      "reference_product_name": "electrolyte for sodium-ion battery",
+      "reference_product_unit": "kg"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"market for electrolyte, for Na-ion battery\",\n  \"geography\": \"CN\",\n  \"reference_product_name\": \"electrolyte, for Na-ion battery\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "market for electrolyte, for Na-ion battery",
+      "geography": "CN",
+      "reference_product_name": "electrolyte, for Na-ion battery",
+      "reference_product_unit": "kg"
+    },
+    "gemini_raw": "```json\n{\n  \"activity_name\": \"market for electrolyte, for na-ion battery\",\n  \"geography\": \"CN\",\n  \"reference_product_name\": \"electrolyte, for na-ion battery\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "gemini_parsed": {
+      "activity_name": "market for electrolyte, for na-ion battery",
+      "geography": "CN",
+      "reference_product_name": "electrolyte, for na-ion battery",
+      "reference_product_unit": "kg"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"market for electrolyte, for na-ion battery\",\n  \"geography\": \"CN\",\n  \"reference_product_name\": \"electrolyte, for na-ion battery\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "llama_parsed": {
+      "activity_name": "market for electrolyte, for na-ion battery",
+      "geography": "CN",
+      "reference_product_name": "electrolyte, for na-ion battery",
+      "reference_product_unit": "kg"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"market for electrolyte, Na-ion battery\",\n  \"geography\": \"CN\",\n  \"reference_product_name\": \"electrolyte, Na-ion battery\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "market for electrolyte, Na-ion battery",
+      "geography": "CN",
+      "reference_product_name": "electrolyte, Na-ion battery",
+      "reference_product_unit": "kg"
+    }
+  },
+  "20": {
+    "id": 20,
+    "activity_uuid": "0425e3f7-5984-58fb-8847-2299f2aae5bc_314b0de3-1b1b-41c2-894b-884066781eae",
+    "description": "An industrial process record describes operations related to market for sawnwood, beam, hardwood, dried (u=20%), planed. This process is documented as taking place in Switzerland. The output of this process, when measured, comes to 1 units (specifically m3) of a product known as sawnwood, beam, hardwood, dried (u=20%), planed. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "market for sawnwood, beam, hardwood, dried (u=20%), planed",
+      "geography": "CH",
+      "reference_product_name": "sawnwood, beam, hardwood, dried (u=20%), planed",
+      "reference_product_unit": "m3"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"market for sawnwood, beam, hardwood, dried (u=20%), planed\",\n  \"geography\": \"CH\",\n  \"reference_product_name\": \"sawnwood, beam, hardwood, dried (u=20%), planed\",\n  \"reference_product_unit\": \"m3\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "market for sawnwood, beam, hardwood, dried (u=20%), planed",
+      "geography": "CH",
+      "reference_product_name": "sawnwood, beam, hardwood, dried (u=20%), planed",
+      "reference_product_unit": "m3"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"sawnwood, beam, hardwood, dried (u=20%), planed\",\n  \"geography\": \"CH\",\n  \"reference_product_name\": \"sawnwood, beam, hardwood, dried (u=20%), planed\",\n  \"reference_product_unit\": \"m3\"\n}",
+    "gpt_parsed": {
+      "activity_name": "sawnwood, beam, hardwood, dried (u=20%), planed",
+      "geography": "CH",
+      "reference_product_name": "sawnwood, beam, hardwood, dried (u=20%), planed",
+      "reference_product_unit": "m3"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"market for sawnwood, beam, hardwood, dried (u=20%), planed\",\n  \"geography\": \"CH\",\n  \"reference_product_name\": \"sawnwood, beam, hardwood, dried (u=20%), planed\",\n  \"reference_product_unit\": \"m3\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "market for sawnwood, beam, hardwood, dried (u=20%), planed",
+      "geography": "CH",
+      "reference_product_name": "sawnwood, beam, hardwood, dried (u=20%), planed",
+      "reference_product_unit": "m3"
+    },
+    "gemini_raw": "```json\n{\n  \"activity_name\": \"market for sawnwood, beam, hardwood, dried (u=20%), planed\",\n  \"geography\": \"CH\",\n  \"reference_product_name\": \"sawnwood, beam, hardwood, dried (u=20%), planed\",\n  \"reference_product_unit\": \"m3\"\n}\n```",
+    "gemini_parsed": {
+      "activity_name": "market for sawnwood, beam, hardwood, dried (u=20%), planed",
+      "geography": "CH",
+      "reference_product_name": "sawnwood, beam, hardwood, dried (u=20%), planed",
+      "reference_product_unit": "m3"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"market for sawnwood, beam, hardwood, dried (u=20%), planed\",\n  \"geography\": \"CH\",\n  \"reference_product_name\": \"sawnwood, beam, hardwood, dried (u=20%), planed\",\n  \"reference_product_unit\": \"m3\"\n}",
+    "llama_parsed": {
+      "activity_name": "market for sawnwood, beam, hardwood, dried (u=20%), planed",
+      "geography": "CH",
+      "reference_product_name": "sawnwood, beam, hardwood, dried (u=20%), planed",
+      "reference_product_unit": "m3"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"market for sawnwood, beam, hardwood, dried (u=20%), planed\",\n  \"geography\": \"CH\",\n  \"reference_product_name\": \"sawnwood, beam, hardwood, dried (u=20%), planed\",\n  \"reference_product_unit\": \"m3\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "market for sawnwood, beam, hardwood, dried (u=20%), planed",
+      "geography": "CH",
+      "reference_product_name": "sawnwood, beam, hardwood, dried (u=20%), planed",
+      "reference_product_unit": "m3"
+    }
+  },
+  "21": {
+    "id": 21,
+    "activity_uuid": "4b5a5582-0613-5a6e-b7fb-b770a037b7db_759b89bd-3aa6-42ad-b767-5bb9ef5d331d",
+    "description": "An industrial process record describes operations related to market group for electricity, medium voltage. This process is documented as taking place in the United States. The output of this process, when measured, comes to 1 units (specifically kWh) of a product known as electricity, medium voltage. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "market group for electricity, medium voltage",
+      "geography": "US",
+      "reference_product_name": "electricity, medium voltage",
+      "reference_product_unit": "kWh"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"market group for electricity, medium voltage\",\n  \"geography\": \"US\",\n  \"reference_product_name\": \"electricity, medium voltage\",\n  \"reference_product_unit\": \"kWh\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "market group for electricity, medium voltage",
+      "geography": "US",
+      "reference_product_name": "electricity, medium voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"electricity, medium voltage, US\",\n  \"geography\": \"US\",\n  \"reference_product_name\": \"electricity, medium voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gpt_parsed": {
+      "activity_name": "electricity, medium voltage, US",
+      "geography": "US",
+      "reference_product_name": "electricity, medium voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"market group for electricity, medium voltage\",\n  \"geography\": \"US\",\n  \"reference_product_name\": \"electricity, medium voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "market group for electricity, medium voltage",
+      "geography": "US",
+      "reference_product_name": "electricity, medium voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gemini_raw": "```json\n{\n  \"activity_name\": \"market group for electricity, medium voltage\",\n  \"geography\": \"US\",\n  \"reference_product_name\": \"electricity, medium voltage\",\n  \"reference_product_unit\": \"kWh\"\n}\n```",
+    "gemini_parsed": {
+      "activity_name": "market group for electricity, medium voltage",
+      "geography": "US",
+      "reference_product_name": "electricity, medium voltage",
+      "reference_product_unit": "kWh"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"electricity production, medium voltage\",\n  \"geography\": \"US\",\n  \"reference_product_name\": \"electricity, medium voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "llama_parsed": {
+      "activity_name": "electricity production, medium voltage",
+      "geography": "US",
+      "reference_product_name": "electricity, medium voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"electricity, medium voltage\",\n  \"geography\": \"US\",\n  \"reference_product_name\": \"electricity, medium voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "electricity, medium voltage",
+      "geography": "US",
+      "reference_product_name": "electricity, medium voltage",
+      "reference_product_unit": "kWh"
+    }
+  },
+  "22": {
+    "id": 22,
+    "activity_uuid": "a5aeff6c-b8ad-5246-90b7-26c770229693_20683f58-5507-405c-b466-33d6cfd8623c",
+    "description": "An industrial process record describes operations related to methyl methacrylate production, acetone cyanohydrin process, with sulfuric acid recovery. This process is documented as taking place in the European region. The output of this process, when measured, comes to 1 units (specifically kg) of a product known as methyl methacrylate. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "methyl methacrylate production, acetone cyanohydrin process, with sulfuric acid recovery",
+      "geography": "RER",
+      "reference_product_name": "methyl methacrylate",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"methyl methacrylate production, acetone cyanohydrin process, sulfuric acid recovery\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"methyl methacrylate\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "methyl methacrylate production, acetone cyanohydrin process, sulfuric acid recovery",
+      "geography": "RER",
+      "reference_product_name": "methyl methacrylate",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"methyl methacrylate production\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"methyl methacrylate\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "methyl methacrylate production",
+      "geography": "RER",
+      "reference_product_name": "methyl methacrylate",
+      "reference_product_unit": "kg"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"methyl methacrylate production, acetone cyanohydrin process, with sulfuric acid recovery\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"methyl methacrylate\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "methyl methacrylate production, acetone cyanohydrin process, with sulfuric acid recovery",
+      "geography": "RER",
+      "reference_product_name": "methyl methacrylate",
+      "reference_product_unit": "kg"
+    },
+    "gemini_raw": "```json\n{\n  \"activity_name\": \"methyl methacrylate production, acetone cyanohydrin process, with sulfuric acid recovery\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"methyl methacrylate\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "gemini_parsed": {
+      "activity_name": "methyl methacrylate production, acetone cyanohydrin process, with sulfuric acid recovery",
+      "geography": "RER",
+      "reference_product_name": "methyl methacrylate",
+      "reference_product_unit": "kg"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"methyl methacrylate production, acetone cyanohydrin process\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"methyl methacrylate\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "llama_parsed": {
+      "activity_name": "methyl methacrylate production, acetone cyanohydrin process",
+      "geography": "RER",
+      "reference_product_name": "methyl methacrylate",
+      "reference_product_unit": "kg"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"Methyl methacrylate production, acetone cyanohydrin process, with sulfuric acid recovery\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"Methyl methacrylate\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "Methyl methacrylate production, acetone cyanohydrin process, with sulfuric acid recovery",
+      "geography": "RER",
+      "reference_product_name": "Methyl methacrylate",
+      "reference_product_unit": "kg"
+    }
+  },
+  "23": {
+    "id": 23,
+    "activity_uuid": "3bb2bdc4-c712-52e5-8303-d09a54b998b8_48df8170-d31a-4d9f-856c-91a1529a0a69",
+    "description": "An industrial process record describes operations related to strawberry production, in heated greenhouse. This process is documented as taking place in the rest of the world. The output of this process, when measured, comes to 1 units (specifically kg) of a product known as strawberry. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "strawberry production, in heated greenhouse",
+      "geography": "RoW",
+      "reference_product_name": "strawberry",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"Strawberry production, in heated greenhouse\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"Strawberry\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "Strawberry production, in heated greenhouse",
+      "geography": "RoW",
+      "reference_product_name": "Strawberry",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"strawberry production in heated greenhouse\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"strawberry\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "strawberry production in heated greenhouse",
+      "geography": "RoW",
+      "reference_product_name": "strawberry",
+      "reference_product_unit": "kg"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"strawberry production, in heated greenhouse\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"strawberry\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "strawberry production, in heated greenhouse",
+      "geography": "RoW",
+      "reference_product_name": "strawberry",
+      "reference_product_unit": "kg"
+    },
+    "gemini_raw": "```json\n{\n  \"activity_name\": \"strawberry production, in heated greenhouse\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"strawberry\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "gemini_parsed": {
+      "activity_name": "strawberry production, in heated greenhouse",
+      "geography": "RoW",
+      "reference_product_name": "strawberry",
+      "reference_product_unit": "kg"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"strawberry production, heated greenhouse\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"strawberry\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "llama_parsed": {
+      "activity_name": "strawberry production, heated greenhouse",
+      "geography": "RoW",
+      "reference_product_name": "strawberry",
+      "reference_product_unit": "kg"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"Strawberry production, greenhouse, heated, RoW\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"strawberry\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "Strawberry production, greenhouse, heated, RoW",
+      "geography": "RoW",
+      "reference_product_name": "strawberry",
+      "reference_product_unit": "kg"
+    }
+  },
+  "24": {
+    "id": 24,
+    "activity_uuid": "a1754199-0156-5bbf-8a5f-724f94d9819b_318bc688-5b2f-56fa-8bab-3c071c0f52bb",
+    "description": "An industrial process record describes operations related to treatment of sewage sludge, 97% water, wwt-slf, municipal solid waste, landfarming. This process is documented as taking place in the region coded CA-QC. The output of this process, when measured, comes to 1 units (specifically kg) of a product known as organic potassium fertiliser, as k2o. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "treatment of sewage sludge, 97% water, WWT-SLF, municipal solid waste, landfarming",
+      "geography": "CA-QC",
+      "reference_product_name": "organic potassium fertiliser, as K2O",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"treatment of sewage sludge, 97% water, wwt-slf, municipal solid waste, landfarming\",\n  \"geography\": \"CA-QC\",\n  \"reference_product_name\": \"organic potassium fertiliser, as K2O\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "treatment of sewage sludge, 97% water, wwt-slf, municipal solid waste, landfarming",
+      "geography": "CA-QC",
+      "reference_product_name": "organic potassium fertiliser, as K2O",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"Treatment of sewage sludge\",\n  \"geography\": \"CA-QC\",\n  \"reference_product_name\": \"potassium fertiliser, as K2O\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "Treatment of sewage sludge",
+      "geography": "CA-QC",
+      "reference_product_name": "potassium fertiliser, as K2O",
+      "reference_product_unit": "kg"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"treatment of sewage sludge, 97% water, wwt-slf, municipal solid waste, landfarming\",\n  \"geography\": \"CA-QC\",\n  \"reference_product_name\": \"organic potassium fertiliser, as K2O\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "treatment of sewage sludge, 97% water, wwt-slf, municipal solid waste, landfarming",
+      "geography": "CA-QC",
+      "reference_product_name": "organic potassium fertiliser, as K2O",
+      "reference_product_unit": "kg"
+    },
+    "gemini_raw": "```json\n{\n  \"activity_name\": \"treatment of sewage sludge, 97% water, wwt-slf, municipal solid waste, landfarming\",\n  \"geography\": \"CA-QC\",\n  \"reference_product_name\": \"organic potassium fertiliser, as K2O\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "gemini_parsed": {
+      "activity_name": "treatment of sewage sludge, 97% water, wwt-slf, municipal solid waste, landfarming",
+      "geography": "CA-QC",
+      "reference_product_name": "organic potassium fertiliser, as K2O",
+      "reference_product_unit": "kg"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"treatment of sewage sludge, 97% water, wwt-slf, municipal solid waste, landfarming\",\n  \"geography\": \"CA-QC\",\n  \"reference_product_name\": \"organic potassium fertiliser, as k2o\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "llama_parsed": {
+      "activity_name": "treatment of sewage sludge, 97% water, wwt-slf, municipal solid waste, landfarming",
+      "geography": "CA-QC",
+      "reference_product_name": "organic potassium fertiliser, as k2o",
+      "reference_product_unit": "kg"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"Sewage sludge treatment, landfarming\",\n  \"geography\": \"CA-QC\",\n  \"reference_product_name\": \"organic potassium fertilizer, K2O\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "Sewage sludge treatment, landfarming",
+      "geography": "CA-QC",
+      "reference_product_name": "organic potassium fertilizer, K2O",
+      "reference_product_unit": "kg"
+    }
+  },
+  "25": {
+    "id": 25,
+    "activity_uuid": "1b66a395-efab-5e76-bfc2-975c641cb128_b9e7503c-58d1-436d-bc16-6f7d09efffd7",
+    "description": "An industrial process record describes operations related to enzymes production. This process is documented as taking place in the European region. The output of this process, when measured, comes to 1 units (specifically kg) of a product known as enzymes. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "enzymes production",
+      "geography": "RER",
+      "reference_product_name": "enzymes",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"enzymes production\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"enzymes\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "enzymes production",
+      "geography": "RER",
+      "reference_product_name": "enzymes",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"enzyme production\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"enzymes\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "enzyme production",
+      "geography": "RER",
+      "reference_product_name": "enzymes",
+      "reference_product_unit": "kg"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"enzymes production\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"enzymes\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "enzymes production",
+      "geography": "RER",
+      "reference_product_name": "enzymes",
+      "reference_product_unit": "kg"
+    },
+    "gemini_raw": "{\n  \"activity_name\": \"enzymes production\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"enzymes\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gemini_parsed": {
+      "activity_name": "enzymes production",
+      "geography": "RER",
+      "reference_product_name": "enzymes",
+      "reference_product_unit": "kg"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"production of enzymes\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"enzymes\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "llama_parsed": {
+      "activity_name": "production of enzymes",
+      "geography": "RER",
+      "reference_product_name": "enzymes",
+      "reference_product_unit": "kg"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"Enzyme production\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"enzymes\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "Enzyme production",
+      "geography": "RER",
+      "reference_product_name": "enzymes",
+      "reference_product_unit": "kg"
+    }
+  },
+  "26": {
+    "id": 26,
+    "activity_uuid": "031eed4a-597d-5501-909c-1174f7285d3c_f0adb921-f198-4d7f-9c03-0964f368ae93",
+    "description": "An industrial process record describes operations related to market for cooling energy, at -100 °c. This process is documented as taking place in worldwide. The output of this process, when measured, comes to 1 units (specifically MJ) of a product known as cooling energy, at -100 °c. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "market for cooling energy, at -100 °C",
+      "geography": "GLO",
+      "reference_product_name": "cooling energy, at -100 °C",
+      "reference_product_unit": "MJ"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"market for cooling energy, at -100 °c\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"cooling energy, at -100 °c\",\n  \"reference_product_unit\": \"MJ\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "market for cooling energy, at -100 °c",
+      "geography": "GLO",
+      "reference_product_name": "cooling energy, at -100 °c",
+      "reference_product_unit": "MJ"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"market for cooling energy, -100 °C\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"cooling energy, -100 °C\",\n  \"reference_product_unit\": \"MJ\"\n}",
+    "gpt_parsed": {
+      "activity_name": "market for cooling energy, -100 °C",
+      "geography": "GLO",
+      "reference_product_name": "cooling energy, -100 °C",
+      "reference_product_unit": "MJ"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"market for cooling energy, at -100 °C\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"cooling energy, at -100 °C\",\n  \"reference_product_unit\": \"MJ\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "market for cooling energy, at -100 °C",
+      "geography": "GLO",
+      "reference_product_name": "cooling energy, at -100 °C",
+      "reference_product_unit": "MJ"
+    },
+    "gemini_raw": "```json\n{\n  \"activity_name\": \"market for cooling energy, at -100°C\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"cooling energy, at -100°C\",\n  \"reference_product_unit\": \"MJ\"\n}\n```",
+    "gemini_parsed": {
+      "activity_name": "market for cooling energy, at -100°C",
+      "geography": "GLO",
+      "reference_product_name": "cooling energy, at -100°C",
+      "reference_product_unit": "MJ"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"market for cooling energy, at -100 °C\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"cooling energy, at -100 °C\",\n  \"reference_product_unit\": \"MJ\"\n}",
+    "llama_parsed": {
+      "activity_name": "market for cooling energy, at -100 °C",
+      "geography": "GLO",
+      "reference_product_name": "cooling energy, at -100 °C",
+      "reference_product_unit": "MJ"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"market for cooling energy, low temperature\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"cooling energy, low temperature\",\n  \"reference_product_unit\": \"MJ\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "market for cooling energy, low temperature",
+      "geography": "GLO",
+      "reference_product_name": "cooling energy, low temperature",
+      "reference_product_unit": "MJ"
+    }
+  },
+  "27": {
+    "id": 27,
+    "activity_uuid": "619150ae-b1fc-5ae5-b4b6-b38b31fb473e_019600be-f3ce-4399-9e31-19cdc087ed5f",
+    "description": "An industrial process record describes operations related to wood cladding production, softwood. This process is documented as taking place in the region coded CA-QC. The output of this process, when measured, comes to 1 units (specifically m3) of a product known as residual wood, dry. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "wood cladding production, softwood",
+      "geography": "CA-QC",
+      "reference_product_name": "residual wood, dry",
+      "reference_product_unit": "m3"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"wood cladding production, softwood\",\n  \"geography\": \"CA-QC\",\n  \"reference_product_name\": \"residual wood, dry\",\n  \"reference_product_unit\": \"m3\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "wood cladding production, softwood",
+      "geography": "CA-QC",
+      "reference_product_name": "residual wood, dry",
+      "reference_product_unit": "m3"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"Production of wood cladding, softwood\",\n  \"geography\": \"CA-QC\",\n  \"reference_product_name\": \"residual wood, dry\",\n  \"reference_product_unit\": \"m3\"\n}",
+    "gpt_parsed": {
+      "activity_name": "Production of wood cladding, softwood",
+      "geography": "CA-QC",
+      "reference_product_name": "residual wood, dry",
+      "reference_product_unit": "m3"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"wood cladding production, softwood\",\n  \"geography\": \"CA-QC\",\n  \"reference_product_name\": \"residual wood, dry\",\n  \"reference_product_unit\": \"m3\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "wood cladding production, softwood",
+      "geography": "CA-QC",
+      "reference_product_name": "residual wood, dry",
+      "reference_product_unit": "m3"
+    },
+    "gemini_raw": "```json\n{\n  \"activity_name\": \"wood cladding production, softwood\",\n  \"geography\": \"CA-QC\",\n  \"reference_product_name\": \"wood cladding, softwood\",\n  \"reference_product_unit\": \"m3\"\n}\n```",
+    "gemini_parsed": {
+      "activity_name": "wood cladding production, softwood",
+      "geography": "CA-QC",
+      "reference_product_name": "wood cladding, softwood",
+      "reference_product_unit": "m3"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"wood cladding production, softwood\",\n  \"geography\": \"CA-QC\",\n  \"reference_product_name\": \"residual wood, dry\",\n  \"reference_product_unit\": \"m3\"\n}",
+    "llama_parsed": {
+      "activity_name": "wood cladding production, softwood",
+      "geography": "CA-QC",
+      "reference_product_name": "residual wood, dry",
+      "reference_product_unit": "m3"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"Wood cladding production, softwood\",\n  \"geography\": \"CA-QC\",\n  \"reference_product_name\": \"Residual wood, dry\",\n  \"reference_product_unit\": \"m3\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "Wood cladding production, softwood",
+      "geography": "CA-QC",
+      "reference_product_name": "Residual wood, dry",
+      "reference_product_unit": "m3"
+    }
+  },
+  "28": {
+    "id": 28,
+    "activity_uuid": "ab1951fb-3ad5-5023-9d5f-fb9f446e75b5_b7a0c0bc-fd0d-41b8-8ab7-15bc1a4a3063",
+    "description": "An industrial process record describes operations related to electricity production, hard coal, at coal mine power plant. This process is documented as taking place in China. The output of this process, when measured, comes to 1 units (specifically kWh) of a product known as electricity, high voltage, for internal use in coal mining. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "electricity production, hard coal, at coal mine power plant",
+      "geography": "CN",
+      "reference_product_name": "electricity, high voltage, for internal use in coal mining",
+      "reference_product_unit": "kWh"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"electricity production, hard coal, at coal mine power plant\",\n  \"geography\": \"CN\",\n  \"reference_product_name\": \"electricity, high voltage, for internal use in coal mining\",\n  \"reference_product_unit\": \"kWh\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "electricity production, hard coal, at coal mine power plant",
+      "geography": "CN",
+      "reference_product_name": "electricity, high voltage, for internal use in coal mining",
+      "reference_product_unit": "kWh"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"electricity production, hard coal, at coal mine power plant\",\n  \"geography\": \"CN\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gpt_parsed": {
+      "activity_name": "electricity production, hard coal, at coal mine power plant",
+      "geography": "CN",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"electricity production, hard coal, at coal mine power plant\",\n  \"geography\": \"CN\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "electricity production, hard coal, at coal mine power plant",
+      "geography": "CN",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gemini_raw": "{\n  \"activity_name\": \"electricity production, hard coal, at coal mine power plant\",\n  \"geography\": \"CN\",\n  \"reference_product_name\": \"electricity, high voltage, for internal use in coal mining\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gemini_parsed": {
+      "activity_name": "electricity production, hard coal, at coal mine power plant",
+      "geography": "CN",
+      "reference_product_name": "electricity, high voltage, for internal use in coal mining",
+      "reference_product_unit": "kWh"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"electricity production, hard coal\",\n  \"geography\": \"CN\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "llama_parsed": {
+      "activity_name": "electricity production, hard coal",
+      "geography": "CN",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"electricity production, hard coal, at coal mine power plant\",\n  \"geography\": \"CN\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "electricity production, hard coal, at coal mine power plant",
+      "geography": "CN",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    }
+  },
+  "29": {
+    "id": 29,
+    "activity_uuid": "3b844619-edb2-536e-8536-0f7e6d7f2ef1_2966d161-5281-47d6-86d3-efbb0a4b2110",
+    "description": "An industrial process record describes operations related to heavy fuel oil production, petroleum refinery operation. This process is documented as taking place in the region coded Europe without Switzerland. The output of this process, when measured, comes to 1 units (specifically kg) of a product known as heavy fuel oil. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "heavy fuel oil production, petroleum refinery operation",
+      "geography": "Europe without Switzerland",
+      "reference_product_name": "heavy fuel oil",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"treatment of heavy fuel oil, petroleum refinery operation\",\n  \"geography\": \"RoW-EU\",\n  \"reference_product_name\": \"heavy fuel oil\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "treatment of heavy fuel oil, petroleum refinery operation",
+      "geography": "RoW-EU",
+      "reference_product_name": "heavy fuel oil",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"heavy fuel oil production\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"heavy fuel oil\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "heavy fuel oil production",
+      "geography": "RER",
+      "reference_product_name": "heavy fuel oil",
+      "reference_product_unit": "kg"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"heavy fuel oil production, petroleum refinery operation\",\n  \"geography\": \"RER w/o CH\",\n  \"reference_product_name\": \"heavy fuel oil\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "heavy fuel oil production, petroleum refinery operation",
+      "geography": "RER w/o CH",
+      "reference_product_name": "heavy fuel oil",
+      "reference_product_unit": "kg"
+    },
+    "gemini_raw": "```json\n{\n  \"activity_name\": \"heavy fuel oil production, petroleum refinery operation\",\n  \"geography\": \"RER w/o CH\",\n  \"reference_product_name\": \"heavy fuel oil\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "gemini_parsed": {
+      "activity_name": "heavy fuel oil production, petroleum refinery operation",
+      "geography": "RER w/o CH",
+      "reference_product_name": "heavy fuel oil",
+      "reference_product_unit": "kg"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"heavy fuel oil production\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"heavy fuel oil\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "llama_parsed": {
+      "activity_name": "heavy fuel oil production",
+      "geography": "RER",
+      "reference_product_name": "heavy fuel oil",
+      "reference_product_unit": "kg"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"petroleum refinery, heavy fuel oil production\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"heavy fuel oil\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "petroleum refinery, heavy fuel oil production",
+      "geography": "RER",
+      "reference_product_name": "heavy fuel oil",
+      "reference_product_unit": "kg"
+    }
+  },
+  "30": {
+    "id": 30,
+    "activity_uuid": "ac0e38be-1b6b-512e-9c33-e3fdbf19ee9a_7f902692-a425-4c90-ad39-8ac409de309a",
+    "description": "An industrial process record describes operations related to market for furnace, logs, hardwood storage area, 100kw. This process is documented as taking place in worldwide. The output of this process, when measured, comes to 1 units (specifically unit) of a product known as furnace, logs, hardwood storage area, 100kw. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "market for furnace, logs, hardwood storage area, 100kW",
+      "geography": "GLO",
+      "reference_product_name": "furnace, logs, hardwood storage area, 100kW",
+      "reference_product_unit": "unit"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"market for furnace, logs, hardwood storage area, 100kw\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"furnace, logs, hardwood storage area, 100kw\",\n  \"reference_product_unit\": \"unit\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "market for furnace, logs, hardwood storage area, 100kw",
+      "geography": "GLO",
+      "reference_product_name": "furnace, logs, hardwood storage area, 100kw",
+      "reference_product_unit": "unit"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"furnace, logs, hardwood storage area, 100kW\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"furnace, logs, hardwood storage area, 100kW\",\n  \"reference_product_unit\": \"unit\"\n}",
+    "gpt_parsed": {
+      "activity_name": "furnace, logs, hardwood storage area, 100kW",
+      "geography": "GLO",
+      "reference_product_name": "furnace, logs, hardwood storage area, 100kW",
+      "reference_product_unit": "unit"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"market for furnace, logs, hardwood storage area, 100kW\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"furnace, logs, hardwood storage area, 100kW\",\n  \"reference_product_unit\": \"unit\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "market for furnace, logs, hardwood storage area, 100kW",
+      "geography": "GLO",
+      "reference_product_name": "furnace, logs, hardwood storage area, 100kW",
+      "reference_product_unit": "unit"
+    },
+    "gemini_raw": "```json\n{\n  \"activity_name\": \"market for furnace, logs, hardwood storage area, 100kw\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"furnace, logs, hardwood storage area, 100kw\",\n  \"reference_product_unit\": \"unit\"\n}\n```",
+    "gemini_parsed": {
+      "activity_name": "market for furnace, logs, hardwood storage area, 100kw",
+      "geography": "GLO",
+      "reference_product_name": "furnace, logs, hardwood storage area, 100kw",
+      "reference_product_unit": "unit"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"market for furnace, logs, hardwood storage area, 100kW\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"furnace, logs, hardwood storage area, 100kW\",\n  \"reference_product_unit\": \"unit\"\n}",
+    "llama_parsed": {
+      "activity_name": "market for furnace, logs, hardwood storage area, 100kW",
+      "geography": "GLO",
+      "reference_product_name": "furnace, logs, hardwood storage area, 100kW",
+      "reference_product_unit": "unit"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"market for furnace, logs, hardwood storage area, 100 kW\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"furnace, logs, hardwood storage area, 100 kW\",\n  \"reference_product_unit\": \"unit\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "market for furnace, logs, hardwood storage area, 100 kW",
+      "geography": "GLO",
+      "reference_product_name": "furnace, logs, hardwood storage area, 100 kW",
+      "reference_product_unit": "unit"
+    }
+  },
+  "31": {
+    "id": 31,
+    "activity_uuid": "c1d8955f-13b4-56e3-8019-c6ceb5aee434_66c93e71-f32b-4591-901c-55395db5c132",
+    "description": "An industrial process record describes operations related to electricity, high voltage, production mix. This process is documented as taking place in the region coded MK. The output of this process, when measured, comes to 1 units (specifically kWh) of a product known as electricity, high voltage. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "electricity, high voltage, production mix",
+      "geography": "MK",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"electricity production, high voltage\",\n  \"geography\": \"MK\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "electricity production, high voltage",
+      "geography": "MK",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"electricity, high voltage, production mix\",\n  \"geography\": \"MK\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gpt_parsed": {
+      "activity_name": "electricity, high voltage, production mix",
+      "geography": "MK",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"electricity, high voltage, production mix\",\n  \"geography\": \"MK\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "electricity, high voltage, production mix",
+      "geography": "MK",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gemini_raw": "```json\n{\n  \"activity_name\": \"electricity, high voltage, production mix\",\n  \"geography\": \"MK\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}\n```",
+    "gemini_parsed": {
+      "activity_name": "electricity, high voltage, production mix",
+      "geography": "MK",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"electricity production, high voltage\",\n  \"geography\": \"MK\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "llama_parsed": {
+      "activity_name": "electricity production, high voltage",
+      "geography": "MK",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"electricity, high voltage, production mix\",\n  \"geography\": \"MK\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "electricity, high voltage, production mix",
+      "geography": "MK",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    }
+  },
+  "32": {
+    "id": 32,
+    "activity_uuid": "6a59ae9b-a970-5f93-9140-a7abc77aa5fa_66c93e71-f32b-4591-901c-55395db5c132",
+    "description": "An industrial process record describes operations related to heat and power co-generation, biogas, gas engine. This process is documented as taking place in the region coded LU. The output of this process, when measured, comes to 1 units (specifically kWh) of a product known as electricity, high voltage. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "heat and power co-generation, biogas, gas engine",
+      "geography": "LU",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"heat and power co-generation, biogas, gas engine\",\n  \"geography\": \"LU\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "heat and power co-generation, biogas, gas engine",
+      "geography": "LU",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"electricity production, high voltage, from biogas\",\n  \"geography\": \"LU\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gpt_parsed": {
+      "activity_name": "electricity production, high voltage, from biogas",
+      "geography": "LU",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"heat and power co-generation, biogas, gas engine\",\n  \"geography\": \"LU\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "heat and power co-generation, biogas, gas engine",
+      "geography": "LU",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gemini_raw": "```json\n{\n  \"activity_name\": \"heat and power co-generation, biogas, gas engine\",\n  \"geography\": \"LU\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}\n```",
+    "gemini_parsed": {
+      "activity_name": "heat and power co-generation, biogas, gas engine",
+      "geography": "LU",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"electricity production, high voltage, from biogas\",\n  \"geography\": \"LU\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "llama_parsed": {
+      "activity_name": "electricity production, high voltage, from biogas",
+      "geography": "LU",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"electricity, high voltage, from biogas, gas engine, co-generation\",\n  \"geography\": \"LU\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "electricity, high voltage, from biogas, gas engine, co-generation",
+      "geography": "LU",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    }
+  },
+  "33": {
+    "id": 33,
+    "activity_uuid": "69be0c3b-8d76-5b63-a8ec-d4d6861dd737_1f82a4fc-f292-4854-90f1-3621a9997ba3",
+    "description": "An industrial process record describes operations related to treatment of sludge, nacl electrolysis, residual material landfill. This process is documented as taking place in the European region. The output of this process, when measured, comes to -1 units (specifically kg) of a product known as sludge, nacl electrolysis. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "treatment of sludge, NaCl electrolysis, residual material landfill",
+      "geography": "RER",
+      "reference_product_name": "sludge, NaCl electrolysis",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"treatment of sludge, NaCl electrolysis, residual material landfill\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"sludge, NaCl electrolysis\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "treatment of sludge, NaCl electrolysis, residual material landfill",
+      "geography": "RER",
+      "reference_product_name": "sludge, NaCl electrolysis",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"treatment of sludge, NaCl electrolysis\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"sludge, NaCl electrolysis\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "treatment of sludge, NaCl electrolysis",
+      "geography": "RER",
+      "reference_product_name": "sludge, NaCl electrolysis",
+      "reference_product_unit": "kg"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"treatment of sludge, NaCl electrolysis, residual material landfill\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"sludge, NaCl electrolysis\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "treatment of sludge, NaCl electrolysis, residual material landfill",
+      "geography": "RER",
+      "reference_product_name": "sludge, NaCl electrolysis",
+      "reference_product_unit": "kg"
+    },
+    "gemini_raw": "```json\n{\n  \"activity_name\": \"treatment of sludge, NaCl electrolysis, residual material landfill\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"sludge, NaCl electrolysis\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "gemini_parsed": {
+      "activity_name": "treatment of sludge, NaCl electrolysis, residual material landfill",
+      "geography": "RER",
+      "reference_product_name": "sludge, NaCl electrolysis",
+      "reference_product_unit": "kg"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"treatment of sludge, NaCl electrolysis, residual material to landfill\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"sludge, NaCl electrolysis\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "llama_parsed": {
+      "activity_name": "treatment of sludge, NaCl electrolysis, residual material to landfill",
+      "geography": "RER",
+      "reference_product_name": "sludge, NaCl electrolysis",
+      "reference_product_unit": "kg"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"Treatment of sludge, NaCl electrolysis, residual material landfill\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"sludge, NaCl electrolysis\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "Treatment of sludge, NaCl electrolysis, residual material landfill",
+      "geography": "RER",
+      "reference_product_name": "sludge, NaCl electrolysis",
+      "reference_product_unit": "kg"
+    }
+  },
+  "34": {
+    "id": 34,
+    "activity_uuid": "7e877bd4-6f4d-5fc6-b40e-85d0a8f0e5b7_e5af955f-8ace-49b6-89b2-60fafd55e9d9",
+    "description": "An industrial process record describes operations related to anchovy, capture by steel purse seiner and landing whole, fresh. This process is documented as taking place in the rest of the world. The output of this process, when measured, comes to 1 units (specifically kg) of a product known as landed anchovy by-catch, fresh. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "anchovy, capture by steel purse seiner and landing whole, fresh",
+      "geography": "RoW",
+      "reference_product_name": "landed anchovy by-catch, fresh",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"Anchovies (Engraulis ringens), capture by steel purse seiner and landing whole, fresh\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"Anchovies (Engraulis ringens), landed, fresh\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "Anchovies (Engraulis ringens), capture by steel purse seiner and landing whole, fresh",
+      "geography": "RoW",
+      "reference_product_name": "Anchovies (Engraulis ringens), landed, fresh",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"Anchovy, capture by steel purse seiner\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"landed anchovy by-catch, fresh\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "Anchovy, capture by steel purse seiner",
+      "geography": "RoW",
+      "reference_product_name": "landed anchovy by-catch, fresh",
+      "reference_product_unit": "kg"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"anchovy, capture by steel purse seiner and landing, whole fresh\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"anchovy by-catch, landed, fresh\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "anchovy, capture by steel purse seiner and landing, whole fresh",
+      "geography": "RoW",
+      "reference_product_name": "anchovy by-catch, landed, fresh",
+      "reference_product_unit": "kg"
+    },
+    "gemini_raw": "{\n  \"activity_name\": \"anchovy, capture by steel purse seiner and landing whole, fresh\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"landed anchovy by-catch, fresh\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gemini_parsed": {
+      "activity_name": "anchovy, capture by steel purse seiner and landing whole, fresh",
+      "geography": "RoW",
+      "reference_product_name": "landed anchovy by-catch, fresh",
+      "reference_product_unit": "kg"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"fish catch, anchovy, by purse seine\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"anchovy by-catch, fresh\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "llama_parsed": {
+      "activity_name": "fish catch, anchovy, by purse seine",
+      "geography": "RoW",
+      "reference_product_name": "anchovy by-catch, fresh",
+      "reference_product_unit": "kg"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"Capture of anchovy (steel purse seine), landing (fresh)\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"landed anchovy by-catch, fresh\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "Capture of anchovy (steel purse seine), landing (fresh)",
+      "geography": "RoW",
+      "reference_product_name": "landed anchovy by-catch, fresh",
+      "reference_product_unit": "kg"
+    }
+  },
+  "35": {
+    "id": 35,
+    "activity_uuid": "97c39cd1-555b-55e0-8e24-446ac5508d10_bf633ec7-acbf-46a8-b490-042e9557eda8",
+    "description": "An industrial process record describes operations related to market for sawnwood, lath, softwood, dried (u=20%), planed. This process is documented as taking place in the region coded Europe without Switzerland. The output of this process, when measured, comes to 1 units (specifically m3) of a product known as sawnwood, lath, softwood, dried (u=20%), planed. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "market for sawnwood, lath, softwood, dried (u=20%), planed",
+      "geography": "Europe without Switzerland",
+      "reference_product_name": "sawnwood, lath, softwood, dried (u=20%), planed",
+      "reference_product_unit": "m3"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"market for sawnwood, lath, softwood, dried (u=20%), planed\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"sawnwood, lath, softwood, dried (u=20%), planed\",\n  \"reference_product_unit\": \"m3\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "market for sawnwood, lath, softwood, dried (u=20%), planed",
+      "geography": "RoW",
+      "reference_product_name": "sawnwood, lath, softwood, dried (u=20%), planed",
+      "reference_product_unit": "m3"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"sawnwood, lath, softwood, dried (u=20%), planed\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"sawnwood, lath, softwood, dried (u=20%), planed\",\n  \"reference_product_unit\": \"m3\"\n}",
+    "gpt_parsed": {
+      "activity_name": "sawnwood, lath, softwood, dried (u=20%), planed",
+      "geography": "RER",
+      "reference_product_name": "sawnwood, lath, softwood, dried (u=20%), planed",
+      "reference_product_unit": "m3"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"market for sawnwood, lath, softwood, dried (u=20%), planed\",\n  \"geography\": \"RER w/o CH\",\n  \"reference_product_name\": \"sawnwood, lath, softwood, dried (u=20%), planed\",\n  \"reference_product_unit\": \"m3\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "market for sawnwood, lath, softwood, dried (u=20%), planed",
+      "geography": "RER w/o CH",
+      "reference_product_name": "sawnwood, lath, softwood, dried (u=20%), planed",
+      "reference_product_unit": "m3"
+    },
+    "gemini_raw": "{\n  \"activity_name\": \"market for sawnwood, lath, softwood, dried (u=20%), planed\",\n  \"geography\": \"RER w/o CH\",\n  \"reference_product_name\": \"sawnwood, lath, softwood, dried (u=20%), planed\",\n  \"reference_product_unit\": \"m3\"\n}",
+    "gemini_parsed": {
+      "activity_name": "market for sawnwood, lath, softwood, dried (u=20%), planed",
+      "geography": "RER w/o CH",
+      "reference_product_name": "sawnwood, lath, softwood, dried (u=20%), planed",
+      "reference_product_unit": "m3"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"market for sawnwood, lath, softwood, dried (u=20%), planed\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"sawnwood, lath, softwood, dried (u=20%), planed\",\n  \"reference_product_unit\": \"m3\"\n}",
+    "llama_parsed": {
+      "activity_name": "market for sawnwood, lath, softwood, dried (u=20%), planed",
+      "geography": "RER",
+      "reference_product_name": "sawnwood, lath, softwood, dried (u=20%), planed",
+      "reference_product_unit": "m3"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"market for sawnwood, lath, softwood, dried (u=20%), planed\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"sawnwood, lath, softwood, dried (u=20%), planed\",\n  \"reference_product_unit\": \"m3\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "market for sawnwood, lath, softwood, dried (u=20%), planed",
+      "geography": "RER",
+      "reference_product_name": "sawnwood, lath, softwood, dried (u=20%), planed",
+      "reference_product_unit": "m3"
+    }
+  },
+  "36": {
+    "id": 36,
+    "activity_uuid": "cd1b0972-a0af-5b95-a2f2-1cfe814d4f86_66c93e71-f32b-4591-901c-55395db5c132",
+    "description": "An industrial process record describes operations related to market for electricity, high voltage. This process is documented as taking place in the region coded ES. The output of this process, when measured, comes to 1 units (specifically kWh) of a product known as electricity, high voltage. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "market for electricity, high voltage",
+      "geography": "ES",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"market for electricity, high voltage\",\n  \"geography\": \"ES\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "market for electricity, high voltage",
+      "geography": "ES",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"electricity, high voltage production\",\n  \"geography\": \"ES\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gpt_parsed": {
+      "activity_name": "electricity, high voltage production",
+      "geography": "ES",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"market for electricity, high voltage\",\n  \"geography\": \"ES\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "market for electricity, high voltage",
+      "geography": "ES",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gemini_raw": "```json\n{\n  \"activity_name\": \"market for electricity, high voltage\",\n  \"geography\": \"ES\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}\n```",
+    "gemini_parsed": {
+      "activity_name": "market for electricity, high voltage",
+      "geography": "ES",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"market for electricity, high voltage\",\n  \"geography\": \"ES\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "llama_parsed": {
+      "activity_name": "market for electricity, high voltage",
+      "geography": "ES",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"market for electricity, high voltage\",\n  \"geography\": \"ES\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "market for electricity, high voltage",
+      "geography": "ES",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    }
+  },
+  "37": {
+    "id": 37,
+    "activity_uuid": "f78e6bcf-1f15-54cb-a9b0-e778bf84937f_d16b5d3f-b5e4-45b6-9a04-23cde05220c0",
+    "description": "An industrial process record describes operations related to market for nylon 6. This process is documented as taking place in the rest of the world. The output of this process, when measured, comes to 1 units (specifically kg) of a product known as nylon 6. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "market for nylon 6",
+      "geography": "RoW",
+      "reference_product_name": "nylon 6",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"market for nylon 6\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"nylon 6\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "market for nylon 6",
+      "geography": "RoW",
+      "reference_product_name": "nylon 6",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"Nylon 6 production\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"Nylon 6\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "Nylon 6 production",
+      "geography": "RoW",
+      "reference_product_name": "Nylon 6",
+      "reference_product_unit": "kg"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"market for nylon 6\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"nylon 6\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "market for nylon 6",
+      "geography": "RoW",
+      "reference_product_name": "nylon 6",
+      "reference_product_unit": "kg"
+    },
+    "gemini_raw": "{\n  \"activity_name\": \"market for nylon 6\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"nylon 6\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gemini_parsed": {
+      "activity_name": "market for nylon 6",
+      "geography": "RoW",
+      "reference_product_name": "nylon 6",
+      "reference_product_unit": "kg"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"market for nylon 6\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"nylon 6\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "llama_parsed": {
+      "activity_name": "market for nylon 6",
+      "geography": "RoW",
+      "reference_product_name": "nylon 6",
+      "reference_product_unit": "kg"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"market for nylon 6\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"nylon 6\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "market for nylon 6",
+      "geography": "RoW",
+      "reference_product_name": "nylon 6",
+      "reference_product_unit": "kg"
+    }
+  },
+  "38": {
+    "id": 38,
+    "activity_uuid": "b5664c28-112a-5ded-9a17-4f00f3c8573d_fc9591fa-99c6-49f4-a80c-d7ae4be937b2",
+    "description": "An industrial process record describes operations related to deep drawing, steel, 3500 kn press, single stroke. This process is documented as taking place in the rest of the world. The output of this process, when measured, comes to 1 units (specifically kg) of a product known as deep drawing, steel, 3500 kn press, single stroke. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "deep drawing, steel, 3500 kN press, single stroke",
+      "geography": "RoW",
+      "reference_product_name": "deep drawing, steel, 3500 kN press, single stroke",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"deep drawing, steel, 3500 kn press, single stroke\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"deep drawing, steel, 3500 kn press, single stroke\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "deep drawing, steel, 3500 kn press, single stroke",
+      "geography": "RoW",
+      "reference_product_name": "deep drawing, steel, 3500 kn press, single stroke",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"deep drawing, steel, 3500 kN press, single stroke\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"deep drawing, steel, 3500 kN press, single stroke\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "deep drawing, steel, 3500 kN press, single stroke",
+      "geography": "RoW",
+      "reference_product_name": "deep drawing, steel, 3500 kN press, single stroke",
+      "reference_product_unit": "kg"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"deep drawing, steel, 3500 kN press, single stroke\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"deep drawing, steel, 3500 kN press, single stroke\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "deep drawing, steel, 3500 kN press, single stroke",
+      "geography": "RoW",
+      "reference_product_name": "deep drawing, steel, 3500 kN press, single stroke",
+      "reference_product_unit": "kg"
+    },
+    "gemini_raw": "```json\n{\n  \"activity_name\": \"deep drawing, steel, 3500 kN press, single stroke\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"deep drawing, steel, 3500 kN press, single stroke\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "gemini_parsed": {
+      "activity_name": "deep drawing, steel, 3500 kN press, single stroke",
+      "geography": "RoW",
+      "reference_product_name": "deep drawing, steel, 3500 kN press, single stroke",
+      "reference_product_unit": "kg"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"deep drawing, steel, 3500 kn press, single stroke\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"deep drawing, steel, 3500 kn press, single stroke\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "llama_parsed": {
+      "activity_name": "deep drawing, steel, 3500 kn press, single stroke",
+      "geography": "RoW",
+      "reference_product_name": "deep drawing, steel, 3500 kn press, single stroke",
+      "reference_product_unit": "kg"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"deep drawing, steel, 3500 kN press, single stroke\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"deep drawing, steel, 3500 kN press, single stroke\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "deep drawing, steel, 3500 kN press, single stroke",
+      "geography": "RoW",
+      "reference_product_name": "deep drawing, steel, 3500 kN press, single stroke",
+      "reference_product_unit": "kg"
+    }
+  },
+  "39": {
+    "id": 39,
+    "activity_uuid": "cd297924-7b5e-51a3-8444-b3a944ae9f04_66c93e71-f32b-4591-901c-55395db5c132",
+    "description": "An industrial process record describes operations related to electricity production, wind, >3mw turbine, onshore. This process is documented as taking place in Switzerland. The output of this process, when measured, comes to 1 units (specifically kWh) of a product known as electricity, high voltage. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "electricity production, wind, >3MW turbine, onshore",
+      "geography": "CH",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"Electricity production, wind, >3MW turbine, onshore\",\n  \"geography\": \"CH\",\n  \"reference_product_name\": \"Electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "Electricity production, wind, >3MW turbine, onshore",
+      "geography": "CH",
+      "reference_product_name": "Electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"electricity production, wind, >3MW turbine, onshore\",\n  \"geography\": \"CH\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gpt_parsed": {
+      "activity_name": "electricity production, wind, >3MW turbine, onshore",
+      "geography": "CH",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"electricity production, wind, >3MW turbine, onshore\",\n  \"geography\": \"CH\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "electricity production, wind, >3MW turbine, onshore",
+      "geography": "CH",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gemini_raw": "```json\n{\n  \"activity_name\": \"electricity production, wind, >3MW turbine, onshore\",\n  \"geography\": \"CH\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}\n```",
+    "gemini_parsed": {
+      "activity_name": "electricity production, wind, >3MW turbine, onshore",
+      "geography": "CH",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"electricity production, wind, >3MW turbine, onshore\",\n  \"geography\": \"CH\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "llama_parsed": {
+      "activity_name": "electricity production, wind, >3MW turbine, onshore",
+      "geography": "CH",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"electricity production, wind, >3 MW, onshore\",\n  \"geography\": \"CH\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "electricity production, wind, >3 MW, onshore",
+      "geography": "CH",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    }
+  },
+  "40": {
+    "id": 40,
+    "activity_uuid": "b1d6f581-34d7-5871-bbf4-7ca0e96344dc_7c4dafff-fe18-45c0-92e4-857950032abb",
+    "description": "An industrial process record describes operations related to market for inorganic potassium fertiliser, as k2o. This process is documented as taking place in the region coded RO. The output of this process, when measured, comes to 1 units (specifically kg) of a product known as inorganic potassium fertiliser, as k2o. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "market for inorganic potassium fertiliser, as K2O",
+      "geography": "RO",
+      "reference_product_name": "inorganic potassium fertiliser, as K2O",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"market for inorganic potassium fertiliser, as K2O\",\n  \"geography\": \"RO\",\n  \"reference_product_name\": \"inorganic potassium fertiliser, as K2O\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "market for inorganic potassium fertiliser, as K2O",
+      "geography": "RO",
+      "reference_product_name": "inorganic potassium fertiliser, as K2O",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"inorganic potassium fertiliser production\",\n  \"geography\": \"RO\",\n  \"reference_product_name\": \"potassium fertiliser, as K2O\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "inorganic potassium fertiliser production",
+      "geography": "RO",
+      "reference_product_name": "potassium fertiliser, as K2O",
+      "reference_product_unit": "kg"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"market for inorganic potassium fertiliser, as K2O\",\n  \"geography\": \"RO\",\n  \"reference_product_name\": \"inorganic potassium fertiliser, as K2O\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "market for inorganic potassium fertiliser, as K2O",
+      "geography": "RO",
+      "reference_product_name": "inorganic potassium fertiliser, as K2O",
+      "reference_product_unit": "kg"
+    },
+    "gemini_raw": "{\n  \"activity_name\": \"market for inorganic potassium fertiliser, as k2o\",\n  \"geography\": \"RO\",\n  \"reference_product_name\": \"inorganic potassium fertiliser, as k2o\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gemini_parsed": {
+      "activity_name": "market for inorganic potassium fertiliser, as k2o",
+      "geography": "RO",
+      "reference_product_name": "inorganic potassium fertiliser, as k2o",
+      "reference_product_unit": "kg"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"market for inorganic potassium fertiliser, as K2O\",\n  \"geography\": \"ROW\",\n  \"reference_product_name\": \"inorganic potassium fertiliser, as K2O\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "llama_parsed": {
+      "activity_name": "market for inorganic potassium fertiliser, as K2O",
+      "geography": "ROW",
+      "reference_product_name": "inorganic potassium fertiliser, as K2O",
+      "reference_product_unit": "kg"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"market for inorganic potassium fertiliser, K2O\",\n  \"geography\": \"RO\",\n  \"reference_product_name\": \"inorganic potassium fertiliser, K2O\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "market for inorganic potassium fertiliser, K2O",
+      "geography": "RO",
+      "reference_product_name": "inorganic potassium fertiliser, K2O",
+      "reference_product_unit": "kg"
+    }
+  },
+  "41": {
+    "id": 41,
+    "activity_uuid": "579c500d-b54f-553a-bab7-b6a94f9a283b_4a7cb413-a6f1-4b74-b366-c8ef7a781026",
+    "description": "An industrial process record describes operations related to market for sawnwood, softwood, raw, dried (u=20%). This process is documented as taking place in the rest of the world. The output of this process, when measured, comes to 1 units (specifically m3) of a product known as sawnwood, softwood, raw, dried (u=20%). Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "market for sawnwood, softwood, raw, dried (u=20%)",
+      "geography": "RoW",
+      "reference_product_name": "sawnwood, softwood, raw, dried (u=20%)",
+      "reference_product_unit": "m3"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"market for sawnwood, softwood, raw, dried (u=20%)\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"sawnwood, softwood, raw, dried (u=20%)\",\n  \"reference_product_unit\": \"m3\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "market for sawnwood, softwood, raw, dried (u=20%)",
+      "geography": "RoW",
+      "reference_product_name": "sawnwood, softwood, raw, dried (u=20%)",
+      "reference_product_unit": "m3"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"sawnwood production, softwood, raw, dried (u=20%)\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"sawnwood, softwood, raw, dried (u=20%)\",\n  \"reference_product_unit\": \"m3\"\n}",
+    "gpt_parsed": {
+      "activity_name": "sawnwood production, softwood, raw, dried (u=20%)",
+      "geography": "RoW",
+      "reference_product_name": "sawnwood, softwood, raw, dried (u=20%)",
+      "reference_product_unit": "m3"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"market for sawnwood, softwood, raw, dried (u=20%)\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"sawnwood, softwood, raw, dried (u=20%)\",\n  \"reference_product_unit\": \"m3\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "market for sawnwood, softwood, raw, dried (u=20%)",
+      "geography": "RoW",
+      "reference_product_name": "sawnwood, softwood, raw, dried (u=20%)",
+      "reference_product_unit": "m3"
+    },
+    "gemini_raw": "{\n  \"activity_name\": \"market for sawnwood, softwood, raw, dried (u=20%)\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"sawnwood, softwood, raw, dried (u=20%)\",\n  \"reference_product_unit\": \"m3\"\n}",
+    "gemini_parsed": {
+      "activity_name": "market for sawnwood, softwood, raw, dried (u=20%)",
+      "geography": "RoW",
+      "reference_product_name": "sawnwood, softwood, raw, dried (u=20%)",
+      "reference_product_unit": "m3"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"market for sawnwood, softwood, raw, dried (u=20%)\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"sawnwood, softwood, raw, dried (u=20%)\",\n  \"reference_product_unit\": \"m3\"\n}",
+    "llama_parsed": {
+      "activity_name": "market for sawnwood, softwood, raw, dried (u=20%)",
+      "geography": "RoW",
+      "reference_product_name": "sawnwood, softwood, raw, dried (u=20%)",
+      "reference_product_unit": "m3"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"market for sawnwood, softwood, raw, dried (u=20%)\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"sawnwood, softwood, raw, dried (u=20%)\",\n  \"reference_product_unit\": \"m3\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "market for sawnwood, softwood, raw, dried (u=20%)",
+      "geography": "RoW",
+      "reference_product_name": "sawnwood, softwood, raw, dried (u=20%)",
+      "reference_product_unit": "m3"
+    }
+  },
+  "42": {
+    "id": 42,
+    "activity_uuid": "898e3aab-281e-5a7e-be5d-45bb61dd3fd0_7c4dafff-fe18-45c0-92e4-857950032abb",
+    "description": "An industrial process record describes operations related to market for inorganic potassium fertiliser, as k2o. This process is documented as taking place in the region coded BD. The output of this process, when measured, comes to 1 units (specifically kg) of a product known as inorganic potassium fertiliser, as k2o. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "market for inorganic potassium fertiliser, as K2O",
+      "geography": "BD",
+      "reference_product_name": "inorganic potassium fertiliser, as K2O",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"market for inorganic potassium fertiliser, as K2O\",\n  \"geography\": \"BD\",\n  \"reference_product_name\": \"inorganic potassium fertiliser, as K2O\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "market for inorganic potassium fertiliser, as K2O",
+      "geography": "BD",
+      "reference_product_name": "inorganic potassium fertiliser, as K2O",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"inorganic potassium fertiliser production\",\n  \"geography\": \"BD\",\n  \"reference_product_name\": \"potassium fertiliser, as K2O\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "inorganic potassium fertiliser production",
+      "geography": "BD",
+      "reference_product_name": "potassium fertiliser, as K2O",
+      "reference_product_unit": "kg"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"market for inorganic potassium fertiliser, as K2O\",\n  \"geography\": \"BD\",\n  \"reference_product_name\": \"inorganic potassium fertiliser, as K2O\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "market for inorganic potassium fertiliser, as K2O",
+      "geography": "BD",
+      "reference_product_name": "inorganic potassium fertiliser, as K2O",
+      "reference_product_unit": "kg"
+    },
+    "gemini_raw": "{\n  \"activity_name\": \"market for inorganic potassium fertiliser, as k2o\",\n  \"geography\": \"BD\",\n  \"reference_product_name\": \"inorganic potassium fertiliser, as k2o\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gemini_parsed": {
+      "activity_name": "market for inorganic potassium fertiliser, as k2o",
+      "geography": "BD",
+      "reference_product_name": "inorganic potassium fertiliser, as k2o",
+      "reference_product_unit": "kg"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"market for inorganic potassium fertiliser, as K2O\",\n  \"geography\": \"BD\",\n  \"reference_product_name\": \"inorganic potassium fertiliser, as K2O\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "llama_parsed": {
+      "activity_name": "market for inorganic potassium fertiliser, as K2O",
+      "geography": "BD",
+      "reference_product_name": "inorganic potassium fertiliser, as K2O",
+      "reference_product_unit": "kg"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"market for inorganic potassium fertiliser, K2O\",\n  \"geography\": \"BD\",\n  \"reference_product_name\": \"inorganic potassium fertiliser, K2O\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "market for inorganic potassium fertiliser, K2O",
+      "geography": "BD",
+      "reference_product_name": "inorganic potassium fertiliser, K2O",
+      "reference_product_unit": "kg"
+    }
+  },
+  "43": {
+    "id": 43,
+    "activity_uuid": "45445024-db28-50a6-a804-8d0645fa0f1f_ca439928-3048-44a5-9ec3-9cf32b52bdce",
+    "description": "An industrial process record describes operations related to photovoltaics, electric installation for 3kwp module, at building. This process is documented as taking place in Switzerland. The output of this process, when measured, comes to 1 units (specifically unit) of a product known as photovoltaics, electric installation for 3kwp module, at building. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "photovoltaics, electric installation for 3kWp module, at building",
+      "geography": "CH",
+      "reference_product_name": "photovoltaics, electric installation for 3kWp module, at building",
+      "reference_product_unit": "unit"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"photovoltaics, electric installation for 3kwp module, at building\",\n  \"geography\": \"CH\",\n  \"reference_product_name\": \"photovoltaics, electric installation for 3kwp module, at building\",\n  \"reference_product_unit\": \"unit\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "photovoltaics, electric installation for 3kwp module, at building",
+      "geography": "CH",
+      "reference_product_name": "photovoltaics, electric installation for 3kwp module, at building",
+      "reference_product_unit": "unit"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"photovoltaics, electric installation for 3 kWp module, at building\",\n  \"geography\": \"CH\",\n  \"reference_product_name\": \"photovoltaics, electric installation for 3 kWp module, at building\",\n  \"reference_product_unit\": \"unit\"\n}",
+    "gpt_parsed": {
+      "activity_name": "photovoltaics, electric installation for 3 kWp module, at building",
+      "geography": "CH",
+      "reference_product_name": "photovoltaics, electric installation for 3 kWp module, at building",
+      "reference_product_unit": "unit"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"photovoltaics, electric installation for 3kWp module, at building\",\n  \"geography\": \"CH\",\n  \"reference_product_name\": \"photovoltaics, electric installation for 3kWp module, at building\",\n  \"reference_product_unit\": \"unit\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "photovoltaics, electric installation for 3kWp module, at building",
+      "geography": "CH",
+      "reference_product_name": "photovoltaics, electric installation for 3kWp module, at building",
+      "reference_product_unit": "unit"
+    },
+    "gemini_raw": "```json\n{\n  \"activity_name\": \"photovoltaics, electric installation for 3kWp module, at building\",\n  \"geography\": \"CH\",\n  \"reference_product_name\": \"photovoltaics, electric installation for 3kWp module, at building\",\n  \"reference_product_unit\": \"unit\"\n}\n```",
+    "gemini_parsed": {
+      "activity_name": "photovoltaics, electric installation for 3kWp module, at building",
+      "geography": "CH",
+      "reference_product_name": "photovoltaics, electric installation for 3kWp module, at building",
+      "reference_product_unit": "unit"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"photovoltaics, electric installation for 3kwp module, at building\",\n  \"geography\": \"CH\",\n  \"reference_product_name\": \"photovoltaics, electric installation for 3kwp module, at building\",\n  \"reference_product_unit\": \"unit\"\n}",
+    "llama_parsed": {
+      "activity_name": "photovoltaics, electric installation for 3kwp module, at building",
+      "geography": "CH",
+      "reference_product_name": "photovoltaics, electric installation for 3kwp module, at building",
+      "reference_product_unit": "unit"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"electricity, photovoltaic, 3 kW peak, installation, building\",\n  \"geography\": \"CH\",\n  \"reference_product_name\": \"electricity, photovoltaic, 3 kW peak, installation, building\",\n  \"reference_product_unit\": \"unit\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "electricity, photovoltaic, 3 kW peak, installation, building",
+      "geography": "CH",
+      "reference_product_name": "electricity, photovoltaic, 3 kW peak, installation, building",
+      "reference_product_unit": "unit"
+    }
+  },
+  "44": {
+    "id": 44,
+    "activity_uuid": "334b8193-a06d-544f-b5cb-4ab777350435_dcb70fd5-e305-4920-b68b-40697cc6a206",
+    "description": "An industrial process record describes operations related to market for waste polyethylene terephthalate. This process is documented as taking place in the region coded GR. The output of this process, when measured, comes to -1 units (specifically kg) of a product known as waste polyethylene terephthalate. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "market for waste polyethylene terephthalate",
+      "geography": "GR",
+      "reference_product_name": "waste polyethylene terephthalate",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"market for waste polyethylene terephthalate\",\n  \"geography\": \"GR\",\n  \"reference_product_name\": \"waste polyethylene terephthalate\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "market for waste polyethylene terephthalate",
+      "geography": "GR",
+      "reference_product_name": "waste polyethylene terephthalate",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"market for waste polyethylene terephthalate\",\n  \"geography\": \"GR\",\n  \"reference_product_name\": \"waste polyethylene terephthalate\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "market for waste polyethylene terephthalate",
+      "geography": "GR",
+      "reference_product_name": "waste polyethylene terephthalate",
+      "reference_product_unit": "kg"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"market for waste polyethylene terephthalate\",\n  \"geography\": \"GR\",\n  \"reference_product_name\": \"waste polyethylene terephthalate\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "market for waste polyethylene terephthalate",
+      "geography": "GR",
+      "reference_product_name": "waste polyethylene terephthalate",
+      "reference_product_unit": "kg"
+    },
+    "gemini_raw": "```json\n{\n  \"activity_name\": \"market for waste polyethylene terephthalate\",\n  \"geography\": \"GR\",\n  \"reference_product_name\": \"waste polyethylene terephthalate\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "gemini_parsed": {
+      "activity_name": "market for waste polyethylene terephthalate",
+      "geography": "GR",
+      "reference_product_name": "waste polyethylene terephthalate",
+      "reference_product_unit": "kg"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"market for waste polyethylene terephthalate\",\n  \"geography\": \"GR\",\n  \"reference_product_name\": \"waste polyethylene terephthalate\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "llama_parsed": {
+      "activity_name": "market for waste polyethylene terephthalate",
+      "geography": "GR",
+      "reference_product_name": "waste polyethylene terephthalate",
+      "reference_product_unit": "kg"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"market for waste polyethylene terephthalate\",\n  \"geography\": \"GR\",\n  \"reference_product_name\": \"waste polyethylene terephthalate\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "market for waste polyethylene terephthalate",
+      "geography": "GR",
+      "reference_product_name": "waste polyethylene terephthalate",
+      "reference_product_unit": "kg"
+    }
+  },
+  "45": {
+    "id": 45,
+    "activity_uuid": "b0a1707c-d78c-594a-8e2b-1d49a89c43e6_9a7b015b-d091-4408-bbc1-6df501d550c9",
+    "description": "An industrial process record describes operations related to market for zinc monosulfate. This process is documented as taking place in the rest of the world. The output of this process, when measured, comes to 1 units (specifically kg) of a product known as zinc monosulfate. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "market for zinc monosulfate",
+      "geography": "RoW",
+      "reference_product_name": "zinc monosulfate",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"market for zinc monosulfate\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"zinc monosulfate\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "market for zinc monosulfate",
+      "geography": "RoW",
+      "reference_product_name": "zinc monosulfate",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"Zinc monosulfate production\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"zinc monosulfate\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "Zinc monosulfate production",
+      "geography": "RoW",
+      "reference_product_name": "zinc monosulfate",
+      "reference_product_unit": "kg"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"market for zinc monosulfate\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"zinc monosulfate\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "market for zinc monosulfate",
+      "geography": "RoW",
+      "reference_product_name": "zinc monosulfate",
+      "reference_product_unit": "kg"
+    },
+    "gemini_raw": "{\n  \"activity_name\": \"market for zinc monosulfate\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"zinc monosulfate\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gemini_parsed": {
+      "activity_name": "market for zinc monosulfate",
+      "geography": "RoW",
+      "reference_product_name": "zinc monosulfate",
+      "reference_product_unit": "kg"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"market for zinc monosulfate\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"zinc monosulfate\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "llama_parsed": {
+      "activity_name": "market for zinc monosulfate",
+      "geography": "RoW",
+      "reference_product_name": "zinc monosulfate",
+      "reference_product_unit": "kg"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"market for zinc monosulfate\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"zinc monosulfate\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "market for zinc monosulfate",
+      "geography": "RoW",
+      "reference_product_name": "zinc monosulfate",
+      "reference_product_unit": "kg"
+    }
+  },
+  "46": {
+    "id": 46,
+    "activity_uuid": "1db486ae-aff6-57e8-a25f-922672fdc9f0_71e2f1db-a2c5-44d0-8337-dfff15be974d",
+    "description": "An industrial process record describes operations related to treatment of bagasse, from sugarcane, in heat and power co-generation unit, 6400kw thermal. This process is documented as taking place in the region coded IN-Northern grid. The output of this process, when measured, comes to 1 units (specifically MJ) of a product known as heat, district or industrial, other than natural gas. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "treatment of bagasse, from sugarcane, in heat and power co-generation unit, 6400kW thermal",
+      "geography": "IN-Northern grid",
+      "reference_product_name": "heat, district or industrial, other than natural gas",
+      "reference_product_unit": "MJ"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"Heat and power co-generation, bagasse, 6400 kW thermal\",\n  \"geography\": \"IN\",\n  \"reference_product_name\": \"heat, district or industrial, other than natural gas\",\n  \"reference_product_unit\": \"MJ\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "Heat and power co-generation, bagasse, 6400 kW thermal",
+      "geography": "IN",
+      "reference_product_name": "heat, district or industrial, other than natural gas",
+      "reference_product_unit": "MJ"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"Heat and power co-generation from bagasse\",\n  \"geography\": \"IN\",\n  \"reference_product_name\": \"heat, district or industrial, other than natural gas\",\n  \"reference_product_unit\": \"MJ\"\n}",
+    "gpt_parsed": {
+      "activity_name": "Heat and power co-generation from bagasse",
+      "geography": "IN",
+      "reference_product_name": "heat, district or industrial, other than natural gas",
+      "reference_product_unit": "MJ"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"heat production, bagasse, in heat and power co-generation unit, 6400kW thermal\",\n  \"geography\": \"IN-N\",\n  \"reference_product_name\": \"heat, district or industrial, other than natural gas\",\n  \"reference_product_unit\": \"MJ\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "heat production, bagasse, in heat and power co-generation unit, 6400kW thermal",
+      "geography": "IN-N",
+      "reference_product_name": "heat, district or industrial, other than natural gas",
+      "reference_product_unit": "MJ"
+    },
+    "gemini_raw": "```json\n{\n  \"activity_name\": \"treatment of bagasse, from sugarcane, in heat and power co-generation unit, 6400kW thermal\",\n  \"geography\": \"IN-Northern grid\",\n  \"reference_product_name\": \"heat, district or industrial, other than natural gas\",\n  \"reference_product_unit\": \"MJ\"\n}\n```",
+    "gemini_parsed": {
+      "activity_name": "treatment of bagasse, from sugarcane, in heat and power co-generation unit, 6400kW thermal",
+      "geography": "IN-Northern grid",
+      "reference_product_name": "heat, district or industrial, other than natural gas",
+      "reference_product_unit": "MJ"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"heat production, district or industrial, other than natural gas, from bagasse\",\n  \"geography\": \"IN\",\n  \"reference_product_name\": \"heat, district or industrial, other than natural gas\",\n  \"reference_product_unit\": \"MJ\"\n}",
+    "llama_parsed": {
+      "activity_name": "heat production, district or industrial, other than natural gas, from bagasse",
+      "geography": "IN",
+      "reference_product_name": "heat, district or industrial, other than natural gas",
+      "reference_product_unit": "MJ"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"heat and power co-generation, bagasse, 6400 kW (thermal)\",\n  \"geography\": \"IN\",\n  \"reference_product_name\": \"heat, district or industrial, other than natural gas\",\n  \"reference_product_unit\": \"MJ\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "heat and power co-generation, bagasse, 6400 kW (thermal)",
+      "geography": "IN",
+      "reference_product_name": "heat, district or industrial, other than natural gas",
+      "reference_product_unit": "MJ"
+    }
+  },
+  "47": {
+    "id": 47,
+    "activity_uuid": "c1cf5497-e0cc-50f4-8321-96bf394e071a_759b89bd-3aa6-42ad-b767-5bb9ef5d331d",
+    "description": "An industrial process record describes operations related to market for electricity, medium voltage. This process is documented as taking place in Japan. The output of this process, when measured, comes to 1 units (specifically kWh) of a product known as electricity, medium voltage. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "market for electricity, medium voltage",
+      "geography": "JP",
+      "reference_product_name": "electricity, medium voltage",
+      "reference_product_unit": "kWh"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"market for electricity, medium voltage\",\n  \"geography\": \"JP\",\n  \"reference_product_name\": \"electricity, medium voltage\",\n  \"reference_product_unit\": \"kWh\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "market for electricity, medium voltage",
+      "geography": "JP",
+      "reference_product_name": "electricity, medium voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"electricity, medium voltage production\",\n  \"geography\": \"JP\",\n  \"reference_product_name\": \"electricity, medium voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gpt_parsed": {
+      "activity_name": "electricity, medium voltage production",
+      "geography": "JP",
+      "reference_product_name": "electricity, medium voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"market for electricity, medium voltage\",\n  \"geography\": \"JP\",\n  \"reference_product_name\": \"electricity, medium voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "market for electricity, medium voltage",
+      "geography": "JP",
+      "reference_product_name": "electricity, medium voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gemini_raw": "```json\n{\n  \"activity_name\": \"market for electricity, medium voltage\",\n  \"geography\": \"JP\",\n  \"reference_product_name\": \"electricity, medium voltage\",\n  \"reference_product_unit\": \"kWh\"\n}\n```",
+    "gemini_parsed": {
+      "activity_name": "market for electricity, medium voltage",
+      "geography": "JP",
+      "reference_product_name": "electricity, medium voltage",
+      "reference_product_unit": "kWh"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"market for electricity, medium voltage\",\n  \"geography\": \"JP\",\n  \"reference_product_name\": \"electricity, medium voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "llama_parsed": {
+      "activity_name": "market for electricity, medium voltage",
+      "geography": "JP",
+      "reference_product_name": "electricity, medium voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"market for electricity, medium voltage\",\n  \"geography\": \"JP\",\n  \"reference_product_name\": \"electricity, medium voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "market for electricity, medium voltage",
+      "geography": "JP",
+      "reference_product_name": "electricity, medium voltage",
+      "reference_product_unit": "kWh"
+    }
+  },
+  "48": {
+    "id": 48,
+    "activity_uuid": "795cd987-187e-59bf-a70d-325d73626864_c4230712-ca79-435b-bb28-37041635b772",
+    "description": "An industrial process record describes operations related to textile production, cotton, circular knitting. This process is documented as taking place in India. The output of this process, when measured, comes to 1 units (specifically kg) of a product known as textile, knit cotton. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "textile production, cotton, circular knitting",
+      "geography": "IN",
+      "reference_product_name": "textile, knit cotton",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"textile production, cotton, circular knitting\",\n  \"geography\": \"IN\",\n  \"reference_product_name\": \"textile, knit cotton\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "textile production, cotton, circular knitting",
+      "geography": "IN",
+      "reference_product_name": "textile, knit cotton",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"textile production, cotton, circular knitting\",\n  \"geography\": \"IN\",\n  \"reference_product_name\": \"textile, knit cotton\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "textile production, cotton, circular knitting",
+      "geography": "IN",
+      "reference_product_name": "textile, knit cotton",
+      "reference_product_unit": "kg"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"textile production, cotton, circular knit\",\n  \"geography\": \"IN\",\n  \"reference_product_name\": \"textile, knit cotton\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "textile production, cotton, circular knit",
+      "geography": "IN",
+      "reference_product_name": "textile, knit cotton",
+      "reference_product_unit": "kg"
+    },
+    "gemini_raw": "```json\n{\n  \"activity_name\": \"textile production, cotton, circular knitting\",\n  \"geography\": \"IN\",\n  \"reference_product_name\": \"textile, knit cotton\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "gemini_parsed": {
+      "activity_name": "textile production, cotton, circular knitting",
+      "geography": "IN",
+      "reference_product_name": "textile, knit cotton",
+      "reference_product_unit": "kg"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"textile production, cotton, circular knitting\",\n  \"geography\": \"IN\",\n  \"reference_product_name\": \"textile, knit cotton\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "llama_parsed": {
+      "activity_name": "textile production, cotton, circular knitting",
+      "geography": "IN",
+      "reference_product_name": "textile, knit cotton",
+      "reference_product_unit": "kg"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"textile, knit cotton, production\",\n  \"geography\": \"IN\",\n  \"reference_product_name\": \"textile, knit cotton\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "textile, knit cotton, production",
+      "geography": "IN",
+      "reference_product_name": "textile, knit cotton",
+      "reference_product_unit": "kg"
+    }
+  },
+  "49": {
+    "id": 49,
+    "activity_uuid": "9195dafa-a5d8-5a48-a25c-99ed39872d5e_0e2b3538-ec9d-4d5a-bb04-c1e5549e57ac",
+    "description": "An industrial process record describes operations related to treatment of spent oxychlor catalyst, underground deposit. This process is documented as taking place in Germany. The output of this process, when measured, comes to -1 units (specifically kg) of a product known as spent oxychlor catalyst. Based on this record, identify the underlying process/activity name (matching ecoinvent's standard naming), the applicable ecoinvent geography code (not the plain-language region name given above), the resulting product name, and its unit of measure.",
+    "ground_truth": {
+      "activity_name": "treatment of spent oxychlor catalyst, underground deposit",
+      "geography": "DE",
+      "reference_product_name": "spent oxychlor catalyst",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"treatment of spent oxychlor catalyst, underground deposit\",\n  \"geography\": \"DE\",\n  \"reference_product_name\": \"spent oxychlor catalyst\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "treatment of spent oxychlor catalyst, underground deposit",
+      "geography": "DE",
+      "reference_product_name": "spent oxychlor catalyst",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"treatment of spent oxychlor catalyst, underground deposit\",\n  \"geography\": \"DE\",\n  \"reference_product_name\": \"spent oxychlor catalyst\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "treatment of spent oxychlor catalyst, underground deposit",
+      "geography": "DE",
+      "reference_product_name": "spent oxychlor catalyst",
+      "reference_product_unit": "kg"
+    },
+    "gpt56terra_raw": "{\n  \"activity_name\": \"treatment of spent oxychlor catalyst, underground deposit\",\n  \"geography\": \"DE\",\n  \"reference_product_name\": \"spent oxychlor catalyst\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt56terra_parsed": {
+      "activity_name": "treatment of spent oxychlor catalyst, underground deposit",
+      "geography": "DE",
+      "reference_product_name": "spent oxychlor catalyst",
+      "reference_product_unit": "kg"
+    },
+    "gemini_raw": "```json\n{\n  \"activity_name\": \"treatment of spent oxychlor catalyst, underground deposit\",\n  \"geography\": \"DE\",\n  \"reference_product_name\": \"spent oxychlor catalyst\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "gemini_parsed": {
+      "activity_name": "treatment of spent oxychlor catalyst, underground deposit",
+      "geography": "DE",
+      "reference_product_name": "spent oxychlor catalyst",
+      "reference_product_unit": "kg"
+    },
+    "llama_raw": "{\n  \"activity_name\": \"treatment of spent oxychlor catalyst, underground deposit\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"spent oxychlor catalyst\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "llama_parsed": {
+      "activity_name": "treatment of spent oxychlor catalyst, underground deposit",
+      "geography": "RER",
+      "reference_product_name": "spent oxychlor catalyst",
+      "reference_product_unit": "kg"
+    },
+    "gptoss_raw": "{\n  \"activity_name\": \"Treatment of spent oxychlor catalyst, underground deposit\",\n  \"geography\": \"DE\",\n  \"reference_product_name\": \"spent oxychlor catalyst\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gptoss_parsed": {
+      "activity_name": "Treatment of spent oxychlor catalyst, underground deposit",
+      "geography": "DE",
+      "reference_product_name": "spent oxychlor catalyst",
+      "reference_product_unit": "kg"
+    }
+  }
+}
