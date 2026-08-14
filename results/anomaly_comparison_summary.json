@@ -1,0 +1,10 @@
+{
+  "isolation_forest_flagged": 509,
+  "lof_flagged": 509,
+  "flagged_by_both": 1,
+  "flagged_by_iso_only": 508,
+  "flagged_by_lof_only": 508,
+  "pct_iso_confirmed_by_lof": 0.2,
+  "pct_lof_confirmed_by_iso": 0.2,
+  "jaccard_similarity": 0.001
+}

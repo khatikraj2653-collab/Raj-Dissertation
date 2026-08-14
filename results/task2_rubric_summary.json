@@ -1,0 +1,99 @@
+{
+  "sample_size": 10,
+  "structural_completeness": {
+    "Claude Haiku 4.5": {
+      "goal_purpose": 10,
+      "intended_application": 10,
+      "target_audience": 10,
+      "functional_unit": 10,
+      "system_boundaries": 10,
+      "assumptions_limitations": 10
+    },
+    "GPT-4o-mini": {
+      "goal_purpose": 10,
+      "intended_application": 8,
+      "target_audience": 9,
+      "functional_unit": 10,
+      "system_boundaries": 10,
+      "assumptions_limitations": 10
+    },
+    "GPT-5.6 Terra": {
+      "goal_purpose": 10,
+      "intended_application": 2,
+      "target_audience": 9,
+      "functional_unit": 10,
+      "system_boundaries": 10,
+      "assumptions_limitations": 10
+    },
+    "Gemini 3.5 Flash": {
+      "goal_purpose": 10,
+      "intended_application": 10,
+      "target_audience": 10,
+      "functional_unit": 10,
+      "system_boundaries": 10,
+      "assumptions_limitations": 10
+    },
+    "Llama 3.3 70B": {
+      "goal_purpose": 10,
+      "intended_application": 10,
+      "target_audience": 10,
+      "functional_unit": 10,
+      "system_boundaries": 10,
+      "assumptions_limitations": 10
+    },
+    "GPT-OSS 120B": {
+      "goal_purpose": 10,
+      "intended_application": 8,
+      "target_audience": 5,
+      "functional_unit": 10,
+      "system_boundaries": 10,
+      "assumptions_limitations": 10
+    }
+  },
+  "precision_markers": {
+    "Claude Haiku 4.5": {
+      "comparative_assertions": 9,
+      "allocation_methodology": 3,
+      "capital_goods": 6,
+      "iso_citation": 1
+    },
+    "GPT-4o-mini": {
+      "comparative_assertions": 0,
+      "allocation_methodology": 0,
+      "capital_goods": 0,
+      "iso_citation": 1
+    },
+    "GPT-5.6 Terra": {
+      "comparative_assertions": 10,
+      "allocation_methodology": 6,
+      "capital_goods": 5,
+      "iso_citation": 3
+    },
+    "Gemini 3.5 Flash": {
+      "comparative_assertions": 0,
+      "allocation_methodology": 5,
+      "capital_goods": 0,
+      "iso_citation": 4
+    },
+    "Llama 3.3 70B": {
+      "comparative_assertions": 0,
+      "allocation_methodology": 0,
+      "capital_goods": 1,
+      "iso_citation": 8
+    },
+    "GPT-OSS 120B": {
+      "comparative_assertions": 0,
+      "allocation_methodology": 5,
+      "capital_goods": 3,
+      "iso_citation": 0
+    }
+  },
+  "avg_word_count": {
+    "Claude Haiku 4.5": 214.0,
+    "GPT-4o-mini": 201.0,
+    "GPT-5.6 Terra": 254.0,
+    "Gemini 3.5 Flash": 228.0,
+    "Llama 3.3 70B": 208.0,
+    "GPT-OSS 120B": 271.0
+  }
+}

@@ -1,0 +1,2502 @@
+[
+  {
+    "id": 0,
+    "activity_uuid": "d24b3b2a-8c8d-5abf-ab69-be2940f50fbb_068bf76a-bfaa-435c-85ed-3d2bb2c4bb4f",
+    "description": "This life cycle inventory dataset covers the activity 'transport, freight, inland waterways, barge, diesel', located in the region 'RoW'. It produces 1 metric ton*km of 'transport, freight, inland waterways, barge, diesel' as its reference product.",
+    "ground_truth": {
+      "activity_name": "transport, freight, inland waterways, barge, diesel",
+      "geography": "RoW",
+      "reference_product_name": "transport, freight, inland waterways, barge, diesel",
+      "reference_product_unit": "metric ton*km"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"transport, freight, inland waterways, barge, diesel\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"transport, freight, inland waterways, barge, diesel\",\n  \"reference_product_unit\": \"metric ton*km\"\n}",
+    "gpt_parsed": {
+      "activity_name": "transport, freight, inland waterways, barge, diesel",
+      "geography": "RoW",
+      "reference_product_name": "transport, freight, inland waterways, barge, diesel",
+      "reference_product_unit": "metric ton*km"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"transport, freight, inland waterways, barge, diesel\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"transport, freight, inland waterways, barge, diesel\",\n  \"reference_product_unit\": \"metric ton*km\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "transport, freight, inland waterways, barge, diesel",
+      "geography": "RoW",
+      "reference_product_name": "transport, freight, inland waterways, barge, diesel",
+      "reference_product_unit": "metric ton*km"
+    }
+  },
+  {
+    "id": 1,
+    "activity_uuid": "42860e5f-c8a6-56cc-a63f-db2a3fe7c42a_3f5f5aef-3833-43d4-8b81-44123105afd7",
+    "description": "This life cycle inventory dataset covers the activity 'irrigation, sprinkler', located in the region 'CA-QC'. It produces 1 m3 of 'irrigation' as its reference product.",
+    "ground_truth": {
+      "activity_name": "irrigation, sprinkler",
+      "geography": "CA-QC",
+      "reference_product_name": "irrigation",
+      "reference_product_unit": "m3"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"irrigation, sprinkler\",\n  \"geography\": \"CA-QC\",\n  \"reference_product_name\": \"irrigation\",\n  \"reference_product_unit\": \"m3\"\n}",
+    "gpt_parsed": {
+      "activity_name": "irrigation, sprinkler",
+      "geography": "CA-QC",
+      "reference_product_name": "irrigation",
+      "reference_product_unit": "m3"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"irrigation, sprinkler\",\n  \"geography\": \"CA-QC\",\n  \"reference_product_name\": \"irrigation\",\n  \"reference_product_unit\": \"m3\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "irrigation, sprinkler",
+      "geography": "CA-QC",
+      "reference_product_name": "irrigation",
+      "reference_product_unit": "m3"
+    }
+  },
+  {
+    "id": 2,
+    "activity_uuid": "9d13715f-4cb2-57e9-9e06-b9fd1012b46f_66c93e71-f32b-4591-901c-55395db5c132",
+    "description": "This life cycle inventory dataset covers the activity 'electricity, high voltage, production mix', located in the region 'CA-NS'. It produces 1 kWh of 'electricity, high voltage' as its reference product.",
+    "ground_truth": {
+      "activity_name": "electricity, high voltage, production mix",
+      "geography": "CA-NS",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"electricity, high voltage, production mix\",\n  \"geography\": \"CA-NS\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gpt_parsed": {
+      "activity_name": "electricity, high voltage, production mix",
+      "geography": "CA-NS",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"electricity, high voltage, production mix\",\n  \"geography\": \"CA-NS\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "electricity, high voltage, production mix",
+      "geography": "CA-NS",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    }
+  },
+  {
+    "id": 3,
+    "activity_uuid": "f870d4bb-38ee-5459-ab55-c42434463aac_b37c4660-bc00-40ed-9946-4846c239c288",
+    "description": "This life cycle inventory dataset covers the activity 'treatment of bottom ash, MSWI, digester sludge, slag compartment', located in the region 'GLO'. It produces -1 kg of 'bottom ash, MSWI, digester sludge' as its reference product.",
+    "ground_truth": {
+      "activity_name": "treatment of bottom ash, MSWI, digester sludge, slag compartment",
+      "geography": "GLO",
+      "reference_product_name": "bottom ash, MSWI, digester sludge",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"treatment of bottom ash, MSWI, digester sludge, slag compartment\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"bottom ash, MSWI, digester sludge\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "treatment of bottom ash, MSWI, digester sludge, slag compartment",
+      "geography": "GLO",
+      "reference_product_name": "bottom ash, MSWI, digester sludge",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"treatment of bottom ash, MSWI, digester sludge, slag compartment\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"bottom ash, MSWI, digester sludge\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "treatment of bottom ash, MSWI, digester sludge, slag compartment",
+      "geography": "GLO",
+      "reference_product_name": "bottom ash, MSWI, digester sludge",
+      "reference_product_unit": "kg"
+    }
+  },
+  {
+    "id": 4,
+    "activity_uuid": "afbf55e6-e260-5ca8-9fd9-486d6b415f66_edf7f547-4078-41a0-984d-e0c55c185f3b",
+    "description": "This life cycle inventory dataset covers the activity 'clinker production', located in the region 'CH'. It produces -1 kg of 'pyrite ash' as its reference product.",
+    "ground_truth": {
+      "activity_name": "clinker production",
+      "geography": "CH",
+      "reference_product_name": "pyrite ash",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"clinker production\",\n  \"geography\": \"CH\",\n  \"reference_product_name\": \"pyrite ash\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "clinker production",
+      "geography": "CH",
+      "reference_product_name": "pyrite ash",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"clinker production\",\n  \"geography\": \"CH\",\n  \"reference_product_name\": \"pyrite ash\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "clinker production",
+      "geography": "CH",
+      "reference_product_name": "pyrite ash",
+      "reference_product_unit": "kg"
+    }
+  },
+  {
+    "id": 5,
+    "activity_uuid": "355a94db-71bf-59f4-a8aa-4dd0b7510fcb_c0a7ba59-f9b5-45b5-8e1d-6e4e40ba86df",
+    "description": "This life cycle inventory dataset covers the activity 'market for transport, freight, lorry, 3.5-7.5 metric ton, diesel, EURO 3', located in the region 'BR'. It produces 1 metric ton*km of 'transport, freight, lorry, 3.5-7.5 metric ton, diesel, EURO 3' as its reference product.",
+    "ground_truth": {
+      "activity_name": "market for transport, freight, lorry, 3.5-7.5 metric ton, diesel, EURO 3",
+      "geography": "BR",
+      "reference_product_name": "transport, freight, lorry, 3.5-7.5 metric ton, diesel, EURO 3",
+      "reference_product_unit": "metric ton*km"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"market for transport, freight, lorry, 3.5-7.5 metric ton, diesel, EURO 3\",\n  \"geography\": \"BR\",\n  \"reference_product_name\": \"transport, freight, lorry, 3.5-7.5 metric ton, diesel, EURO 3\",\n  \"reference_product_unit\": \"metric ton*km\"\n}",
+    "gpt_parsed": {
+      "activity_name": "market for transport, freight, lorry, 3.5-7.5 metric ton, diesel, EURO 3",
+      "geography": "BR",
+      "reference_product_name": "transport, freight, lorry, 3.5-7.5 metric ton, diesel, EURO 3",
+      "reference_product_unit": "metric ton*km"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"market for transport, freight, lorry, 3.5-7.5 metric ton, diesel, EURO 3\",\n  \"geography\": \"BR\",\n  \"reference_product_name\": \"transport, freight, lorry, 3.5-7.5 metric ton, diesel, EURO 3\",\n  \"reference_product_unit\": \"metric ton*km\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "market for transport, freight, lorry, 3.5-7.5 metric ton, diesel, EURO 3",
+      "geography": "BR",
+      "reference_product_name": "transport, freight, lorry, 3.5-7.5 metric ton, diesel, EURO 3",
+      "reference_product_unit": "metric ton*km"
+    }
+  },
+  {
+    "id": 6,
+    "activity_uuid": "df5fd868-5ce7-5db4-a605-63394c29ca78_1a71f77c-edaa-4365-a192-f54ac538d033",
+    "description": "This life cycle inventory dataset covers the activity 'ethyl acetate production', located in the region 'RoW'. It produces 1 kg of 'ethyl acetate' as its reference product.",
+    "ground_truth": {
+      "activity_name": "ethyl acetate production",
+      "geography": "RoW",
+      "reference_product_name": "ethyl acetate",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"ethyl acetate production\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"ethyl acetate\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "ethyl acetate production",
+      "geography": "RoW",
+      "reference_product_name": "ethyl acetate",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"ethyl acetate production\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"ethyl acetate\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "ethyl acetate production",
+      "geography": "RoW",
+      "reference_product_name": "ethyl acetate",
+      "reference_product_unit": "kg"
+    }
+  },
+  {
+    "id": 7,
+    "activity_uuid": "efe179e4-c2ea-56eb-854f-8e5c4d8922b8_019600be-f3ce-4399-9e31-19cdc087ed5f",
+    "description": "This life cycle inventory dataset covers the activity 'sawing and planing, paraná pine, kiln dried', located in the region 'RoW'. It produces 1 m3 of 'residual wood, dry' as its reference product.",
+    "ground_truth": {
+      "activity_name": "sawing and planing, paraná pine, kiln dried",
+      "geography": "RoW",
+      "reference_product_name": "residual wood, dry",
+      "reference_product_unit": "m3"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"sawing and planing, paraná pine, kiln dried\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"residual wood, dry\",\n  \"reference_product_unit\": \"m3\"\n}",
+    "gpt_parsed": {
+      "activity_name": "sawing and planing, paraná pine, kiln dried",
+      "geography": "RoW",
+      "reference_product_name": "residual wood, dry",
+      "reference_product_unit": "m3"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"sawing and planing, paraná pine, kiln dried\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"residual wood, dry\",\n  \"reference_product_unit\": \"m3\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "sawing and planing, paraná pine, kiln dried",
+      "geography": "RoW",
+      "reference_product_name": "residual wood, dry",
+      "reference_product_unit": "m3"
+    }
+  },
+  {
+    "id": 8,
+    "activity_uuid": "99c51d07-3756-51fe-a6ca-4f8512a3ff14_aa0f0057-073d-55b7-918d-e4d6bed420f3",
+    "description": "This life cycle inventory dataset covers the activity 'market for NPK (15-15-15) fertiliser', located in the region 'RER'. It produces 1 kg of 'NPK (15-15-15) fertiliser' as its reference product.",
+    "ground_truth": {
+      "activity_name": "market for NPK (15-15-15) fertiliser",
+      "geography": "RER",
+      "reference_product_name": "NPK (15-15-15) fertiliser",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"market for NPK (15-15-15) fertiliser\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"NPK (15-15-15) fertiliser\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "market for NPK (15-15-15) fertiliser",
+      "geography": "RER",
+      "reference_product_name": "NPK (15-15-15) fertiliser",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"market for NPK (15-15-15) fertiliser\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"NPK (15-15-15) fertiliser\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "market for NPK (15-15-15) fertiliser",
+      "geography": "RER",
+      "reference_product_name": "NPK (15-15-15) fertiliser",
+      "reference_product_unit": "kg"
+    }
+  },
+  {
+    "id": 9,
+    "activity_uuid": "2999c3bf-024d-53a7-9d71-d4ff7e27d94d_66c93e71-f32b-4591-901c-55395db5c132",
+    "description": "This life cycle inventory dataset covers the activity 'electricity production, wind, 1-3MW turbine, offshore', located in the region 'CN-SH'. It produces 1 kWh of 'electricity, high voltage' as its reference product.",
+    "ground_truth": {
+      "activity_name": "electricity production, wind, 1-3MW turbine, offshore",
+      "geography": "CN-SH",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"electricity production, wind, 1-3MW turbine, offshore\",\n  \"geography\": \"CN-SH\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gpt_parsed": {
+      "activity_name": "electricity production, wind, 1-3MW turbine, offshore",
+      "geography": "CN-SH",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"electricity production, wind, 1-3MW turbine, offshore\",\n  \"geography\": \"CN-SH\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "electricity production, wind, 1-3MW turbine, offshore",
+      "geography": "CN-SH",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    }
+  },
+  {
+    "id": 10,
+    "activity_uuid": "2fb4383b-cf66-5cad-b52a-1331c1b94053_5d954e5c-1e6d-4f78-9fc3-d3857b7892cb",
+    "description": "This life cycle inventory dataset covers the activity 'electricity production, nuclear, aluminium industry', located in the region 'IAI Area, Russia & RER w/o EU27 & EFTA'. It produces 1 kWh of 'electricity, high voltage, aluminium industry' as its reference product.",
+    "ground_truth": {
+      "activity_name": "electricity production, nuclear, aluminium industry",
+      "geography": "IAI Area, Russia & RER w/o EU27 & EFTA",
+      "reference_product_name": "electricity, high voltage, aluminium industry",
+      "reference_product_unit": "kWh"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"electricity production, nuclear, aluminium industry\",\n  \"geography\": \"IAI Area, Russia & RER w/o EU27 & EFTA\",\n  \"reference_product_name\": \"electricity, high voltage, aluminium industry\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gpt_parsed": {
+      "activity_name": "electricity production, nuclear, aluminium industry",
+      "geography": "IAI Area, Russia & RER w/o EU27 & EFTA",
+      "reference_product_name": "electricity, high voltage, aluminium industry",
+      "reference_product_unit": "kWh"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"electricity production, nuclear, aluminium industry\",\n  \"geography\": \"IAI Area, Russia & RER w/o EU27 & EFTA\",\n  \"reference_product_name\": \"electricity, high voltage, aluminium industry\",\n  \"reference_product_unit\": \"kWh\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "electricity production, nuclear, aluminium industry",
+      "geography": "IAI Area, Russia & RER w/o EU27 & EFTA",
+      "reference_product_name": "electricity, high voltage, aluminium industry",
+      "reference_product_unit": "kWh"
+    }
+  },
+  {
+    "id": 11,
+    "activity_uuid": "3a2bd452-7775-5b2a-bf32-cb879c0cc49b_759b89bd-3aa6-42ad-b767-5bb9ef5d331d",
+    "description": "This life cycle inventory dataset covers the activity 'market for electricity, medium voltage', located in the region 'MX'. It produces 1 kWh of 'electricity, medium voltage' as its reference product.",
+    "ground_truth": {
+      "activity_name": "market for electricity, medium voltage",
+      "geography": "MX",
+      "reference_product_name": "electricity, medium voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"market for electricity, medium voltage\",\n  \"geography\": \"MX\",\n  \"reference_product_name\": \"electricity, medium voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gpt_parsed": {
+      "activity_name": "market for electricity, medium voltage",
+      "geography": "MX",
+      "reference_product_name": "electricity, medium voltage",
+      "reference_product_unit": "kWh"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"market for electricity, medium voltage\",\n  \"geography\": \"MX\",\n  \"reference_product_name\": \"electricity, medium voltage\",\n  \"reference_product_unit\": \"kWh\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "market for electricity, medium voltage",
+      "geography": "MX",
+      "reference_product_name": "electricity, medium voltage",
+      "reference_product_unit": "kWh"
+    }
+  },
+  {
+    "id": 12,
+    "activity_uuid": "85b34fdb-e646-53ef-a3de-c416e7de150e_175c29e0-09a0-43ed-a6da-c5f8fc47953f",
+    "description": "This life cycle inventory dataset covers the activity 'softwood forestry, paraná pine, sustainable forest management', located in the region 'RoW'. It produces 1 m3 of 'sawlog and veneer log, paraná pine, measured as solid wood under bark' as its reference product.",
+    "ground_truth": {
+      "activity_name": "softwood forestry, paraná pine, sustainable forest management",
+      "geography": "RoW",
+      "reference_product_name": "sawlog and veneer log, paraná pine, measured as solid wood under bark",
+      "reference_product_unit": "m3"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"softwood forestry, paraná pine, sustainable forest management\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"sawlog and veneer log, paraná pine, measured as solid wood under bark\",\n  \"reference_product_unit\": \"m3\"\n}",
+    "gpt_parsed": {
+      "activity_name": "softwood forestry, paraná pine, sustainable forest management",
+      "geography": "RoW",
+      "reference_product_name": "sawlog and veneer log, paraná pine, measured as solid wood under bark",
+      "reference_product_unit": "m3"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"softwood forestry, paraná pine, sustainable forest management\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"sawlog and veneer log, paraná pine, measured as solid wood under bark\",\n  \"reference_product_unit\": \"m3\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "softwood forestry, paraná pine, sustainable forest management",
+      "geography": "RoW",
+      "reference_product_name": "sawlog and veneer log, paraná pine, measured as solid wood under bark",
+      "reference_product_unit": "m3"
+    }
+  },
+  {
+    "id": 13,
+    "activity_uuid": "3bad7ae4-e163-5a95-8a11-ca2958acd409_66c93e71-f32b-4591-901c-55395db5c132",
+    "description": "This life cycle inventory dataset covers the activity 'electricity production, peat', located in the region 'LT'. It produces 1 kWh of 'electricity, high voltage' as its reference product.",
+    "ground_truth": {
+      "activity_name": "electricity production, peat",
+      "geography": "LT",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"electricity production, peat\",\n  \"geography\": \"LT\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gpt_parsed": {
+      "activity_name": "electricity production, peat",
+      "geography": "LT",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"electricity production, peat\",\n  \"geography\": \"LT\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "electricity production, peat",
+      "geography": "LT",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    }
+  },
+  {
+    "id": 14,
+    "activity_uuid": "cb0d06a7-602c-58c8-a49b-45df9bc5bfa8_50306184-2a7e-4825-8e5d-fe8e674d1274",
+    "description": "This life cycle inventory dataset covers the activity 'treatment of biowaste by anaerobic digestion', located in the region 'RoW'. It produces -1 kg of 'biowaste' as its reference product.",
+    "ground_truth": {
+      "activity_name": "treatment of biowaste by anaerobic digestion",
+      "geography": "RoW",
+      "reference_product_name": "biowaste",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"treatment of biowaste by anaerobic digestion\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"biowaste\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "treatment of biowaste by anaerobic digestion",
+      "geography": "RoW",
+      "reference_product_name": "biowaste",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"treatment of biowaste by anaerobic digestion\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"biowaste\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "treatment of biowaste by anaerobic digestion",
+      "geography": "RoW",
+      "reference_product_name": "biowaste",
+      "reference_product_unit": "kg"
+    }
+  },
+  {
+    "id": 15,
+    "activity_uuid": "3fa4fd5c-ebf1-5dd3-82fb-e6d28d55b8f9_d69294d7-8d64-4915-a896-9996a014c410",
+    "description": "This life cycle inventory dataset covers the activity 'electricity, low voltage, residual mix', located in the region 'NL'. It produces 1 kWh of 'electricity, low voltage' as its reference product.",
+    "ground_truth": {
+      "activity_name": "electricity, low voltage, residual mix",
+      "geography": "NL",
+      "reference_product_name": "electricity, low voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"electricity, low voltage, residual mix\",\n  \"geography\": \"NL\",\n  \"reference_product_name\": \"electricity, low voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gpt_parsed": {
+      "activity_name": "electricity, low voltage, residual mix",
+      "geography": "NL",
+      "reference_product_name": "electricity, low voltage",
+      "reference_product_unit": "kWh"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"electricity, low voltage, residual mix\",\n  \"geography\": \"NL\",\n  \"reference_product_name\": \"electricity, low voltage\",\n  \"reference_product_unit\": \"kWh\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "electricity, low voltage, residual mix",
+      "geography": "NL",
+      "reference_product_name": "electricity, low voltage",
+      "reference_product_unit": "kWh"
+    }
+  },
+  {
+    "id": 16,
+    "activity_uuid": "853948a1-2eba-5f49-a056-1ba029ef294a_f372d4c2-7310-4fb9-8bb6-bee214fd08d1",
+    "description": "This life cycle inventory dataset covers the activity 'land use change, perennial crop', located in the region 'PH'. It produces 1 ha of 'land use change, perennial crop' as its reference product.",
+    "ground_truth": {
+      "activity_name": "land use change, perennial crop",
+      "geography": "PH",
+      "reference_product_name": "land use change, perennial crop",
+      "reference_product_unit": "ha"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"land use change, perennial crop\",\n  \"geography\": \"PH\",\n  \"reference_product_name\": \"land use change, perennial crop\",\n  \"reference_product_unit\": \"ha\"\n}",
+    "gpt_parsed": {
+      "activity_name": "land use change, perennial crop",
+      "geography": "PH",
+      "reference_product_name": "land use change, perennial crop",
+      "reference_product_unit": "ha"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"land use change, perennial crop\",\n  \"geography\": \"PH\",\n  \"reference_product_name\": \"land use change, perennial crop\",\n  \"reference_product_unit\": \"ha\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "land use change, perennial crop",
+      "geography": "PH",
+      "reference_product_name": "land use change, perennial crop",
+      "reference_product_unit": "ha"
+    }
+  },
+  {
+    "id": 17,
+    "activity_uuid": "5b5c3fd9-a403-5869-944e-debda3403b52_dee1a118-12e5-47eb-8daa-f4cf683e4a5a",
+    "description": "This life cycle inventory dataset covers the activity 'rainwater harvesting', located in the region 'GLO'. It produces 1 kg of 'water, harvested from rainwater' as its reference product.",
+    "ground_truth": {
+      "activity_name": "rainwater harvesting",
+      "geography": "GLO",
+      "reference_product_name": "water, harvested from rainwater",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"rainwater harvesting\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"water, harvested from rainwater\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "rainwater harvesting",
+      "geography": "GLO",
+      "reference_product_name": "water, harvested from rainwater",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"rainwater harvesting\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"water, harvested from rainwater\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "rainwater harvesting",
+      "geography": "GLO",
+      "reference_product_name": "water, harvested from rainwater",
+      "reference_product_unit": "kg"
+    }
+  },
+  {
+    "id": 18,
+    "activity_uuid": "6ac3699d-1c9b-5b45-b99b-e2aa4ca02723_8cb6c7f7-c5c7-4507-91ea-8094de0dcfe8",
+    "description": "This life cycle inventory dataset covers the activity 'market for stibnite concentrate', located in the region 'GLO'. It produces 1 kg of 'stibnite concentrate' as its reference product.",
+    "ground_truth": {
+      "activity_name": "market for stibnite concentrate",
+      "geography": "GLO",
+      "reference_product_name": "stibnite concentrate",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"market for stibnite concentrate\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"stibnite concentrate\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "market for stibnite concentrate",
+      "geography": "GLO",
+      "reference_product_name": "stibnite concentrate",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"market for stibnite concentrate\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"stibnite concentrate\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "market for stibnite concentrate",
+      "geography": "GLO",
+      "reference_product_name": "stibnite concentrate",
+      "reference_product_unit": "kg"
+    }
+  },
+  {
+    "id": 19,
+    "activity_uuid": "f792d1e6-4219-551c-9651-e440aed1477f_d69294d7-8d64-4915-a896-9996a014c410",
+    "description": "This life cycle inventory dataset covers the activity 'electricity voltage transformation from medium to low voltage', located in the region 'VN'. It produces 1 kWh of 'electricity, low voltage' as its reference product.",
+    "ground_truth": {
+      "activity_name": "electricity voltage transformation from medium to low voltage",
+      "geography": "VN",
+      "reference_product_name": "electricity, low voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"electricity voltage transformation from medium to low voltage\",\n  \"geography\": \"VN\",\n  \"reference_product_name\": \"electricity, low voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gpt_parsed": {
+      "activity_name": "electricity voltage transformation from medium to low voltage",
+      "geography": "VN",
+      "reference_product_name": "electricity, low voltage",
+      "reference_product_unit": "kWh"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"electricity voltage transformation from medium to low voltage\",\n  \"geography\": \"VN\",\n  \"reference_product_name\": \"electricity, low voltage\",\n  \"reference_product_unit\": \"kWh\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "electricity voltage transformation from medium to low voltage",
+      "geography": "VN",
+      "reference_product_name": "electricity, low voltage",
+      "reference_product_unit": "kWh"
+    }
+  },
+  {
+    "id": 20,
+    "activity_uuid": "58cc7a9a-7cac-55d7-818e-1ed343d5e90b_63ead738-2005-498c-8359-7f65c134a1a4",
+    "description": "This life cycle inventory dataset covers the activity 'phthalic anhydride production, o-xylene oxidation', located in the region 'RER'. It produces 1 MJ of 'heat, from steam, in chemical industry' as its reference product.",
+    "ground_truth": {
+      "activity_name": "phthalic anhydride production, o-xylene oxidation",
+      "geography": "RER",
+      "reference_product_name": "heat, from steam, in chemical industry",
+      "reference_product_unit": "MJ"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"phthalic anhydride production, o-xylene oxidation\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"heat, from steam, in chemical industry\",\n  \"reference_product_unit\": \"MJ\"\n}",
+    "gpt_parsed": {
+      "activity_name": "phthalic anhydride production, o-xylene oxidation",
+      "geography": "RER",
+      "reference_product_name": "heat, from steam, in chemical industry",
+      "reference_product_unit": "MJ"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"phthalic anhydride production, o-xylene oxidation\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"heat, from steam, in chemical industry\",\n  \"reference_product_unit\": \"MJ\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "phthalic anhydride production, o-xylene oxidation",
+      "geography": "RER",
+      "reference_product_name": "heat, from steam, in chemical industry",
+      "reference_product_unit": "MJ"
+    }
+  },
+  {
+    "id": 21,
+    "activity_uuid": "30f1af55-a98c-5281-ba3c-59deca083597_009228e9-e826-5175-b766-bef9dc1b4b40",
+    "description": "This life cycle inventory dataset covers the activity 'treatment of bottom ash, MSWI[F], municipal solid waste, slag compartment', located in the region 'CH'. It produces -1 kg of 'bottom ash, MSWI[F], municipal solid waste' as its reference product.",
+    "ground_truth": {
+      "activity_name": "treatment of bottom ash, MSWI[F], municipal solid waste, slag compartment",
+      "geography": "CH",
+      "reference_product_name": "bottom ash, MSWI[F], municipal solid waste",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"treatment of bottom ash, MSWI[F], municipal solid waste, slag compartment\",\n  \"geography\": \"CH\",\n  \"reference_product_name\": \"bottom ash, MSWI[F], municipal solid waste\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "treatment of bottom ash, MSWI[F], municipal solid waste, slag compartment",
+      "geography": "CH",
+      "reference_product_name": "bottom ash, MSWI[F], municipal solid waste",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"treatment of bottom ash, MSWI[F], municipal solid waste, slag compartment\",\n  \"geography\": \"CH\",\n  \"reference_product_name\": \"bottom ash, MSWI[F], municipal solid waste\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "treatment of bottom ash, MSWI[F], municipal solid waste, slag compartment",
+      "geography": "CH",
+      "reference_product_name": "bottom ash, MSWI[F], municipal solid waste",
+      "reference_product_unit": "kg"
+    }
+  },
+  {
+    "id": 22,
+    "activity_uuid": "be92bf15-b389-5f5a-a8d9-0594325a0991_8931016e-3e07-5c9a-91a6-cd85b90a2aaa",
+    "description": "This life cycle inventory dataset covers the activity 'land already in use, perennial cropland to pasture, man made', located in the region 'BR-AM'. It produces 1 kg of 'land tenure, arable land, measured as carbon net primary productivity, pasture, man made' as its reference product.",
+    "ground_truth": {
+      "activity_name": "land already in use, perennial cropland to pasture, man made",
+      "geography": "BR-AM",
+      "reference_product_name": "land tenure, arable land, measured as carbon net primary productivity, pasture, man made",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"land already in use, perennial cropland to pasture, man made\",\n  \"geography\": \"BR-AM\",\n  \"reference_product_name\": \"land tenure, arable land, measured as carbon net primary productivity, pasture, man made\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "land already in use, perennial cropland to pasture, man made",
+      "geography": "BR-AM",
+      "reference_product_name": "land tenure, arable land, measured as carbon net primary productivity, pasture, man made",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"land already in use, perennial cropland to pasture, man made\",\n  \"geography\": \"BR-AM\",\n  \"reference_product_name\": \"land tenure, arable land, measured as carbon net primary productivity, pasture, man made\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "land already in use, perennial cropland to pasture, man made",
+      "geography": "BR-AM",
+      "reference_product_name": "land tenure, arable land, measured as carbon net primary productivity, pasture, man made",
+      "reference_product_unit": "kg"
+    }
+  },
+  {
+    "id": 23,
+    "activity_uuid": "42dc4bba-13c9-5247-8c3b-50a1bb0db2bc_5a337107-6bdb-4280-84d4-15a4993c51c9",
+    "description": "This life cycle inventory dataset covers the activity 'citric acid production', located in the region 'RNA'. It produces 1 kg of 'citric acid' as its reference product.",
+    "ground_truth": {
+      "activity_name": "citric acid production",
+      "geography": "RNA",
+      "reference_product_name": "citric acid",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"citric acid production\",\n  \"geography\": \"RNA\",\n  \"reference_product_name\": \"citric acid\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "citric acid production",
+      "geography": "RNA",
+      "reference_product_name": "citric acid",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"citric acid production\",\n  \"geography\": \"RNA\",\n  \"reference_product_name\": \"citric acid\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "citric acid production",
+      "geography": "RNA",
+      "reference_product_name": "citric acid",
+      "reference_product_unit": "kg"
+    }
+  },
+  {
+    "id": 24,
+    "activity_uuid": "322ccfc5-e17e-5503-8366-d1bdafed71a9_cdccd54d-18bc-4d6c-989e-655ca82ed390",
+    "description": "This life cycle inventory dataset covers the activity 'maize grain production, organic, hill region', located in the region 'CH'. It produces 1 kg of 'maize grain, organic' as its reference product.",
+    "ground_truth": {
+      "activity_name": "maize grain production, organic, hill region",
+      "geography": "CH",
+      "reference_product_name": "maize grain, organic",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"maize grain production, organic, hill region\",\n  \"geography\": \"CH\",\n  \"reference_product_name\": \"maize grain, organic\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "maize grain production, organic, hill region",
+      "geography": "CH",
+      "reference_product_name": "maize grain, organic",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"maize grain production, organic, hill region\",\n  \"geography\": \"CH\",\n  \"reference_product_name\": \"maize grain, organic\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "maize grain production, organic, hill region",
+      "geography": "CH",
+      "reference_product_name": "maize grain, organic",
+      "reference_product_unit": "kg"
+    }
+  },
+  {
+    "id": 25,
+    "activity_uuid": "dcfa693c-933d-50a4-bddd-ad22f2a7d9c6_d86548c8-a433-44a0-91ba-073c2227b627",
+    "description": "This life cycle inventory dataset covers the activity 'sweet corn production', located in the region 'US-WI'. It produces 1 kg of 'sweet corn' as its reference product.",
+    "ground_truth": {
+      "activity_name": "sweet corn production",
+      "geography": "US-WI",
+      "reference_product_name": "sweet corn",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"sweet corn production\",\n  \"geography\": \"US-WI\",\n  \"reference_product_name\": \"sweet corn\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "sweet corn production",
+      "geography": "US-WI",
+      "reference_product_name": "sweet corn",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"sweet corn production\",\n  \"geography\": \"US-WI\",\n  \"reference_product_name\": \"sweet corn\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "sweet corn production",
+      "geography": "US-WI",
+      "reference_product_name": "sweet corn",
+      "reference_product_unit": "kg"
+    }
+  },
+  {
+    "id": 26,
+    "activity_uuid": "c1d8955f-13b4-56e3-8019-c6ceb5aee434_66c93e71-f32b-4591-901c-55395db5c132",
+    "description": "This life cycle inventory dataset covers the activity 'electricity, high voltage, production mix', located in the region 'MK'. It produces 1 kWh of 'electricity, high voltage' as its reference product.",
+    "ground_truth": {
+      "activity_name": "electricity, high voltage, production mix",
+      "geography": "MK",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"electricity, high voltage, production mix\",\n  \"geography\": \"MK\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gpt_parsed": {
+      "activity_name": "electricity, high voltage, production mix",
+      "geography": "MK",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"electricity, high voltage, production mix\",\n  \"geography\": \"MK\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "electricity, high voltage, production mix",
+      "geography": "MK",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    }
+  },
+  {
+    "id": 27,
+    "activity_uuid": "0cc2530f-e4c7-5b2c-805c-0e74756cc572_71e2f1db-a2c5-44d0-8337-dfff15be974d",
+    "description": "This life cycle inventory dataset covers the activity 'treatment of blast furnace gas, in power plant', located in the region 'CN-HB'. It produces 1 MJ of 'heat, district or industrial, other than natural gas' as its reference product.",
+    "ground_truth": {
+      "activity_name": "treatment of blast furnace gas, in power plant",
+      "geography": "CN-HB",
+      "reference_product_name": "heat, district or industrial, other than natural gas",
+      "reference_product_unit": "MJ"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"treatment of blast furnace gas, in power plant\",\n  \"geography\": \"CN-HB\",\n  \"reference_product_name\": \"heat, district or industrial, other than natural gas\",\n  \"reference_product_unit\": \"MJ\"\n}",
+    "gpt_parsed": {
+      "activity_name": "treatment of blast furnace gas, in power plant",
+      "geography": "CN-HB",
+      "reference_product_name": "heat, district or industrial, other than natural gas",
+      "reference_product_unit": "MJ"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"treatment of blast furnace gas, in power plant\",\n  \"geography\": \"CN-HB\",\n  \"reference_product_name\": \"heat, district or industrial, other than natural gas\",\n  \"reference_product_unit\": \"MJ\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "treatment of blast furnace gas, in power plant",
+      "geography": "CN-HB",
+      "reference_product_name": "heat, district or industrial, other than natural gas",
+      "reference_product_unit": "MJ"
+    }
+  },
+  {
+    "id": 28,
+    "activity_uuid": "b92bd2b2-a2df-598a-add9-6c90c0f0c9c1_67524136-3b4b-4adc-b2ba-fa9a35e3c6af",
+    "description": "This life cycle inventory dataset covers the activity 'market for bottom ash, MSWI[F], spent cation exchange resin from potable water production', located in the region 'CH'. It produces -1 kg of 'bottom ash, MSWI[F], spent cation exchange resin from potable water production' as its reference product.",
+    "ground_truth": {
+      "activity_name": "market for bottom ash, MSWI[F], spent cation exchange resin from potable water production",
+      "geography": "CH",
+      "reference_product_name": "bottom ash, MSWI[F], spent cation exchange resin from potable water production",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"market for bottom ash, MSWI[F], spent cation exchange resin from potable water production\",\n  \"geography\": \"CH\",\n  \"reference_product_name\": \"bottom ash, MSWI[F], spent cation exchange resin from potable water production\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "market for bottom ash, MSWI[F], spent cation exchange resin from potable water production",
+      "geography": "CH",
+      "reference_product_name": "bottom ash, MSWI[F], spent cation exchange resin from potable water production",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"market for bottom ash, MSWI[F], spent cation exchange resin from potable water production\",\n  \"geography\": \"CH\",\n  \"reference_product_name\": \"bottom ash, MSWI[F], spent cation exchange resin from potable water production\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "market for bottom ash, MSWI[F], spent cation exchange resin from potable water production",
+      "geography": "CH",
+      "reference_product_name": "bottom ash, MSWI[F], spent cation exchange resin from potable water production",
+      "reference_product_unit": "kg"
+    }
+  },
+  {
+    "id": 29,
+    "activity_uuid": "00d8f2f0-84e2-5e2e-91f5-004ed2680d4d_770a59c7-501a-56a8-988a-86d8a2d8f309",
+    "description": "This life cycle inventory dataset covers the activity 'rare earth oxides production, from rare earth carbonate concentrate', located in the region 'CN-FJ'. It produces 1 kg of 'lutetium oxide' as its reference product.",
+    "ground_truth": {
+      "activity_name": "rare earth oxides production, from rare earth carbonate concentrate",
+      "geography": "CN-FJ",
+      "reference_product_name": "lutetium oxide",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"rare earth oxides production, from rare earth carbonate concentrate\",\n  \"geography\": \"CN-FJ\",\n  \"reference_product_name\": \"lutetium oxide\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "rare earth oxides production, from rare earth carbonate concentrate",
+      "geography": "CN-FJ",
+      "reference_product_name": "lutetium oxide",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"rare earth oxides production, from rare earth carbonate concentrate\",\n  \"geography\": \"CN-FJ\",\n  \"reference_product_name\": \"lutetium oxide\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "rare earth oxides production, from rare earth carbonate concentrate",
+      "geography": "CN-FJ",
+      "reference_product_name": "lutetium oxide",
+      "reference_product_unit": "kg"
+    }
+  },
+  {
+    "id": 30,
+    "activity_uuid": "4598a497-c2ad-5a5f-90e7-c6060d492af4_5ad2c6c9-1ff6-4bb0-bae1-40f8adc42b1c",
+    "description": "This life cycle inventory dataset covers the activity 'printed wiring board production, for through-hole mounting, Pb containing surface', located in the region 'GLO'. It produces 1 m2 of 'printed wiring board, for through-hole mounting, Pb containing surface' as its reference product.",
+    "ground_truth": {
+      "activity_name": "printed wiring board production, for through-hole mounting, Pb containing surface",
+      "geography": "GLO",
+      "reference_product_name": "printed wiring board, for through-hole mounting, Pb containing surface",
+      "reference_product_unit": "m2"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"printed wiring board production, for through-hole mounting, Pb containing surface\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"printed wiring board, for through-hole mounting, Pb containing surface\",\n  \"reference_product_unit\": \"m2\"\n}",
+    "gpt_parsed": {
+      "activity_name": "printed wiring board production, for through-hole mounting, Pb containing surface",
+      "geography": "GLO",
+      "reference_product_name": "printed wiring board, for through-hole mounting, Pb containing surface",
+      "reference_product_unit": "m2"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"printed wiring board production, for through-hole mounting, Pb containing surface\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"printed wiring board, for through-hole mounting, Pb containing surface\",\n  \"reference_product_unit\": \"m2\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "printed wiring board production, for through-hole mounting, Pb containing surface",
+      "geography": "GLO",
+      "reference_product_name": "printed wiring board, for through-hole mounting, Pb containing surface",
+      "reference_product_unit": "m2"
+    }
+  },
+  {
+    "id": 31,
+    "activity_uuid": "71876a59-26b1-5bb6-8753-80e38f351563_d30ad511-0d19-4eae-8981-a8d11b965625",
+    "description": "This life cycle inventory dataset covers the activity 'market for fish curing plant', located in the region 'GLO'. It produces 1 unit of 'fish curing plant' as its reference product.",
+    "ground_truth": {
+      "activity_name": "market for fish curing plant",
+      "geography": "GLO",
+      "reference_product_name": "fish curing plant",
+      "reference_product_unit": "unit"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"market for fish curing plant\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"fish curing plant\",\n  \"reference_product_unit\": \"1 unit\"\n}",
+    "gpt_parsed": {
+      "activity_name": "market for fish curing plant",
+      "geography": "GLO",
+      "reference_product_name": "fish curing plant",
+      "reference_product_unit": "1 unit"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"market for fish curing plant\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"fish curing plant\",\n  \"reference_product_unit\": \"unit\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "market for fish curing plant",
+      "geography": "GLO",
+      "reference_product_name": "fish curing plant",
+      "reference_product_unit": "unit"
+    }
+  },
+  {
+    "id": 32,
+    "activity_uuid": "86ea3bc4-71ae-5196-841b-bc408cb13271_df12f8f5-a3e3-4506-9d86-b33205d21a52",
+    "description": "This life cycle inventory dataset covers the activity 'rare earth oxides production, from rare earth oxide concentrate, 70% REO', located in the region 'CN-SC'. It produces 1 kg of 'cerium oxide' as its reference product.",
+    "ground_truth": {
+      "activity_name": "rare earth oxides production, from rare earth oxide concentrate, 70% REO",
+      "geography": "CN-SC",
+      "reference_product_name": "cerium oxide",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"rare earth oxides production, from rare earth oxide concentrate, 70% REO\",\n  \"geography\": \"CN-SC\",\n  \"reference_product_name\": \"cerium oxide\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "rare earth oxides production, from rare earth oxide concentrate, 70% REO",
+      "geography": "CN-SC",
+      "reference_product_name": "cerium oxide",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"rare earth oxides production, from rare earth oxide concentrate, 70% REO\",\n  \"geography\": \"CN-SC\",\n  \"reference_product_name\": \"cerium oxide\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "rare earth oxides production, from rare earth oxide concentrate, 70% REO",
+      "geography": "CN-SC",
+      "reference_product_name": "cerium oxide",
+      "reference_product_unit": "kg"
+    }
+  },
+  {
+    "id": 33,
+    "activity_uuid": "fbc1834b-edb2-59ca-84ce-cb12771d689b_661b630a-c1a4-4c38-837e-393f949105f0",
+    "description": "This life cycle inventory dataset covers the activity 'treatment of green liquor dregs, residual material landfill', located in the region 'CA'. It produces -1 kg of 'green liquor dregs' as its reference product.",
+    "ground_truth": {
+      "activity_name": "treatment of green liquor dregs, residual material landfill",
+      "geography": "CA",
+      "reference_product_name": "green liquor dregs",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"treatment of green liquor dregs, residual material landfill\",\n  \"geography\": \"CA\",\n  \"reference_product_name\": \"green liquor dregs\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "treatment of green liquor dregs, residual material landfill",
+      "geography": "CA",
+      "reference_product_name": "green liquor dregs",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"treatment of green liquor dregs, residual material landfill\",\n  \"geography\": \"CA\",\n  \"reference_product_name\": \"green liquor dregs\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "treatment of green liquor dregs, residual material landfill",
+      "geography": "CA",
+      "reference_product_name": "green liquor dregs",
+      "reference_product_unit": "kg"
+    }
+  },
+  {
+    "id": 34,
+    "activity_uuid": "eb3f9431-09cf-5acc-9fd2-b8cb8070fb2d_6fc899be-6815-43c1-9632-9846319bb56c",
+    "description": "This life cycle inventory dataset covers the activity 'market for used train, passenger, long-distance', located in the region 'GLO'. It produces -1 unit of 'used train, passenger, long-distance' as its reference product.",
+    "ground_truth": {
+      "activity_name": "market for used train, passenger, long-distance",
+      "geography": "GLO",
+      "reference_product_name": "used train, passenger, long-distance",
+      "reference_product_unit": "unit"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"market for used train, passenger, long-distance\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"used train, passenger, long-distance\",\n  \"reference_product_unit\": \"-1\"\n}",
+    "gpt_parsed": {
+      "activity_name": "market for used train, passenger, long-distance",
+      "geography": "GLO",
+      "reference_product_name": "used train, passenger, long-distance",
+      "reference_product_unit": "-1"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"market for used train, passenger, long-distance\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"used train, passenger, long-distance\",\n  \"reference_product_unit\": \"unit\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "market for used train, passenger, long-distance",
+      "geography": "GLO",
+      "reference_product_name": "used train, passenger, long-distance",
+      "reference_product_unit": "unit"
+    }
+  },
+  {
+    "id": 35,
+    "activity_uuid": "5464f0a9-fa87-5fbd-b9be-a4c088e1d2f1_592e0ff6-a7a8-4ad4-9f0a-139554ed4ce0",
+    "description": "This life cycle inventory dataset covers the activity 'boron trifluoride production', located in the region 'GLO'. It produces 1 kg of 'boron trifluoride' as its reference product.",
+    "ground_truth": {
+      "activity_name": "boron trifluoride production",
+      "geography": "GLO",
+      "reference_product_name": "boron trifluoride",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"boron trifluoride production\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"boron trifluoride\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "boron trifluoride production",
+      "geography": "GLO",
+      "reference_product_name": "boron trifluoride",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"boron trifluoride production\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"boron trifluoride\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "boron trifluoride production",
+      "geography": "GLO",
+      "reference_product_name": "boron trifluoride",
+      "reference_product_unit": "kg"
+    }
+  },
+  {
+    "id": 36,
+    "activity_uuid": "75f1ff43-064a-585e-9c2a-116170972b3b_0baac448-32a1-4b9f-afec-69a9b9b203ac",
+    "description": "This life cycle inventory dataset covers the activity 'treatment of waste paper, unsorted, sorting', located in the region 'CH'. It produces 1 kg of 'waste paper, sorted' as its reference product.",
+    "ground_truth": {
+      "activity_name": "treatment of waste paper, unsorted, sorting",
+      "geography": "CH",
+      "reference_product_name": "waste paper, sorted",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"treatment of waste paper, unsorted, sorting\",\n  \"geography\": \"CH\",\n  \"reference_product_name\": \"waste paper, sorted\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "treatment of waste paper, unsorted, sorting",
+      "geography": "CH",
+      "reference_product_name": "waste paper, sorted",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"treatment of waste paper, unsorted, sorting\",\n  \"geography\": \"CH\",\n  \"reference_product_name\": \"waste paper, sorted\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "treatment of waste paper, unsorted, sorting",
+      "geography": "CH",
+      "reference_product_name": "waste paper, sorted",
+      "reference_product_unit": "kg"
+    }
+  },
+  {
+    "id": 37,
+    "activity_uuid": "97c45213-b43d-5ad6-aeea-9012fde252d9_8e865a10-3dc7-400f-8752-f26a21b55a4f",
+    "description": "This life cycle inventory dataset covers the activity 'market for bottom ash, MSWI-WWT, WW from GGBFS production', located in the region 'US'. It produces -1 kg of 'bottom ash, MSWI-WWT, WW from GGBFS production' as its reference product.",
+    "ground_truth": {
+      "activity_name": "market for bottom ash, MSWI-WWT, WW from GGBFS production",
+      "geography": "US",
+      "reference_product_name": "bottom ash, MSWI-WWT, WW from GGBFS production",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"market for bottom ash, MSWI-WWT, WW from GGBFS production\",\n  \"geography\": \"US\",\n  \"reference_product_name\": \"bottom ash, MSWI-WWT, WW from GGBFS production\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "market for bottom ash, MSWI-WWT, WW from GGBFS production",
+      "geography": "US",
+      "reference_product_name": "bottom ash, MSWI-WWT, WW from GGBFS production",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"market for bottom ash, MSWI-WWT, WW from GGBFS production\",\n  \"geography\": \"US\",\n  \"reference_product_name\": \"bottom ash, MSWI-WWT, WW from GGBFS production\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "market for bottom ash, MSWI-WWT, WW from GGBFS production",
+      "geography": "US",
+      "reference_product_name": "bottom ash, MSWI-WWT, WW from GGBFS production",
+      "reference_product_unit": "kg"
+    }
+  },
+  {
+    "id": 38,
+    "activity_uuid": "5ea3cd96-91fb-5307-9bcf-dac3ce25b52d_66c93e71-f32b-4591-901c-55395db5c132",
+    "description": "This life cycle inventory dataset covers the activity 'market for electricity, high voltage', located in the region 'US-ASCC'. It produces 1 kWh of 'electricity, high voltage' as its reference product.",
+    "ground_truth": {
+      "activity_name": "market for electricity, high voltage",
+      "geography": "US-ASCC",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"market for electricity, high voltage\",\n  \"geography\": \"US-ASCC\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gpt_parsed": {
+      "activity_name": "market for electricity, high voltage",
+      "geography": "US-ASCC",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"market for electricity, high voltage\",\n  \"geography\": \"US-ASCC\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "market for electricity, high voltage",
+      "geography": "US-ASCC",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    }
+  },
+  {
+    "id": 39,
+    "activity_uuid": "5c5846ef-9205-5999-b2f9-face6e653e05_1d32b849-121f-4d23-853c-fa2bf55c42e9",
+    "description": "This life cycle inventory dataset covers the activity 'land use change, annual crop', located in the region 'BR-SC'. It produces 1 ha of 'land use change, annual crop' as its reference product.",
+    "ground_truth": {
+      "activity_name": "land use change, annual crop",
+      "geography": "BR-SC",
+      "reference_product_name": "land use change, annual crop",
+      "reference_product_unit": "ha"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"land use change, annual crop\",\n  \"geography\": \"BR-SC\",\n  \"reference_product_name\": \"land use change, annual crop\",\n  \"reference_product_unit\": \"ha\"\n}",
+    "gpt_parsed": {
+      "activity_name": "land use change, annual crop",
+      "geography": "BR-SC",
+      "reference_product_name": "land use change, annual crop",
+      "reference_product_unit": "ha"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"land use change, annual crop\",\n  \"geography\": \"BR-SC\",\n  \"reference_product_name\": \"land use change, annual crop\",\n  \"reference_product_unit\": \"ha\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "land use change, annual crop",
+      "geography": "BR-SC",
+      "reference_product_name": "land use change, annual crop",
+      "reference_product_unit": "ha"
+    }
+  },
+  {
+    "id": 40,
+    "activity_uuid": "7b73ab4f-80b0-5c26-8ce2-5ef253424ae7_f1e0a8f1-aa97-4de6-a715-9c63acd1b6d4",
+    "description": "This life cycle inventory dataset covers the activity 'copper oxide production', located in the region 'RER'. It produces 1 kg of 'copper oxide' as its reference product.",
+    "ground_truth": {
+      "activity_name": "copper oxide production",
+      "geography": "RER",
+      "reference_product_name": "copper oxide",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"copper oxide production\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"copper oxide\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "copper oxide production",
+      "geography": "RER",
+      "reference_product_name": "copper oxide",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"copper oxide production\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"copper oxide\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "copper oxide production",
+      "geography": "RER",
+      "reference_product_name": "copper oxide",
+      "reference_product_unit": "kg"
+    }
+  },
+  {
+    "id": 41,
+    "activity_uuid": "5ff970f4-8b56-5bc3-a3b4-7d2139379e16_71e2f1db-a2c5-44d0-8337-dfff15be974d",
+    "description": "This life cycle inventory dataset covers the activity 'heat and power co-generation, hard coal', located in the region 'UA'. It produces 1 MJ of 'heat, district or industrial, other than natural gas' as its reference product.",
+    "ground_truth": {
+      "activity_name": "heat and power co-generation, hard coal",
+      "geography": "UA",
+      "reference_product_name": "heat, district or industrial, other than natural gas",
+      "reference_product_unit": "MJ"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"heat and power co-generation, hard coal\",\n  \"geography\": \"UA\",\n  \"reference_product_name\": \"heat, district or industrial, other than natural gas\",\n  \"reference_product_unit\": \"MJ\"\n}",
+    "gpt_parsed": {
+      "activity_name": "heat and power co-generation, hard coal",
+      "geography": "UA",
+      "reference_product_name": "heat, district or industrial, other than natural gas",
+      "reference_product_unit": "MJ"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"heat and power co-generation, hard coal\",\n  \"geography\": \"UA\",\n  \"reference_product_name\": \"heat, district or industrial, other than natural gas\",\n  \"reference_product_unit\": \"MJ\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "heat and power co-generation, hard coal",
+      "geography": "UA",
+      "reference_product_name": "heat, district or industrial, other than natural gas",
+      "reference_product_unit": "MJ"
+    }
+  },
+  {
+    "id": 42,
+    "activity_uuid": "76d3cf93-113b-50b4-8f45-d69dbec5eee3_66c93e71-f32b-4591-901c-55395db5c132",
+    "description": "This life cycle inventory dataset covers the activity 'electricity production, oil', located in the region 'DE'. It produces 1 kWh of 'electricity, high voltage' as its reference product.",
+    "ground_truth": {
+      "activity_name": "electricity production, oil",
+      "geography": "DE",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"electricity production, oil\",\n  \"geography\": \"DE\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gpt_parsed": {
+      "activity_name": "electricity production, oil",
+      "geography": "DE",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"electricity production, oil\",\n  \"geography\": \"DE\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "electricity production, oil",
+      "geography": "DE",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    }
+  },
+  {
+    "id": 43,
+    "activity_uuid": "cdf13357-56c3-5b0a-a92a-8f9f6402008d_d69294d7-8d64-4915-a896-9996a014c410",
+    "description": "This life cycle inventory dataset covers the activity 'electricity voltage transformation from medium to low voltage', located in the region 'LB'. It produces 1 kWh of 'electricity, low voltage' as its reference product.",
+    "ground_truth": {
+      "activity_name": "electricity voltage transformation from medium to low voltage",
+      "geography": "LB",
+      "reference_product_name": "electricity, low voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"electricity voltage transformation from medium to low voltage\",\n  \"geography\": \"LB\",\n  \"reference_product_name\": \"electricity, low voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gpt_parsed": {
+      "activity_name": "electricity voltage transformation from medium to low voltage",
+      "geography": "LB",
+      "reference_product_name": "electricity, low voltage",
+      "reference_product_unit": "kWh"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"electricity voltage transformation from medium to low voltage\",\n  \"geography\": \"LB\",\n  \"reference_product_name\": \"electricity, low voltage\",\n  \"reference_product_unit\": \"kWh\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "electricity voltage transformation from medium to low voltage",
+      "geography": "LB",
+      "reference_product_name": "electricity, low voltage",
+      "reference_product_unit": "kWh"
+    }
+  },
+  {
+    "id": 44,
+    "activity_uuid": "1a66616d-a34e-53e7-9e97-3cd4234e85fb_66c93e71-f32b-4591-901c-55395db5c132",
+    "description": "This life cycle inventory dataset covers the activity 'electricity production, hydro, reservoir, non-alpine region', located in the region 'CA-NB'. It produces 1 kWh of 'electricity, high voltage' as its reference product.",
+    "ground_truth": {
+      "activity_name": "electricity production, hydro, reservoir, non-alpine region",
+      "geography": "CA-NB",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"electricity production, hydro, reservoir, non-alpine region\",\n  \"geography\": \"CA-NB\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gpt_parsed": {
+      "activity_name": "electricity production, hydro, reservoir, non-alpine region",
+      "geography": "CA-NB",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"electricity production, hydro, reservoir, non-alpine region\",\n  \"geography\": \"CA-NB\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "electricity production, hydro, reservoir, non-alpine region",
+      "geography": "CA-NB",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    }
+  },
+  {
+    "id": 45,
+    "activity_uuid": "0f0ea21d-bb70-57be-ad04-52dd3b45153b_2966d161-5281-47d6-86d3-efbb0a4b2110",
+    "description": "This life cycle inventory dataset covers the activity 'heavy fuel oil production, petroleum refinery operation', located in the region 'BR'. It produces 1 kg of 'heavy fuel oil' as its reference product.",
+    "ground_truth": {
+      "activity_name": "heavy fuel oil production, petroleum refinery operation",
+      "geography": "BR",
+      "reference_product_name": "heavy fuel oil",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"heavy fuel oil production, petroleum refinery operation\",\n  \"geography\": \"BR\",\n  \"reference_product_name\": \"heavy fuel oil\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "heavy fuel oil production, petroleum refinery operation",
+      "geography": "BR",
+      "reference_product_name": "heavy fuel oil",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"heavy fuel oil production, petroleum refinery operation\",\n  \"geography\": \"BR\",\n  \"reference_product_name\": \"heavy fuel oil\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "heavy fuel oil production, petroleum refinery operation",
+      "geography": "BR",
+      "reference_product_name": "heavy fuel oil",
+      "reference_product_unit": "kg"
+    }
+  },
+  {
+    "id": 46,
+    "activity_uuid": "e2e5df5e-df0c-5e33-8570-a7ea5162726a_943b47f3-7aaa-431f-8d48-f5c7ecb7d160",
+    "description": "This life cycle inventory dataset covers the activity 'thermocompression, electricity use, 200 – 500 t press, 120 °C, 60 minutes cycle', located in the region 'RoW'. It produces 1 unit of 'thermocompression, electricity use, 200 – 500 t press, 120 °C, 60 minutes cycle' as its reference product.",
+    "ground_truth": {
+      "activity_name": "thermocompression, electricity use, 200 – 500 t press, 120 °C, 60 minutes cycle",
+      "geography": "RoW",
+      "reference_product_name": "thermocompression, electricity use, 200 – 500 t press, 120 °C, 60 minutes cycle",
+      "reference_product_unit": "unit"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"thermocompression, electricity use, 200 – 500 t press, 120 °C, 60 minutes cycle\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"thermocompression, electricity use, 200 – 500 t press, 120 °C, 60 minutes cycle\",\n  \"reference_product_unit\": \"1 unit\"\n}",
+    "gpt_parsed": {
+      "activity_name": "thermocompression, electricity use, 200 – 500 t press, 120 °C, 60 minutes cycle",
+      "geography": "RoW",
+      "reference_product_name": "thermocompression, electricity use, 200 – 500 t press, 120 °C, 60 minutes cycle",
+      "reference_product_unit": "1 unit"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"thermocompression, electricity use, 200 – 500 t press, 120 °C, 60 minutes cycle\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"thermocompression, electricity use, 200 – 500 t press, 120 °C, 60 minutes cycle\",\n  \"reference_product_unit\": \"unit\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "thermocompression, electricity use, 200 – 500 t press, 120 °C, 60 minutes cycle",
+      "geography": "RoW",
+      "reference_product_name": "thermocompression, electricity use, 200 – 500 t press, 120 °C, 60 minutes cycle",
+      "reference_product_unit": "unit"
+    }
+  },
+  {
+    "id": 47,
+    "activity_uuid": "7ce701bb-f204-5491-94d7-64665da52f31_34d3846c-787a-48c0-9d72-3ae58373ef78",
+    "description": "This life cycle inventory dataset covers the activity 'treatment of sewage sludge, 97% water, WWT, WW, average, landfarming', located in the region 'RoW'. It produces -1 kg of 'sewage sludge, 97% water, WWT, WW, average' as its reference product.",
+    "ground_truth": {
+      "activity_name": "treatment of sewage sludge, 97% water, WWT, WW, average, landfarming",
+      "geography": "RoW",
+      "reference_product_name": "sewage sludge, 97% water, WWT, WW, average",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"treatment of sewage sludge, 97% water, WWT, WW, average, landfarming\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"sewage sludge, 97% water, WWT, WW, average\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "treatment of sewage sludge, 97% water, WWT, WW, average, landfarming",
+      "geography": "RoW",
+      "reference_product_name": "sewage sludge, 97% water, WWT, WW, average",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"treatment of sewage sludge, 97% water, WWT, WW, average, landfarming\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"sewage sludge, 97% water, WWT, WW, average\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "treatment of sewage sludge, 97% water, WWT, WW, average, landfarming",
+      "geography": "RoW",
+      "reference_product_name": "sewage sludge, 97% water, WWT, WW, average",
+      "reference_product_unit": "kg"
+    }
+  },
+  {
+    "id": 48,
+    "activity_uuid": "b9f8957d-8ade-52fd-8d08-0a3fac7b51d2_1768722c-0cb1-4b0b-9183-2ff16919120e",
+    "description": "This life cycle inventory dataset covers the activity 'market for polyvinyl chloride, unspecified polymerisation, weighted average', located in the region 'RoW'. It produces 1 kg of 'polyvinyl chloride, unspecified polymerisation, weighted average' as its reference product.",
+    "ground_truth": {
+      "activity_name": "market for polyvinyl chloride, unspecified polymerisation, weighted average",
+      "geography": "RoW",
+      "reference_product_name": "polyvinyl chloride, unspecified polymerisation, weighted average",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"market for polyvinyl chloride, unspecified polymerisation, weighted average\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"polyvinyl chloride, unspecified polymerisation, weighted average\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "market for polyvinyl chloride, unspecified polymerisation, weighted average",
+      "geography": "RoW",
+      "reference_product_name": "polyvinyl chloride, unspecified polymerisation, weighted average",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"market for polyvinyl chloride, unspecified polymerisation, weighted average\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"polyvinyl chloride, unspecified polymerisation, weighted average\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "market for polyvinyl chloride, unspecified polymerisation, weighted average",
+      "geography": "RoW",
+      "reference_product_name": "polyvinyl chloride, unspecified polymerisation, weighted average",
+      "reference_product_unit": "kg"
+    }
+  },
+  {
+    "id": 49,
+    "activity_uuid": "14ca4739-7382-5ae0-b623-7700e3f85bae_45fbbc41-7ae9-46cc-bb31-abfa11e69de0",
+    "description": "This life cycle inventory dataset covers the activity 'treatment of waste graphical paper, municipal incineration FAE', located in the region 'CH'. It produces 1 MJ of 'heat, for reuse in municipal waste incineration only' as its reference product.",
+    "ground_truth": {
+      "activity_name": "treatment of waste graphical paper, municipal incineration FAE",
+      "geography": "CH",
+      "reference_product_name": "heat, for reuse in municipal waste incineration only",
+      "reference_product_unit": "MJ"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"treatment of waste graphical paper, municipal incineration FAE\",\n  \"geography\": \"CH\",\n  \"reference_product_name\": \"heat, for reuse in municipal waste incineration only\",\n  \"reference_product_unit\": \"MJ\"\n}",
+    "gpt_parsed": {
+      "activity_name": "treatment of waste graphical paper, municipal incineration FAE",
+      "geography": "CH",
+      "reference_product_name": "heat, for reuse in municipal waste incineration only",
+      "reference_product_unit": "MJ"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"treatment of waste graphical paper, municipal incineration FAE\",\n  \"geography\": \"CH\",\n  \"reference_product_name\": \"heat, for reuse in municipal waste incineration only\",\n  \"reference_product_unit\": \"MJ\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "treatment of waste graphical paper, municipal incineration FAE",
+      "geography": "CH",
+      "reference_product_name": "heat, for reuse in municipal waste incineration only",
+      "reference_product_unit": "MJ"
+    }
+  },
+  {
+    "id": 50,
+    "activity_uuid": "00a02e07-c523-501d-a947-f4f27c500dcf_019600be-f3ce-4399-9e31-19cdc087ed5f",
+    "description": "This life cycle inventory dataset covers the activity 'shavings, hardwood, measured as dry mass to generic market for residual wood, dry', located in the region 'Europe without Switzerland'. It produces 1 m3 of 'residual wood, dry' as its reference product.",
+    "ground_truth": {
+      "activity_name": "shavings, hardwood, measured as dry mass to generic market for residual wood, dry",
+      "geography": "Europe without Switzerland",
+      "reference_product_name": "residual wood, dry",
+      "reference_product_unit": "m3"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"shavings, hardwood, measured as dry mass to generic market for residual wood, dry\",\n  \"geography\": \"Europe without Switzerland\",\n  \"reference_product_name\": \"residual wood, dry\",\n  \"reference_product_unit\": \"m3\"\n}",
+    "gpt_parsed": {
+      "activity_name": "shavings, hardwood, measured as dry mass to generic market for residual wood, dry",
+      "geography": "Europe without Switzerland",
+      "reference_product_name": "residual wood, dry",
+      "reference_product_unit": "m3"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"shavings, hardwood, measured as dry mass to generic market for residual wood, dry\",\n  \"geography\": \"Europe without Switzerland\",\n  \"reference_product_name\": \"residual wood, dry\",\n  \"reference_product_unit\": \"m3\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "shavings, hardwood, measured as dry mass to generic market for residual wood, dry",
+      "geography": "Europe without Switzerland",
+      "reference_product_name": "residual wood, dry",
+      "reference_product_unit": "m3"
+    }
+  },
+  {
+    "id": 51,
+    "activity_uuid": "9f9f82fb-7931-5bb7-9a9b-cda477a4be35_f456aceb-2c05-484d-afde-180ef35c0eec",
+    "description": "This life cycle inventory dataset covers the activity 'market for gas power plant, 300MW electrical', located in the region 'GLO'. It produces 1 unit of 'gas power plant, 300MW electrical' as its reference product.",
+    "ground_truth": {
+      "activity_name": "market for gas power plant, 300MW electrical",
+      "geography": "GLO",
+      "reference_product_name": "gas power plant, 300MW electrical",
+      "reference_product_unit": "unit"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"market for gas power plant, 300MW electrical\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"gas power plant, 300MW electrical\",\n  \"reference_product_unit\": \"1\"\n}",
+    "gpt_parsed": {
+      "activity_name": "market for gas power plant, 300MW electrical",
+      "geography": "GLO",
+      "reference_product_name": "gas power plant, 300MW electrical",
+      "reference_product_unit": "1"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"market for gas power plant, 300MW electrical\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"gas power plant, 300MW electrical\",\n  \"reference_product_unit\": \"unit\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "market for gas power plant, 300MW electrical",
+      "geography": "GLO",
+      "reference_product_name": "gas power plant, 300MW electrical",
+      "reference_product_unit": "unit"
+    }
+  },
+  {
+    "id": 52,
+    "activity_uuid": "6d3312c3-e343-5153-a656-34ec9dd33dd2_a9007f10-7e39-4d50-8f4a-d6d03ce3d673",
+    "description": "This life cycle inventory dataset covers the activity 'petroleum and gas production, onshore', located in the region 'IR'. It produces 1 m3 of 'natural gas, high pressure' as its reference product.",
+    "ground_truth": {
+      "activity_name": "petroleum and gas production, onshore",
+      "geography": "IR",
+      "reference_product_name": "natural gas, high pressure",
+      "reference_product_unit": "m3"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"petroleum and gas production, onshore\",\n  \"geography\": \"IR\",\n  \"reference_product_name\": \"natural gas, high pressure\",\n  \"reference_product_unit\": \"m3\"\n}",
+    "gpt_parsed": {
+      "activity_name": "petroleum and gas production, onshore",
+      "geography": "IR",
+      "reference_product_name": "natural gas, high pressure",
+      "reference_product_unit": "m3"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"petroleum and gas production, onshore\",\n  \"geography\": \"IR\",\n  \"reference_product_name\": \"natural gas, high pressure\",\n  \"reference_product_unit\": \"m3\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "petroleum and gas production, onshore",
+      "geography": "IR",
+      "reference_product_name": "natural gas, high pressure",
+      "reference_product_unit": "m3"
+    }
+  },
+  {
+    "id": 53,
+    "activity_uuid": "81a7203d-767a-5011-9e82-136219dcf4b4_fc458a34-8eed-427a-a5e0-c8e930422250",
+    "description": "This life cycle inventory dataset covers the activity 'market for mineral supplement, for beef cattle', located in the region 'GLO'. It produces 1 kg of 'mineral supplement, for beef cattle' as its reference product.",
+    "ground_truth": {
+      "activity_name": "market for mineral supplement, for beef cattle",
+      "geography": "GLO",
+      "reference_product_name": "mineral supplement, for beef cattle",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"market for mineral supplement, for beef cattle\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"mineral supplement, for beef cattle\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "market for mineral supplement, for beef cattle",
+      "geography": "GLO",
+      "reference_product_name": "mineral supplement, for beef cattle",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"market for mineral supplement, for beef cattle\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"mineral supplement, for beef cattle\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "market for mineral supplement, for beef cattle",
+      "geography": "GLO",
+      "reference_product_name": "mineral supplement, for beef cattle",
+      "reference_product_unit": "kg"
+    }
+  },
+  {
+    "id": 54,
+    "activity_uuid": "6d3312c3-e343-5153-a656-34ec9dd33dd2_e6aad2de-0b1b-49c3-a0c4-797ba34d87e5",
+    "description": "This life cycle inventory dataset covers the activity 'petroleum and gas production, onshore', located in the region 'IR'. It produces 1 kg of 'petroleum' as its reference product.",
+    "ground_truth": {
+      "activity_name": "petroleum and gas production, onshore",
+      "geography": "IR",
+      "reference_product_name": "petroleum",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"petroleum and gas production, onshore\",\n  \"geography\": \"IR\",\n  \"reference_product_name\": \"petroleum\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "petroleum and gas production, onshore",
+      "geography": "IR",
+      "reference_product_name": "petroleum",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"petroleum and gas production, onshore\",\n  \"geography\": \"IR\",\n  \"reference_product_name\": \"petroleum\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "petroleum and gas production, onshore",
+      "geography": "IR",
+      "reference_product_name": "petroleum",
+      "reference_product_unit": "kg"
+    }
+  },
+  {
+    "id": 55,
+    "activity_uuid": "6dcc8832-8cae-597e-b597-f1a03b4d1f97_76e25766-cf29-42a6-a937-ae1769466012",
+    "description": "This life cycle inventory dataset covers the activity 'treatment of Sn-based antifouling paint emissions', located in the region 'PE'. It produces -1 kg of 'antifouling paint emissions' as its reference product.",
+    "ground_truth": {
+      "activity_name": "treatment of Sn-based antifouling paint emissions",
+      "geography": "PE",
+      "reference_product_name": "antifouling paint emissions",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"treatment of Sn-based antifouling paint emissions\",\n  \"geography\": \"PE\",\n  \"reference_product_name\": \"antifouling paint emissions\",\n  \"reference_product_unit\": \"-1 kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "treatment of Sn-based antifouling paint emissions",
+      "geography": "PE",
+      "reference_product_name": "antifouling paint emissions",
+      "reference_product_unit": "-1 kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"treatment of Sn-based antifouling paint emissions\",\n  \"geography\": \"PE\",\n  \"reference_product_name\": \"antifouling paint emissions\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "treatment of Sn-based antifouling paint emissions",
+      "geography": "PE",
+      "reference_product_name": "antifouling paint emissions",
+      "reference_product_unit": "kg"
+    }
+  },
+  {
+    "id": 56,
+    "activity_uuid": "0e1d2df9-f655-55b1-9555-a83012d0e51f_6f758196-b251-41b7-8bcd-494cf240a390",
+    "description": "This life cycle inventory dataset covers the activity 'treatment of used purse seiner, steel', located in the region 'RLA'. It produces -1 kg of 'used purse seiner, steel' as its reference product.",
+    "ground_truth": {
+      "activity_name": "treatment of used purse seiner, steel",
+      "geography": "RLA",
+      "reference_product_name": "used purse seiner, steel",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"treatment of used purse seiner, steel\",\n  \"geography\": \"RLA\",\n  \"reference_product_name\": \"used purse seiner, steel\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "treatment of used purse seiner, steel",
+      "geography": "RLA",
+      "reference_product_name": "used purse seiner, steel",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"treatment of used purse seiner, steel\",\n  \"geography\": \"RLA\",\n  \"reference_product_name\": \"used purse seiner, steel\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "treatment of used purse seiner, steel",
+      "geography": "RLA",
+      "reference_product_name": "used purse seiner, steel",
+      "reference_product_unit": "kg"
+    }
+  },
+  {
+    "id": 57,
+    "activity_uuid": "3b41f986-335d-5b92-96fb-826bd0ba6c4d_1570a766-fe08-427f-94cb-6947995117ec",
+    "description": "This life cycle inventory dataset covers the activity 'natural gas, liquefied, import from QA', located in the region 'CN'. It produces 1 m3 of 'natural gas, liquefied' as its reference product.",
+    "ground_truth": {
+      "activity_name": "natural gas, liquefied, import from QA",
+      "geography": "CN",
+      "reference_product_name": "natural gas, liquefied",
+      "reference_product_unit": "m3"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"natural gas, liquefied, import from QA\",\n  \"geography\": \"CN\",\n  \"reference_product_name\": \"natural gas, liquefied\",\n  \"reference_product_unit\": \"m3\"\n}",
+    "gpt_parsed": {
+      "activity_name": "natural gas, liquefied, import from QA",
+      "geography": "CN",
+      "reference_product_name": "natural gas, liquefied",
+      "reference_product_unit": "m3"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"natural gas, liquefied, import from QA\",\n  \"geography\": \"CN\",\n  \"reference_product_name\": \"natural gas, liquefied\",\n  \"reference_product_unit\": \"m3\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "natural gas, liquefied, import from QA",
+      "geography": "CN",
+      "reference_product_name": "natural gas, liquefied",
+      "reference_product_unit": "m3"
+    }
+  },
+  {
+    "id": 58,
+    "activity_uuid": "1f1ee24f-58cb-5e53-9fd5-bfb82df95223_7ee0ddc3-924d-4339-b9bf-7856af6a698f",
+    "description": "This life cycle inventory dataset covers the activity 'market for waste polyethylene', located in the region 'CZ'. It produces -1 kg of 'waste polyethylene' as its reference product.",
+    "ground_truth": {
+      "activity_name": "market for waste polyethylene",
+      "geography": "CZ",
+      "reference_product_name": "waste polyethylene",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"market for waste polyethylene\",\n  \"geography\": \"CZ\",\n  \"reference_product_name\": \"waste polyethylene\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "market for waste polyethylene",
+      "geography": "CZ",
+      "reference_product_name": "waste polyethylene",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"market for waste polyethylene\",\n  \"geography\": \"CZ\",\n  \"reference_product_name\": \"waste polyethylene\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "market for waste polyethylene",
+      "geography": "CZ",
+      "reference_product_name": "waste polyethylene",
+      "reference_product_unit": "kg"
+    }
+  },
+  {
+    "id": 59,
+    "activity_uuid": "e810e1e0-e9ab-5079-9485-fd86a37e422c_9b9edcf3-0539-4642-9516-0df642a5c41a",
+    "description": "This life cycle inventory dataset covers the activity 'land already in use, annual cropland to perennial crop', located in the region 'BR-ES'. It produces 1 kg of 'land tenure, arable land, measured as carbon net primary productivity, perennial crop' as its reference product.",
+    "ground_truth": {
+      "activity_name": "land already in use, annual cropland to perennial crop",
+      "geography": "BR-ES",
+      "reference_product_name": "land tenure, arable land, measured as carbon net primary productivity, perennial crop",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"land already in use, annual cropland to perennial crop\",\n  \"geography\": \"BR-ES\",\n  \"reference_product_name\": \"land tenure, arable land, measured as carbon net primary productivity, perennial crop\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "land already in use, annual cropland to perennial crop",
+      "geography": "BR-ES",
+      "reference_product_name": "land tenure, arable land, measured as carbon net primary productivity, perennial crop",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"land already in use, annual cropland to perennial crop\",\n  \"geography\": \"BR-ES\",\n  \"reference_product_name\": \"land tenure, arable land, measured as carbon net primary productivity, perennial crop\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "land already in use, annual cropland to perennial crop",
+      "geography": "BR-ES",
+      "reference_product_name": "land tenure, arable land, measured as carbon net primary productivity, perennial crop",
+      "reference_product_unit": "kg"
+    }
+  },
+  {
+    "id": 60,
+    "activity_uuid": "abaf7ea3-c1d3-5300-a347-07d5b6e4cc14_2c9d6cff-baed-4335-96a5-3a3293cfc79f",
+    "description": "This life cycle inventory dataset covers the activity 'treatment of sewage sludge, 97% water, WWT, WW from medium density board production, landfarming', located in the region 'RoW'. It produces -1 kg of 'sewage sludge, 97% water, WWT, WW from medium density board production' as its reference product.",
+    "ground_truth": {
+      "activity_name": "treatment of sewage sludge, 97% water, WWT, WW from medium density board production, landfarming",
+      "geography": "RoW",
+      "reference_product_name": "sewage sludge, 97% water, WWT, WW from medium density board production",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"treatment of sewage sludge, 97% water, WWT, WW from medium density board production, landfarming\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"sewage sludge, 97% water, WWT, WW from medium density board production\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "treatment of sewage sludge, 97% water, WWT, WW from medium density board production, landfarming",
+      "geography": "RoW",
+      "reference_product_name": "sewage sludge, 97% water, WWT, WW from medium density board production",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"treatment of sewage sludge, 97% water, WWT, WW from medium density board production, landfarming\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"sewage sludge, 97% water, WWT, WW from medium density board production\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "treatment of sewage sludge, 97% water, WWT, WW from medium density board production, landfarming",
+      "geography": "RoW",
+      "reference_product_name": "sewage sludge, 97% water, WWT, WW from medium density board production",
+      "reference_product_unit": "kg"
+    }
+  },
+  {
+    "id": 61,
+    "activity_uuid": "ef3d8db0-cf1d-535e-8174-b8f02315976d_c72cce08-d2b1-44cc-8410-df54f9326e69",
+    "description": "This life cycle inventory dataset covers the activity 'cable production, data cable in infrastructure', located in the region 'GLO'. It produces 1 m of 'cable, data cable in infrastructure' as its reference product.",
+    "ground_truth": {
+      "activity_name": "cable production, data cable in infrastructure",
+      "geography": "GLO",
+      "reference_product_name": "cable, data cable in infrastructure",
+      "reference_product_unit": "m"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"cable production, data cable in infrastructure\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"cable, data cable in infrastructure\",\n  \"reference_product_unit\": \"m\"\n}",
+    "gpt_parsed": {
+      "activity_name": "cable production, data cable in infrastructure",
+      "geography": "GLO",
+      "reference_product_name": "cable, data cable in infrastructure",
+      "reference_product_unit": "m"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"cable production, data cable in infrastructure\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"cable, data cable in infrastructure\",\n  \"reference_product_unit\": \"m\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "cable production, data cable in infrastructure",
+      "geography": "GLO",
+      "reference_product_name": "cable, data cable in infrastructure",
+      "reference_product_unit": "m"
+    }
+  },
+  {
+    "id": 62,
+    "activity_uuid": "2f83437d-a127-516c-a336-a21163877f38_c5651546-a49e-4c1d-b856-1cf358ab466a",
+    "description": "This life cycle inventory dataset covers the activity 'planing, lath, hardwood, u=20%', located in the region 'Europe without Switzerland'. It produces 1 kg of 'shavings, hardwood, loose, measured as dry mass' as its reference product.",
+    "ground_truth": {
+      "activity_name": "planing, lath, hardwood, u=20%",
+      "geography": "Europe without Switzerland",
+      "reference_product_name": "shavings, hardwood, loose, measured as dry mass",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"planing, lath, hardwood, u=20%\",\n  \"geography\": \"Europe without Switzerland\",\n  \"reference_product_name\": \"shavings, hardwood, loose, measured as dry mass\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "planing, lath, hardwood, u=20%",
+      "geography": "Europe without Switzerland",
+      "reference_product_name": "shavings, hardwood, loose, measured as dry mass",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"planing, lath, hardwood, u=20%\",\n  \"geography\": \"Europe without Switzerland\",\n  \"reference_product_name\": \"shavings, hardwood, loose, measured as dry mass\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "planing, lath, hardwood, u=20%",
+      "geography": "Europe without Switzerland",
+      "reference_product_name": "shavings, hardwood, loose, measured as dry mass",
+      "reference_product_unit": "kg"
+    }
+  },
+  {
+    "id": 63,
+    "activity_uuid": "cdb9d12b-97e2-5773-9584-ce04fe870e45_18dc1317-84b4-4681-a5f4-e296cf12f69e",
+    "description": "This life cycle inventory dataset covers the activity 'asbestos production, chrysotile type', located in the region 'GLO'. It produces 1 kg of 'asbestos, chrysotile type' as its reference product.",
+    "ground_truth": {
+      "activity_name": "asbestos production, chrysotile type",
+      "geography": "GLO",
+      "reference_product_name": "asbestos, chrysotile type",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"asbestos production, chrysotile type\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"asbestos, chrysotile type\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "asbestos production, chrysotile type",
+      "geography": "GLO",
+      "reference_product_name": "asbestos, chrysotile type",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"asbestos production, chrysotile type\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"asbestos, chrysotile type\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "asbestos production, chrysotile type",
+      "geography": "GLO",
+      "reference_product_name": "asbestos, chrysotile type",
+      "reference_product_unit": "kg"
+    }
+  },
+  {
+    "id": 64,
+    "activity_uuid": "1d816b11-2f75-5da9-9c64-8d51a0d02a03_66c93e71-f32b-4591-901c-55395db5c132",
+    "description": "This life cycle inventory dataset covers the activity 'electricity production, hydro, run-of-river', located in the region 'CA-PE'. It produces 1 kWh of 'electricity, high voltage' as its reference product.",
+    "ground_truth": {
+      "activity_name": "electricity production, hydro, run-of-river",
+      "geography": "CA-PE",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"electricity production, hydro, run-of-river\",\n  \"geography\": \"CA-PE\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gpt_parsed": {
+      "activity_name": "electricity production, hydro, run-of-river",
+      "geography": "CA-PE",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"electricity production, hydro, run-of-river\",\n  \"geography\": \"CA-PE\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "electricity production, hydro, run-of-river",
+      "geography": "CA-PE",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    }
+  },
+  {
+    "id": 65,
+    "activity_uuid": "8fb1b7b9-87c5-5ebe-b4ab-1d3db7e0b5f3_2743102a-d567-5f04-929e-af0a63566ddf",
+    "description": "This life cycle inventory dataset covers the activity 'market for sewage sludge, 97% water, WWT-SLF, municipal solid waste', located in the region 'NL'. It produces -1 kg of 'sewage sludge, 97% water, WWT-SLF, municipal solid waste' as its reference product.",
+    "ground_truth": {
+      "activity_name": "market for sewage sludge, 97% water, WWT-SLF, municipal solid waste",
+      "geography": "NL",
+      "reference_product_name": "sewage sludge, 97% water, WWT-SLF, municipal solid waste",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"market for sewage sludge, 97% water, WWT-SLF, municipal solid waste\",\n  \"geography\": \"NL\",\n  \"reference_product_name\": \"sewage sludge, 97% water, WWT-SLF, municipal solid waste\",\n  \"reference_product_unit\": \"-1 kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "market for sewage sludge, 97% water, WWT-SLF, municipal solid waste",
+      "geography": "NL",
+      "reference_product_name": "sewage sludge, 97% water, WWT-SLF, municipal solid waste",
+      "reference_product_unit": "-1 kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"market for sewage sludge, 97% water, WWT-SLF, municipal solid waste\",\n  \"geography\": \"NL\",\n  \"reference_product_name\": \"sewage sludge, 97% water, WWT-SLF, municipal solid waste\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "market for sewage sludge, 97% water, WWT-SLF, municipal solid waste",
+      "geography": "NL",
+      "reference_product_name": "sewage sludge, 97% water, WWT-SLF, municipal solid waste",
+      "reference_product_unit": "kg"
+    }
+  },
+  {
+    "id": 66,
+    "activity_uuid": "120f2d6f-a434-5f6f-b1dc-9faf4848519d_777bc26c-02e7-441e-a487-e4d4a87dae49",
+    "description": "This life cycle inventory dataset covers the activity 'treatment of waste emulsion paint, hazardous waste incineration', located in the region 'RoW'. It produces -1 kg of 'waste emulsion paint' as its reference product.",
+    "ground_truth": {
+      "activity_name": "treatment of waste emulsion paint, hazardous waste incineration",
+      "geography": "RoW",
+      "reference_product_name": "waste emulsion paint",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"treatment of waste emulsion paint, hazardous waste incineration\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"waste emulsion paint\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "treatment of waste emulsion paint, hazardous waste incineration",
+      "geography": "RoW",
+      "reference_product_name": "waste emulsion paint",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"treatment of waste emulsion paint, hazardous waste incineration\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"waste emulsion paint\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "treatment of waste emulsion paint, hazardous waste incineration",
+      "geography": "RoW",
+      "reference_product_name": "waste emulsion paint",
+      "reference_product_unit": "kg"
+    }
+  },
+  {
+    "id": 67,
+    "activity_uuid": "093f40be-88a1-5ae4-a9f8-571a4cef5a38_b963f477-4957-46ca-a791-a83e0883cf51",
+    "description": "This life cycle inventory dataset covers the activity 'market for heat and power co-generation unit, 6400kW thermal, components for electricity only', located in the region 'GLO'. It produces 1 unit of 'heat and power co-generation unit, 6400kW thermal, components for electricity only' as its reference product.",
+    "ground_truth": {
+      "activity_name": "market for heat and power co-generation unit, 6400kW thermal, components for electricity only",
+      "geography": "GLO",
+      "reference_product_name": "heat and power co-generation unit, 6400kW thermal, components for electricity only",
+      "reference_product_unit": "unit"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"market for heat and power co-generation unit, 6400kW thermal, components for electricity only\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"heat and power co-generation unit, 6400kW thermal, components for electricity only\",\n  \"reference_product_unit\": \"1\"\n}",
+    "gpt_parsed": {
+      "activity_name": "market for heat and power co-generation unit, 6400kW thermal, components for electricity only",
+      "geography": "GLO",
+      "reference_product_name": "heat and power co-generation unit, 6400kW thermal, components for electricity only",
+      "reference_product_unit": "1"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"market for heat and power co-generation unit, 6400kW thermal, components for electricity only\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"heat and power co-generation unit, 6400kW thermal, components for electricity only\",\n  \"reference_product_unit\": \"unit\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "market for heat and power co-generation unit, 6400kW thermal, components for electricity only",
+      "geography": "GLO",
+      "reference_product_name": "heat and power co-generation unit, 6400kW thermal, components for electricity only",
+      "reference_product_unit": "unit"
+    }
+  },
+  {
+    "id": 68,
+    "activity_uuid": "6009635d-0797-5ed2-9898-c5828dcaa3aa_318bc688-5b2f-56fa-8bab-3c071c0f52bb",
+    "description": "This life cycle inventory dataset covers the activity 'treatment of sewage sludge, 97% water, WWT-SLF, hard coal ash, landfarming', located in the region 'GLO'. It produces 1 kg of 'organic potassium fertiliser, as K2O' as its reference product.",
+    "ground_truth": {
+      "activity_name": "treatment of sewage sludge, 97% water, WWT-SLF, hard coal ash, landfarming",
+      "geography": "GLO",
+      "reference_product_name": "organic potassium fertiliser, as K2O",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"treatment of sewage sludge, 97% water, WWT-SLF, hard coal ash, landfarming\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"organic potassium fertiliser, as K2O\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "treatment of sewage sludge, 97% water, WWT-SLF, hard coal ash, landfarming",
+      "geography": "GLO",
+      "reference_product_name": "organic potassium fertiliser, as K2O",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"treatment of sewage sludge, 97% water, WWT-SLF, hard coal ash, landfarming\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"organic potassium fertiliser, as K2O\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "treatment of sewage sludge, 97% water, WWT-SLF, hard coal ash, landfarming",
+      "geography": "GLO",
+      "reference_product_name": "organic potassium fertiliser, as K2O",
+      "reference_product_unit": "kg"
+    }
+  },
+  {
+    "id": 69,
+    "activity_uuid": "8e3a9985-40e4-56b7-8cad-f7fd5d76d4e9_b7a0c0bc-fd0d-41b8-8ab7-15bc1a4a3063",
+    "description": "This life cycle inventory dataset covers the activity 'market for electricity, high voltage, for internal use in coal mining', located in the region 'GLO'. It produces 1 kWh of 'electricity, high voltage, for internal use in coal mining' as its reference product.",
+    "ground_truth": {
+      "activity_name": "market for electricity, high voltage, for internal use in coal mining",
+      "geography": "GLO",
+      "reference_product_name": "electricity, high voltage, for internal use in coal mining",
+      "reference_product_unit": "kWh"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"market for electricity, high voltage, for internal use in coal mining\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"electricity, high voltage, for internal use in coal mining\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gpt_parsed": {
+      "activity_name": "market for electricity, high voltage, for internal use in coal mining",
+      "geography": "GLO",
+      "reference_product_name": "electricity, high voltage, for internal use in coal mining",
+      "reference_product_unit": "kWh"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"market for electricity, high voltage, for internal use in coal mining\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"electricity, high voltage, for internal use in coal mining\",\n  \"reference_product_unit\": \"kWh\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "market for electricity, high voltage, for internal use in coal mining",
+      "geography": "GLO",
+      "reference_product_name": "electricity, high voltage, for internal use in coal mining",
+      "reference_product_unit": "kWh"
+    }
+  },
+  {
+    "id": 70,
+    "activity_uuid": "fdef3f4e-1f42-5092-87b3-6945f35aa0ff_759b89bd-3aa6-42ad-b767-5bb9ef5d331d",
+    "description": "This life cycle inventory dataset covers the activity 'electricity voltage transformation from high to medium voltage', located in the region 'LU'. It produces 1 kWh of 'electricity, medium voltage' as its reference product.",
+    "ground_truth": {
+      "activity_name": "electricity voltage transformation from high to medium voltage",
+      "geography": "LU",
+      "reference_product_name": "electricity, medium voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"electricity voltage transformation from high to medium voltage\",\n  \"geography\": \"LU\",\n  \"reference_product_name\": \"electricity, medium voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gpt_parsed": {
+      "activity_name": "electricity voltage transformation from high to medium voltage",
+      "geography": "LU",
+      "reference_product_name": "electricity, medium voltage",
+      "reference_product_unit": "kWh"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"electricity voltage transformation from high to medium voltage\",\n  \"geography\": \"LU\",\n  \"reference_product_name\": \"electricity, medium voltage\",\n  \"reference_product_unit\": \"kWh\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "electricity voltage transformation from high to medium voltage",
+      "geography": "LU",
+      "reference_product_name": "electricity, medium voltage",
+      "reference_product_unit": "kWh"
+    }
+  },
+  {
+    "id": 71,
+    "activity_uuid": "cfd9a6cf-6689-5672-84f1-cb747dcaa53d_155158d0-d566-487e-bfae-fff465d5dc52",
+    "description": "This life cycle inventory dataset covers the activity 'market for potato', located in the region 'CH'. It produces 1 kg of 'potato' as its reference product.",
+    "ground_truth": {
+      "activity_name": "market for potato",
+      "geography": "CH",
+      "reference_product_name": "potato",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"market for potato\",\n  \"geography\": \"CH\",\n  \"reference_product_name\": \"potato\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "market for potato",
+      "geography": "CH",
+      "reference_product_name": "potato",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"market for potato\",\n  \"geography\": \"CH\",\n  \"reference_product_name\": \"potato\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "market for potato",
+      "geography": "CH",
+      "reference_product_name": "potato",
+      "reference_product_unit": "kg"
+    }
+  },
+  {
+    "id": 72,
+    "activity_uuid": "72506225-8a33-52b9-a9db-a4127363b71d_66c93e71-f32b-4591-901c-55395db5c132",
+    "description": "This life cycle inventory dataset covers the activity 'market for electricity, high voltage', located in the region 'LB'. It produces 1 kWh of 'electricity, high voltage' as its reference product.",
+    "ground_truth": {
+      "activity_name": "market for electricity, high voltage",
+      "geography": "LB",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"market for electricity, high voltage\",\n  \"geography\": \"LB\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gpt_parsed": {
+      "activity_name": "market for electricity, high voltage",
+      "geography": "LB",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"market for electricity, high voltage\",\n  \"geography\": \"LB\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "market for electricity, high voltage",
+      "geography": "LB",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    }
+  },
+  {
+    "id": 73,
+    "activity_uuid": "a92db379-1706-5bab-9321-ec5fbc47c546_e92a03ce-ac0b-4acf-9306-ae1cdee9f6d2",
+    "description": "This life cycle inventory dataset covers the activity 'market for computer, desktop, without screen', located in the region 'GLO'. It produces 1 unit of 'computer, desktop, without screen' as its reference product.",
+    "ground_truth": {
+      "activity_name": "market for computer, desktop, without screen",
+      "geography": "GLO",
+      "reference_product_name": "computer, desktop, without screen",
+      "reference_product_unit": "unit"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"market for computer, desktop, without screen\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"computer, desktop, without screen\",\n  \"reference_product_unit\": \"1\"\n}",
+    "gpt_parsed": {
+      "activity_name": "market for computer, desktop, without screen",
+      "geography": "GLO",
+      "reference_product_name": "computer, desktop, without screen",
+      "reference_product_unit": "1"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"market for computer, desktop, without screen\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"computer, desktop, without screen\",\n  \"reference_product_unit\": \"unit\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "market for computer, desktop, without screen",
+      "geography": "GLO",
+      "reference_product_name": "computer, desktop, without screen",
+      "reference_product_unit": "unit"
+    }
+  },
+  {
+    "id": 74,
+    "activity_uuid": "1b4ef1ab-52bc-5ae4-adec-8a978e702f5f_759b89bd-3aa6-42ad-b767-5bb9ef5d331d",
+    "description": "This life cycle inventory dataset covers the activity 'electricity, from municipal waste incineration to generic market for electricity, medium voltage', located in the region 'LU'. It produces 1 kWh of 'electricity, medium voltage' as its reference product.",
+    "ground_truth": {
+      "activity_name": "electricity, from municipal waste incineration to generic market for electricity, medium voltage",
+      "geography": "LU",
+      "reference_product_name": "electricity, medium voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"electricity, from municipal waste incineration to generic market for electricity, medium voltage\",\n  \"geography\": \"LU\",\n  \"reference_product_name\": \"electricity, medium voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gpt_parsed": {
+      "activity_name": "electricity, from municipal waste incineration to generic market for electricity, medium voltage",
+      "geography": "LU",
+      "reference_product_name": "electricity, medium voltage",
+      "reference_product_unit": "kWh"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"electricity, from municipal waste incineration to generic market for electricity, medium voltage\",\n  \"geography\": \"LU\",\n  \"reference_product_name\": \"electricity, medium voltage\",\n  \"reference_product_unit\": \"kWh\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "electricity, from municipal waste incineration to generic market for electricity, medium voltage",
+      "geography": "LU",
+      "reference_product_name": "electricity, medium voltage",
+      "reference_product_unit": "kWh"
+    }
+  },
+  {
+    "id": 75,
+    "activity_uuid": "30a380eb-2f26-565f-b818-b0ccfd690b05_f3f85233-f9bb-4077-a6b0-2dd7bda88072",
+    "description": "This life cycle inventory dataset covers the activity 'treatment of bilge oil, hazardous waste incineration', located in the region 'RoW'. It produces -1 kg of 'bilge oil' as its reference product.",
+    "ground_truth": {
+      "activity_name": "treatment of bilge oil, hazardous waste incineration",
+      "geography": "RoW",
+      "reference_product_name": "bilge oil",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"treatment of bilge oil, hazardous waste incineration\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"bilge oil\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "treatment of bilge oil, hazardous waste incineration",
+      "geography": "RoW",
+      "reference_product_name": "bilge oil",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"treatment of bilge oil, hazardous waste incineration\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"bilge oil\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "treatment of bilge oil, hazardous waste incineration",
+      "geography": "RoW",
+      "reference_product_name": "bilge oil",
+      "reference_product_unit": "kg"
+    }
+  },
+  {
+    "id": 76,
+    "activity_uuid": "6186cc87-e8ce-56c0-99b6-9fa3d80ed94f_a1f426d3-41a4-48d7-acc9-e275965ee44a",
+    "description": "This life cycle inventory dataset covers the activity 'polysulfone production, for membrane filtration production', located in the region 'GLO'. It produces 1 kg of 'polysulfone' as its reference product.",
+    "ground_truth": {
+      "activity_name": "polysulfone production, for membrane filtration production",
+      "geography": "GLO",
+      "reference_product_name": "polysulfone",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"polysulfone production, for membrane filtration production\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"polysulfone\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "polysulfone production, for membrane filtration production",
+      "geography": "GLO",
+      "reference_product_name": "polysulfone",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"polysulfone production, for membrane filtration production\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"polysulfone\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "polysulfone production, for membrane filtration production",
+      "geography": "GLO",
+      "reference_product_name": "polysulfone",
+      "reference_product_unit": "kg"
+    }
+  },
+  {
+    "id": 77,
+    "activity_uuid": "4ea2368a-e200-546e-9049-1704bc142339_08b50381-c9ae-49ae-b279-5495b9f8f14a",
+    "description": "This life cycle inventory dataset covers the activity 'operation, computer, desktop, with cathode ray tube display, office use', located in the region 'RoW'. It produces 1 hour of 'operation, computer, desktop, office use' as its reference product.",
+    "ground_truth": {
+      "activity_name": "operation, computer, desktop, with cathode ray tube display, office use",
+      "geography": "RoW",
+      "reference_product_name": "operation, computer, desktop, office use",
+      "reference_product_unit": "hour"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"operation, computer, desktop, with cathode ray tube display, office use\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"operation, computer, desktop, office use\",\n  \"reference_product_unit\": \"hour\"\n}",
+    "gpt_parsed": {
+      "activity_name": "operation, computer, desktop, with cathode ray tube display, office use",
+      "geography": "RoW",
+      "reference_product_name": "operation, computer, desktop, office use",
+      "reference_product_unit": "hour"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"operation, computer, desktop, with cathode ray tube display, office use\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"operation, computer, desktop, office use\",\n  \"reference_product_unit\": \"hour\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "operation, computer, desktop, with cathode ray tube display, office use",
+      "geography": "RoW",
+      "reference_product_name": "operation, computer, desktop, office use",
+      "reference_product_unit": "hour"
+    }
+  },
+  {
+    "id": 78,
+    "activity_uuid": "64a03531-51ac-58bd-8c44-862688621dcd_090f56b8-6a83-48c1-ae26-234d04771e53",
+    "description": "This life cycle inventory dataset covers the activity 'transport, freight, light commercial vehicle, fleet average', located in the region 'Europe without Switzerland'. It produces 1 metric ton*km of 'transport, freight, light commercial vehicle, fleet average' as its reference product.",
+    "ground_truth": {
+      "activity_name": "transport, freight, light commercial vehicle, fleet average",
+      "geography": "Europe without Switzerland",
+      "reference_product_name": "transport, freight, light commercial vehicle, fleet average",
+      "reference_product_unit": "metric ton*km"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"transport, freight, light commercial vehicle, fleet average\",\n  \"geography\": \"Europe without Switzerland\",\n  \"reference_product_name\": \"transport, freight, light commercial vehicle, fleet average\",\n  \"reference_product_unit\": \"metric ton*km\"\n}",
+    "gpt_parsed": {
+      "activity_name": "transport, freight, light commercial vehicle, fleet average",
+      "geography": "Europe without Switzerland",
+      "reference_product_name": "transport, freight, light commercial vehicle, fleet average",
+      "reference_product_unit": "metric ton*km"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"transport, freight, light commercial vehicle, fleet average\",\n  \"geography\": \"Europe without Switzerland\",\n  \"reference_product_name\": \"transport, freight, light commercial vehicle, fleet average\",\n  \"reference_product_unit\": \"metric ton*km\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "transport, freight, light commercial vehicle, fleet average",
+      "geography": "Europe without Switzerland",
+      "reference_product_name": "transport, freight, light commercial vehicle, fleet average",
+      "reference_product_unit": "metric ton*km"
+    }
+  },
+  {
+    "id": 79,
+    "activity_uuid": "0e8cf6b2-2e3d-512f-9c1e-cf35e022398e_e31efe33-e07e-4f56-ab66-08b13bd19d37",
+    "description": "This life cycle inventory dataset covers the activity 'sugarcane production', located in the region 'BR-SP'. It produces 1 kg of 'sugarcane' as its reference product.",
+    "ground_truth": {
+      "activity_name": "sugarcane production",
+      "geography": "BR-SP",
+      "reference_product_name": "sugarcane",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"sugarcane production\",\n  \"geography\": \"BR-SP\",\n  \"reference_product_name\": \"sugarcane\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "sugarcane production",
+      "geography": "BR-SP",
+      "reference_product_name": "sugarcane",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"sugarcane production\",\n  \"geography\": \"BR-SP\",\n  \"reference_product_name\": \"sugarcane\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "sugarcane production",
+      "geography": "BR-SP",
+      "reference_product_name": "sugarcane",
+      "reference_product_unit": "kg"
+    }
+  },
+  {
+    "id": 80,
+    "activity_uuid": "994032f4-d45d-5266-9f7d-a53bbb35270c_ed50040b-8630-4560-9b12-dd6cb2c9d741",
+    "description": "This life cycle inventory dataset covers the activity 'carrot production', located in the region 'IL'. It produces 1 kg of 'carrot' as its reference product.",
+    "ground_truth": {
+      "activity_name": "carrot production",
+      "geography": "IL",
+      "reference_product_name": "carrot",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"carrot production\",\n  \"geography\": \"IL\",\n  \"reference_product_name\": \"carrot\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "carrot production",
+      "geography": "IL",
+      "reference_product_name": "carrot",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"carrot production\",\n  \"geography\": \"IL\",\n  \"reference_product_name\": \"carrot\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "carrot production",
+      "geography": "IL",
+      "reference_product_name": "carrot",
+      "reference_product_unit": "kg"
+    }
+  },
+  {
+    "id": 81,
+    "activity_uuid": "b522670b-f8c8-5173-8dbb-3b419827df11_1c5d51e7-9762-5fbb-b707-03198c65b424",
+    "description": "This life cycle inventory dataset covers the activity 'natural gas, burned in gas turbine', located in the region 'BR'. It produces 1 MJ of 'natural gas, burned in gas turbine' as its reference product.",
+    "ground_truth": {
+      "activity_name": "natural gas, burned in gas turbine",
+      "geography": "BR",
+      "reference_product_name": "natural gas, burned in gas turbine",
+      "reference_product_unit": "MJ"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"natural gas, burned in gas turbine\",\n  \"geography\": \"BR\",\n  \"reference_product_name\": \"natural gas, burned in gas turbine\",\n  \"reference_product_unit\": \"MJ\"\n}",
+    "gpt_parsed": {
+      "activity_name": "natural gas, burned in gas turbine",
+      "geography": "BR",
+      "reference_product_name": "natural gas, burned in gas turbine",
+      "reference_product_unit": "MJ"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"natural gas, burned in gas turbine\",\n  \"geography\": \"BR\",\n  \"reference_product_name\": \"natural gas, burned in gas turbine\",\n  \"reference_product_unit\": \"MJ\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "natural gas, burned in gas turbine",
+      "geography": "BR",
+      "reference_product_name": "natural gas, burned in gas turbine",
+      "reference_product_unit": "MJ"
+    }
+  },
+  {
+    "id": 82,
+    "activity_uuid": "d1faa782-5f0b-59d3-b02a-5497dc6a7641_d69294d7-8d64-4915-a896-9996a014c410",
+    "description": "This life cycle inventory dataset covers the activity 'market for electricity, low voltage', located in the region 'LY'. It produces 1 kWh of 'electricity, low voltage' as its reference product.",
+    "ground_truth": {
+      "activity_name": "market for electricity, low voltage",
+      "geography": "LY",
+      "reference_product_name": "electricity, low voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"market for electricity, low voltage\",\n  \"geography\": \"LY\",\n  \"reference_product_name\": \"electricity, low voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gpt_parsed": {
+      "activity_name": "market for electricity, low voltage",
+      "geography": "LY",
+      "reference_product_name": "electricity, low voltage",
+      "reference_product_unit": "kWh"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"market for electricity, low voltage\",\n  \"geography\": \"LY\",\n  \"reference_product_name\": \"electricity, low voltage\",\n  \"reference_product_unit\": \"kWh\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "market for electricity, low voltage",
+      "geography": "LY",
+      "reference_product_name": "electricity, low voltage",
+      "reference_product_unit": "kWh"
+    }
+  },
+  {
+    "id": 83,
+    "activity_uuid": "9eb2a885-5fa1-5eaf-96e6-6bc008743de5_fea783cd-1b3e-47ed-a4a1-346094ebc39a",
+    "description": "This life cycle inventory dataset covers the activity 'transport, freight, lorry, >32 metric ton, diesel, EURO 4', located in the region 'RER'. It produces 1 metric ton*km of 'transport, freight, lorry, >32 metric ton, diesel, EURO 4' as its reference product.",
+    "ground_truth": {
+      "activity_name": "transport, freight, lorry, >32 metric ton, diesel, EURO 4",
+      "geography": "RER",
+      "reference_product_name": "transport, freight, lorry, >32 metric ton, diesel, EURO 4",
+      "reference_product_unit": "metric ton*km"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"transport, freight, lorry, >32 metric ton, diesel, EURO 4\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"transport, freight, lorry, >32 metric ton, diesel, EURO 4\",\n  \"reference_product_unit\": \"metric ton*km\"\n}",
+    "gpt_parsed": {
+      "activity_name": "transport, freight, lorry, >32 metric ton, diesel, EURO 4",
+      "geography": "RER",
+      "reference_product_name": "transport, freight, lorry, >32 metric ton, diesel, EURO 4",
+      "reference_product_unit": "metric ton*km"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"transport, freight, lorry, >32 metric ton, diesel, EURO 4\",\n  \"geography\": \"RER\",\n  \"reference_product_name\": \"transport, freight, lorry, >32 metric ton, diesel, EURO 4\",\n  \"reference_product_unit\": \"metric ton*km\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "transport, freight, lorry, >32 metric ton, diesel, EURO 4",
+      "geography": "RER",
+      "reference_product_name": "transport, freight, lorry, >32 metric ton, diesel, EURO 4",
+      "reference_product_unit": "metric ton*km"
+    }
+  },
+  {
+    "id": 84,
+    "activity_uuid": "4359bc2f-9014-50b0-bd7c-15d7390081d7_ec37ac48-f508-4385-99a5-5ac161850928",
+    "description": "This life cycle inventory dataset covers the activity 'treatment of residues, MSWI[F]-WWT-SLF, waste emulsion paint, residual material landfill', located in the region 'CH'. It produces -1 kg of 'residues, MSWI[F]-WWT-SLF, waste emulsion paint' as its reference product.",
+    "ground_truth": {
+      "activity_name": "treatment of residues, MSWI[F]-WWT-SLF, waste emulsion paint, residual material landfill",
+      "geography": "CH",
+      "reference_product_name": "residues, MSWI[F]-WWT-SLF, waste emulsion paint",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"treatment of residues, MSWI[F]-WWT-SLF, waste emulsion paint, residual material landfill\",\n  \"geography\": \"CH\",\n  \"reference_product_name\": \"residues, MSWI[F]-WWT-SLF, waste emulsion paint\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "treatment of residues, MSWI[F]-WWT-SLF, waste emulsion paint, residual material landfill",
+      "geography": "CH",
+      "reference_product_name": "residues, MSWI[F]-WWT-SLF, waste emulsion paint",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"treatment of residues, MSWI[F]-WWT-SLF, waste emulsion paint, residual material landfill\",\n  \"geography\": \"CH\",\n  \"reference_product_name\": \"residues, MSWI[F]-WWT-SLF, waste emulsion paint\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "treatment of residues, MSWI[F]-WWT-SLF, waste emulsion paint, residual material landfill",
+      "geography": "CH",
+      "reference_product_name": "residues, MSWI[F]-WWT-SLF, waste emulsion paint",
+      "reference_product_unit": "kg"
+    }
+  },
+  {
+    "id": 85,
+    "activity_uuid": "0e79bea2-7ad0-5ada-b842-14f9f8dee212_98556c18-39ab-4d83-b9b9-cf9ae41566a9",
+    "description": "This life cycle inventory dataset covers the activity 'market for photovoltaic panel, single-Si wafer', located in the region 'GLO'. It produces 1 m2 of 'photovoltaic panel, single-Si wafer' as its reference product.",
+    "ground_truth": {
+      "activity_name": "market for photovoltaic panel, single-Si wafer",
+      "geography": "GLO",
+      "reference_product_name": "photovoltaic panel, single-Si wafer",
+      "reference_product_unit": "m2"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"market for photovoltaic panel, single-Si wafer\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"photovoltaic panel, single-Si wafer\",\n  \"reference_product_unit\": \"m2\"\n}",
+    "gpt_parsed": {
+      "activity_name": "market for photovoltaic panel, single-Si wafer",
+      "geography": "GLO",
+      "reference_product_name": "photovoltaic panel, single-Si wafer",
+      "reference_product_unit": "m2"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"market for photovoltaic panel, single-Si wafer\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"photovoltaic panel, single-Si wafer\",\n  \"reference_product_unit\": \"m2\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "market for photovoltaic panel, single-Si wafer",
+      "geography": "GLO",
+      "reference_product_name": "photovoltaic panel, single-Si wafer",
+      "reference_product_unit": "m2"
+    }
+  },
+  {
+    "id": 86,
+    "activity_uuid": "f83cfad0-e1e0-5dcf-9b88-0b6b4b119708_76c62dcf-b87a-4509-9682-514079cf7975",
+    "description": "This life cycle inventory dataset covers the activity 'treatment of waste polyvinylchloride product, collection for final disposal', located in the region 'RoW'. It produces -1 kg of 'waste polyvinylchloride product' as its reference product.",
+    "ground_truth": {
+      "activity_name": "treatment of waste polyvinylchloride product, collection for final disposal",
+      "geography": "RoW",
+      "reference_product_name": "waste polyvinylchloride product",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"treatment of waste polyvinylchloride product, collection for final disposal\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"waste polyvinylchloride product\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "treatment of waste polyvinylchloride product, collection for final disposal",
+      "geography": "RoW",
+      "reference_product_name": "waste polyvinylchloride product",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"treatment of waste polyvinylchloride product, collection for final disposal\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"waste polyvinylchloride product\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "treatment of waste polyvinylchloride product, collection for final disposal",
+      "geography": "RoW",
+      "reference_product_name": "waste polyvinylchloride product",
+      "reference_product_unit": "kg"
+    }
+  },
+  {
+    "id": 87,
+    "activity_uuid": "750cb680-aedf-562d-9fbd-54f863885146_3b01838a-28d0-43f5-8024-3fad9a5392c2",
+    "description": "This life cycle inventory dataset covers the activity 'clinker production', located in the region 'US'. It produces -1 kg of 'sewage sludge, dried' as its reference product.",
+    "ground_truth": {
+      "activity_name": "clinker production",
+      "geography": "US",
+      "reference_product_name": "sewage sludge, dried",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"clinker production\",\n  \"geography\": \"US\",\n  \"reference_product_name\": \"sewage sludge, dried\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "clinker production",
+      "geography": "US",
+      "reference_product_name": "sewage sludge, dried",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"clinker production\",\n  \"geography\": \"US\",\n  \"reference_product_name\": \"sewage sludge, dried\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "clinker production",
+      "geography": "US",
+      "reference_product_name": "sewage sludge, dried",
+      "reference_product_unit": "kg"
+    }
+  },
+  {
+    "id": 88,
+    "activity_uuid": "0dc50386-4ea1-5b33-a136-f1e5e60701fa_d69294d7-8d64-4915-a896-9996a014c410",
+    "description": "This life cycle inventory dataset covers the activity 'electricity production, photovoltaic, 3kWp slanted-roof installation, single-Si, panel, mounted', located in the region 'CN-HE'. It produces 1 kWh of 'electricity, low voltage' as its reference product.",
+    "ground_truth": {
+      "activity_name": "electricity production, photovoltaic, 3kWp slanted-roof installation, single-Si, panel, mounted",
+      "geography": "CN-HE",
+      "reference_product_name": "electricity, low voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"electricity production, photovoltaic, 3kWp slanted-roof installation, single-Si, panel, mounted\",\n  \"geography\": \"CN-HE\",\n  \"reference_product_name\": \"electricity, low voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gpt_parsed": {
+      "activity_name": "electricity production, photovoltaic, 3kWp slanted-roof installation, single-Si, panel, mounted",
+      "geography": "CN-HE",
+      "reference_product_name": "electricity, low voltage",
+      "reference_product_unit": "kWh"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"electricity production, photovoltaic, 3kWp slanted-roof installation, single-Si, panel, mounted\",\n  \"geography\": \"CN-HE\",\n  \"reference_product_name\": \"electricity, low voltage\",\n  \"reference_product_unit\": \"kWh\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "electricity production, photovoltaic, 3kWp slanted-roof installation, single-Si, panel, mounted",
+      "geography": "CN-HE",
+      "reference_product_name": "electricity, low voltage",
+      "reference_product_unit": "kWh"
+    }
+  },
+  {
+    "id": 89,
+    "activity_uuid": "6bbc966e-3243-55ab-900c-1b0fbac6ab16_69ca254b-a068-4782-8fc4-e82aec2d1582",
+    "description": "This life cycle inventory dataset covers the activity 'sewer grid construction, 1.1E10l/year, 242 km', located in the region 'RoW'. It produces 1 km of 'sewer grid, 1.1E10l/year, 242 km' as its reference product.",
+    "ground_truth": {
+      "activity_name": "sewer grid construction, 1.1E10l/year, 242 km",
+      "geography": "RoW",
+      "reference_product_name": "sewer grid, 1.1E10l/year, 242 km",
+      "reference_product_unit": "km"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"sewer grid construction\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"sewer grid\",\n  \"reference_product_unit\": \"km\"\n}",
+    "gpt_parsed": {
+      "activity_name": "sewer grid construction",
+      "geography": "RoW",
+      "reference_product_name": "sewer grid",
+      "reference_product_unit": "km"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"sewer grid construction, 1.1E10l/year, 242 km\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"sewer grid, 1.1E10l/year, 242 km\",\n  \"reference_product_unit\": \"km\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "sewer grid construction, 1.1E10l/year, 242 km",
+      "geography": "RoW",
+      "reference_product_name": "sewer grid, 1.1E10l/year, 242 km",
+      "reference_product_unit": "km"
+    }
+  },
+  {
+    "id": 90,
+    "activity_uuid": "fc33c6a3-f2b5-58c4-b227-eddeefd162a3_76ab0018-e176-43e0-b42c-12e82b937fef",
+    "description": "This life cycle inventory dataset covers the activity 'cement production, type I-PM', located in the region 'US'. It produces -1 kg of 'hard coal ash' as its reference product.",
+    "ground_truth": {
+      "activity_name": "cement production, type I-PM",
+      "geography": "US",
+      "reference_product_name": "hard coal ash",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"cement production, type I-PM\",\n  \"geography\": \"US\",\n  \"reference_product_name\": \"hard coal ash\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "cement production, type I-PM",
+      "geography": "US",
+      "reference_product_name": "hard coal ash",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"cement production, type I-PM\",\n  \"geography\": \"US\",\n  \"reference_product_name\": \"hard coal ash\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "cement production, type I-PM",
+      "geography": "US",
+      "reference_product_name": "hard coal ash",
+      "reference_product_unit": "kg"
+    }
+  },
+  {
+    "id": 91,
+    "activity_uuid": "51021dd0-770f-53f1-827d-5684c6a111fd_6d153080-c3aa-473e-8c78-9bd46e07ee4e",
+    "description": "This life cycle inventory dataset covers the activity 'electricity production, high voltage, for Swiss Federal Railways', located in the region 'CH'. It produces 1 kWh of 'electricity, high voltage, for Swiss Federal Railways' as its reference product.",
+    "ground_truth": {
+      "activity_name": "electricity production, high voltage, for Swiss Federal Railways",
+      "geography": "CH",
+      "reference_product_name": "electricity, high voltage, for Swiss Federal Railways",
+      "reference_product_unit": "kWh"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"electricity production, high voltage, for Swiss Federal Railways\",\n  \"geography\": \"CH\",\n  \"reference_product_name\": \"electricity, high voltage, for Swiss Federal Railways\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gpt_parsed": {
+      "activity_name": "electricity production, high voltage, for Swiss Federal Railways",
+      "geography": "CH",
+      "reference_product_name": "electricity, high voltage, for Swiss Federal Railways",
+      "reference_product_unit": "kWh"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"electricity production, high voltage, for Swiss Federal Railways\",\n  \"geography\": \"CH\",\n  \"reference_product_name\": \"electricity, high voltage, for Swiss Federal Railways\",\n  \"reference_product_unit\": \"kWh\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "electricity production, high voltage, for Swiss Federal Railways",
+      "geography": "CH",
+      "reference_product_name": "electricity, high voltage, for Swiss Federal Railways",
+      "reference_product_unit": "kWh"
+    }
+  },
+  {
+    "id": 92,
+    "activity_uuid": "81118e08-4122-520a-b822-d59f4fdbc33f_76ab0018-e176-43e0-b42c-12e82b937fef",
+    "description": "This life cycle inventory dataset covers the activity 'treatment of hard coal ash, residual material landfill', located in the region 'AT'. It produces -1 kg of 'hard coal ash' as its reference product.",
+    "ground_truth": {
+      "activity_name": "treatment of hard coal ash, residual material landfill",
+      "geography": "AT",
+      "reference_product_name": "hard coal ash",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"treatment of hard coal ash, residual material landfill\",\n  \"geography\": \"AT\",\n  \"reference_product_name\": \"hard coal ash\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "treatment of hard coal ash, residual material landfill",
+      "geography": "AT",
+      "reference_product_name": "hard coal ash",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"treatment of hard coal ash, residual material landfill\",\n  \"geography\": \"AT\",\n  \"reference_product_name\": \"hard coal ash\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "treatment of hard coal ash, residual material landfill",
+      "geography": "AT",
+      "reference_product_name": "hard coal ash",
+      "reference_product_unit": "kg"
+    }
+  },
+  {
+    "id": 93,
+    "activity_uuid": "503b7fbb-b94f-5dda-a762-a811e98e4cd9_2552d148-587a-4fcf-be94-991383a8160e",
+    "description": "This life cycle inventory dataset covers the activity 'pyrethroid-compound production', located in the region 'RoW'. It produces 1 kg of 'pyrethroid-compound' as its reference product.",
+    "ground_truth": {
+      "activity_name": "pyrethroid-compound production",
+      "geography": "RoW",
+      "reference_product_name": "pyrethroid-compound",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"pyrethroid-compound production\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"pyrethroid-compound\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "pyrethroid-compound production",
+      "geography": "RoW",
+      "reference_product_name": "pyrethroid-compound",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"pyrethroid-compound production\",\n  \"geography\": \"RoW\",\n  \"reference_product_name\": \"pyrethroid-compound\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "pyrethroid-compound production",
+      "geography": "RoW",
+      "reference_product_name": "pyrethroid-compound",
+      "reference_product_unit": "kg"
+    }
+  },
+  {
+    "id": 94,
+    "activity_uuid": "9a6fe3e7-5504-5060-9411-6beced45b4bf_759b89bd-3aa6-42ad-b767-5bb9ef5d331d",
+    "description": "This life cycle inventory dataset covers the activity 'treatment of sludge from pulp and paper production, sanitary landfill', located in the region 'Europe without Switzerland'. It produces 1 kWh of 'electricity, medium voltage' as its reference product.",
+    "ground_truth": {
+      "activity_name": "treatment of sludge from pulp and paper production, sanitary landfill",
+      "geography": "Europe without Switzerland",
+      "reference_product_name": "electricity, medium voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"treatment of sludge from pulp and paper production, sanitary landfill\",\n  \"geography\": \"Europe without Switzerland\",\n  \"reference_product_name\": \"electricity, medium voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gpt_parsed": {
+      "activity_name": "treatment of sludge from pulp and paper production, sanitary landfill",
+      "geography": "Europe without Switzerland",
+      "reference_product_name": "electricity, medium voltage",
+      "reference_product_unit": "kWh"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"treatment of sludge from pulp and paper production, sanitary landfill\",\n  \"geography\": \"Europe without Switzerland\",\n  \"reference_product_name\": \"electricity, medium voltage\",\n  \"reference_product_unit\": \"kWh\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "treatment of sludge from pulp and paper production, sanitary landfill",
+      "geography": "Europe without Switzerland",
+      "reference_product_name": "electricity, medium voltage",
+      "reference_product_unit": "kWh"
+    }
+  },
+  {
+    "id": 95,
+    "activity_uuid": "d56e1e55-28e0-5ea4-9e97-d15ee15d4c7b_36a8a484-d7c0-4bb3-a7c3-073bf3be3185",
+    "description": "This life cycle inventory dataset covers the activity 'market for transport, passenger, coach, diesel', located in the region 'GLO'. It produces 1 person*km of 'transport, passenger, coach, diesel' as its reference product.",
+    "ground_truth": {
+      "activity_name": "market for transport, passenger, coach, diesel",
+      "geography": "GLO",
+      "reference_product_name": "transport, passenger, coach, diesel",
+      "reference_product_unit": "person*km"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"market for transport, passenger, coach, diesel\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"transport, passenger, coach, diesel\",\n  \"reference_product_unit\": \"person*km\"\n}",
+    "gpt_parsed": {
+      "activity_name": "market for transport, passenger, coach, diesel",
+      "geography": "GLO",
+      "reference_product_name": "transport, passenger, coach, diesel",
+      "reference_product_unit": "person*km"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"market for transport, passenger, coach, diesel\",\n  \"geography\": \"GLO\",\n  \"reference_product_name\": \"transport, passenger, coach, diesel\",\n  \"reference_product_unit\": \"person*km\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "market for transport, passenger, coach, diesel",
+      "geography": "GLO",
+      "reference_product_name": "transport, passenger, coach, diesel",
+      "reference_product_unit": "person*km"
+    }
+  },
+  {
+    "id": 96,
+    "activity_uuid": "5a1771cd-a79c-5e9a-b456-00d44583478d_27da8130-82ba-485c-a800-b89efdcb0491",
+    "description": "This life cycle inventory dataset covers the activity 'treatment of municipal solid waste, unsanitary landfill', located in the region 'LU'. It produces -1 kg of 'municipal solid waste' as its reference product.",
+    "ground_truth": {
+      "activity_name": "treatment of municipal solid waste, unsanitary landfill",
+      "geography": "LU",
+      "reference_product_name": "municipal solid waste",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"treatment of municipal solid waste, unsanitary landfill\",\n  \"geography\": \"LU\",\n  \"reference_product_name\": \"municipal solid waste\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "treatment of municipal solid waste, unsanitary landfill",
+      "geography": "LU",
+      "reference_product_name": "municipal solid waste",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"treatment of municipal solid waste, unsanitary landfill\",\n  \"geography\": \"LU\",\n  \"reference_product_name\": \"municipal solid waste\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "treatment of municipal solid waste, unsanitary landfill",
+      "geography": "LU",
+      "reference_product_name": "municipal solid waste",
+      "reference_product_unit": "kg"
+    }
+  },
+  {
+    "id": 97,
+    "activity_uuid": "ca3ab690-29e8-5123-ab8f-e7f1bc04b97b_66c93e71-f32b-4591-901c-55395db5c132",
+    "description": "This life cycle inventory dataset covers the activity 'electricity production, oil', located in the region 'BR-North-eastern grid'. It produces 1 kWh of 'electricity, high voltage' as its reference product.",
+    "ground_truth": {
+      "activity_name": "electricity production, oil",
+      "geography": "BR-North-eastern grid",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"electricity production, oil\",\n  \"geography\": \"BR-North-eastern grid\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gpt_parsed": {
+      "activity_name": "electricity production, oil",
+      "geography": "BR-North-eastern grid",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"electricity production, oil\",\n  \"geography\": \"BR-North-eastern grid\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "electricity production, oil",
+      "geography": "BR-North-eastern grid",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    }
+  },
+  {
+    "id": 98,
+    "activity_uuid": "170a08d2-509f-5b9e-a4e9-5d4831124fbf_66c93e71-f32b-4591-901c-55395db5c132",
+    "description": "This life cycle inventory dataset covers the activity 'electricity production, oil', located in the region 'IN-MP'. It produces 1 kWh of 'electricity, high voltage' as its reference product.",
+    "ground_truth": {
+      "activity_name": "electricity production, oil",
+      "geography": "IN-MP",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"electricity production, oil\",\n  \"geography\": \"IN-MP\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}",
+    "gpt_parsed": {
+      "activity_name": "electricity production, oil",
+      "geography": "IN-MP",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"electricity production, oil\",\n  \"geography\": \"IN-MP\",\n  \"reference_product_name\": \"electricity, high voltage\",\n  \"reference_product_unit\": \"kWh\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "electricity production, oil",
+      "geography": "IN-MP",
+      "reference_product_name": "electricity, high voltage",
+      "reference_product_unit": "kWh"
+    }
+  },
+  {
+    "id": 99,
+    "activity_uuid": "397859a5-d70d-5f67-946e-868928f66cb5_84bc6ba7-876d-4ba9-b983-f74ce3fa2a80",
+    "description": "This life cycle inventory dataset covers the activity 'ethanol production from whey', located in the region 'CH'. It produces 1 kg of 'protein concentrate, 8% in water, from whey' as its reference product.",
+    "ground_truth": {
+      "activity_name": "ethanol production from whey",
+      "geography": "CH",
+      "reference_product_name": "protein concentrate, 8% in water, from whey",
+      "reference_product_unit": "kg"
+    },
+    "gpt_raw": "{\n  \"activity_name\": \"ethanol production from whey\",\n  \"geography\": \"CH\",\n  \"reference_product_name\": \"protein concentrate, 8% in water, from whey\",\n  \"reference_product_unit\": \"kg\"\n}",
+    "gpt_parsed": {
+      "activity_name": "ethanol production from whey",
+      "geography": "CH",
+      "reference_product_name": "protein concentrate, 8% in water, from whey",
+      "reference_product_unit": "kg"
+    },
+    "claude_raw": "```json\n{\n  \"activity_name\": \"ethanol production from whey\",\n  \"geography\": \"CH\",\n  \"reference_product_name\": \"protein concentrate, 8% in water, from whey\",\n  \"reference_product_unit\": \"kg\"\n}\n```",
+    "claude_parsed": {
+      "activity_name": "ethanol production from whey",
+      "geography": "CH",
+      "reference_product_name": "protein concentrate, 8% in water, from whey",
+      "reference_product_unit": "kg"
+    }
+  }
+]
