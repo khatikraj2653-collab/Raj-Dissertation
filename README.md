@@ -1,6 +1,6 @@
 # Raj-Dissertation
 
-MSc Applied AI dissertation project by Raj Khatik, *"Understanding the Role of Artificial Intelligence in Life Cycle Assessment"*, WMG, University of Warwick, supervised by Dr. You Wu, completed September 2026. This repository holds the technical evaluation component of the dissertation: an LLM benchmarking pipeline that tests how accurately large language models (Claude, GPT, Gemini, Llama, GPT-OSS) can extract structured Life Cycle Inventory (LCI) fields from natural-language descriptions of ecoinvent activities, alongside a complementary unsupervised-learning pipeline that clusters those same activities by environmental impact profile and flags statistical anomalies.
+MSc Applied AI dissertation project by Raj Khatik, *"Understanding the Role of Artificial Intelligence in Life Cycle Assessment"*, WMG, University of Warwick, completed September 2026. This repository holds the technical evaluation component of the dissertation: an LLM benchmarking pipeline that tests how accurately large language models (Claude, GPT, Gemini, Llama, GPT-OSS) can extract structured Life Cycle Inventory (LCI) fields from natural-language descriptions of ecoinvent activities, alongside a complementary unsupervised-learning pipeline that clusters those same activities by environmental impact profile and flags statistical anomalies.
 
 ## Stack
 
