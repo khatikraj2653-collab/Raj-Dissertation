@@ -1,5 +1,7 @@
 .env
 data/*.xlsx
+data/clean_features.csv
+data/reduced_features.csv
 __pycache__/
 *.pyc
 .venv/
