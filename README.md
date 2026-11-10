@@ -71,6 +71,6 @@ flowchart TD
 
 ## Repository structure
 
-- **`data/`** — the raw ecoinvent LCIA workbook (`RAJ_DISS.xlsx`, gitignored), derived feature CSVs (`clean_features.csv`, `reduced_features.csv`), and generated LLM test sets (`test_set.json`, `test_set_200.json`, `test_set_hard.json`) built by the sampling scripts.
+- **`data/`** — generated LLM test sets (`test_set.json`, `test_set_200.json`, `test_set_hard.json`) built by the sampling scripts. The raw ecoinvent LCIA workbook (`RAJ_DISS.xlsx`) and the feature CSVs derived from it (`clean_features.csv`, `reduced_features.csv`) are not included, because ecoinvent is a licensed database. With your own ecoinvent access, place the workbook in `data/` and run `scripts/prepare_features.py` and then `scripts/select_representative_features.py` to regenerate them.
 - **`scripts/`** — the pipeline code: test-set builders, prompt templates, per-model API call wrappers (Claude/GPT/Gemini/Llama/GPT-OSS), scoring/statistical-testing scripts for the extraction and drafting tasks, and the feature-preparation/clustering/anomaly-detection scripts for the environmental-profile analysis.
 - **`results/`** — all pipeline outputs: raw and parsed model responses, accuracy/statistical-test summaries (Cochran's Q, Bonferroni-corrected McNemar's), goal-and-scope draft text and rubric scores, clustering/anomaly CSVs, and the indicator correlation/redundancy analysis.
